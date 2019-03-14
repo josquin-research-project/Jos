@@ -10,7 +10,7 @@
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
 *I"Bassus	*	*I"Tenor	*	*I"Vagans	*	*I"Altus	*	*I"Discantus	*
 *I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'D	*
-*clefF4	*	*clefGv4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
@@ -35,9 +35,9 @@
 0AA]	.	1E]	.	0A]	.	0c	.	1cc	des
 .	.	1F	.	.	.	.	.	1a	fon-
 =9	=	=9	=	=9	=	=9	=	=9	=
-0r	.	0G	.	0r	.	0d	de-	[0b	-tai-
+0r	.	0G	.	0r	.	0d	de-	[0b-i	-tai-
 =10	=	=10	=	=10	=	=10	=	=10	=
-1r	.	0G	-ter-	0r	.	[0d	-es-	0b]	.
+1r	.	0G	-ter-	0r	.	[0d	-es-	0b-]	.
 1GG	de-	.	.	.	.	.	.	.	.
 =11	=	=11	=	=11	=	=11	=	=11	=
 1D	-es-	1F	.	0A	de-	1d]	.	[0a	-nes,

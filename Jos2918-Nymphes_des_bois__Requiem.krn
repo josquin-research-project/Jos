@@ -8,14 +8,14 @@
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
-*I"Bassus	*	*I"Vagans	*	*I"Tenor	*	*I"Altus	*	*I"Discantus	*
+*I"Bassus	*	*I"Tenor	*	*I"Vagans	*	*I"Altus	*	*I"Discantus	*
 *I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'D	*
-*clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*clefF4	*	*clefGv4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=	=1-	=	=1-	=	=1-	=	=1-	=
-!	!	!LO:TX:Z=16:t=Requiem chant, transposed down a second	!	!	!	!	!	!	!
+!	!	!LO:TX:Z=16:t=Canon. Pour euiter noyse et debas/Prenez ung demy ton plus bas [Requiem chant, transposed down a second]	!	!	!	!	!	!	!
 0r	.	[0E	Re-	0r	.	0e	Nym-	0e	Nym-
 =2	=	=2	=	=2	=	=2	=	=2	=
 0r	.	0E]	.	0r	.	0e	-phes	0g	-phes

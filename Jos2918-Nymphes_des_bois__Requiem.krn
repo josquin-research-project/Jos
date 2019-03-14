@@ -16,20 +16,20 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=	=1-	=	=1-	=	=1-	=	=1-	=
 !	!	!LO:TX:Z=16:t=Requiem chant, transposed down a second	!	!	!	!	!	!	!
-0r	.	[0E	.	0r	.	0e	Nym-	0e	Nym-
+0r	.	[0E	Re-	0r	.	0e	Nym-	0e	Nym-
 =2	=	=2	=	=2	=	=2	=	=2	=
 0r	.	0E]	.	0r	.	0e	-phes	0g	-phes
 =3	=	=3	=	=3	=	=3	=	=3	=
 0r	.	0F	.	0r	.	0A	des	1.a	des
 .	.	.	.	.	.	.	.	2b\	.
 =4	=	=4	=	=4	=	=4	=	=4	=
-0AA	Nym-	0E	.	0A	Nym-	[0e	bois,	[0cc	bois,
+0AA	Nym-	0E	-qui-	0A	Nym-	[0e	bois,	[0cc	bois,
 =5	=	=5	=	=5	=	=5	=	=5	=
-0AA	-phes	0E	.	0A	-phes	0e]	.	0cc]	.
+0AA	-phes	0E	-em	0A	-phes	0e]	.	0cc]	.
 =6	=	=6	=	=6	=	=6	=	=6	=
 0BB	des	0r	.	0D	des	0d	.	0dd	de-
 =7	=	=7	=	=7	=	=7	=	=7	=
-[0AA	bois,	[0E	.	[0A	bois,	0e	.	1cc	-es-
+[0AA	bois,	[0E	e-	[0A	bois,	0e	.	1cc	-es-
 .	.	.	.	.	.	.	.	1cc	-ses
 =8	=	=8	=	=8	=	=8	=	=8	=
 0AA]	.	1E]	.	0A]	.	0c	.	1cc	des
@@ -37,7 +37,7 @@
 =9	=	=9	=	=9	=	=9	=	=9	=
 0r	.	0G	.	0r	.	0d	de-	[0b	-tai-
 =10	=	=10	=	=10	=	=10	=	=10	=
-1r	.	0G	.	0r	.	[0d	-es-	0b]	.
+1r	.	0G	-ter-	0r	.	[0d	-es-	0b]	.
 1GG	de-	.	.	.	.	.	.	.	.
 =11	=	=11	=	=11	=	=11	=	=11	=
 1D	-es-	1F	.	0A	de-	1d]	.	[0a	-nes,
@@ -46,7 +46,7 @@
 0D	des	0F	.	1A	-es-	1d	des	0a]	.
 .	.	.	.	1A	-ses	[1f	fon-	.	.
 =13	=	=13	=	=13	=	=13	=	=13	=
-0D	fon-	0F	.	1A	des	2f\]	.	0r	.
+0D	fon-	0F	-nam,	1A	des	2f\]	.	0r	.
 .	.	.	.	.	.	2e\	.	.	.
 .	.	.	.	[1B-	fon-	1d	.	.	.
 =14	=	=14	=	=14	=	=14	=	=14	=
@@ -57,7 +57,7 @@
 0BB-i	.	0r	.	1A]	.	0d	.	0r	.
 .	.	.	.	1G	.	.	.	.	.
 =16	=	=16	=	=16	=	=16	=	=16	=
-[0AA	-nes	[0E	.	1.A	-nes	1c	-nes	0cc	Chan-
+[0AA	-nes	[0E	do-	1.A	-nes	1c	-nes	0cc	Chan-
 .	.	.	.	.	.	1r	.	.	.
 .	.	.	.	2B\	.	.	.	.	.
 =17	=	=17	=	=17	=	=17	=	=17	=
@@ -67,7 +67,7 @@
 0GG	Chan-	0G	.	0d	Chan-	0B	-tres	1.b	-pers
 .	.	.	.	.	.	.	.	2g/	.
 =19	=	=19	=	=19	=	=19	=	=19	=
-1GG	-tres	0G	.	[0d	-tres	0B	ex-	1g	.
+1GG	-tres	0G	-na	[0d	-tres	0B	ex-	1g	.
 1GG	ex-	.	.	.	.	.	.	1g	de
 =20	=	=20	=	=20	=	=20	=	=20	=
 0D	-pers	[0F	.	1d]	.	0A	pers	1.a	tou-
@@ -78,11 +78,11 @@
 .	.	.	.	.	.	1D	de	1f	-ti
 .	.	.	.	2B\	.	.	.	.	.
 =22	=	=22	=	=22	=	=22	=	=22	=
-1.C	tou-	0G	.	0c	.	1E	tou-	[0e	-ons,
+1.C	tou-	0G	e-	0c	.	1E	tou-	[0e	-ons,
 .	.	.	.	.	.	1C	-tes	.	.
 2C/	-tes	.	.	.	.	.	.	.	.
 =23	=	=23	=	=23	=	=23	=	=23	=
-1C	na-	0G	.	1r	.	1E	na-	0e]	.
+1C	na-	0G	-i-	1r	.	1E	na-	0e]	.
 1C	-ti-	.	.	1c	de	1E	-ti-	.	.
 =24	=	=24	=	=24	=	=24	=	=24	=
 [0GG	-ons	0B-i	.	1.d	tou-	0D	-ons,	0r	.
@@ -148,9 +148,9 @@
 .	.	.	.	.	.	.	.	2a/	-men-
 =42	=	=42	=	=42	=	=42	=	=42	=
 [0AA	-ons.	1r	.	0A]	.	0c	-ons.	1a	-ta-
-.	.	1E	.	.	.	.	.	1a	-ti-
+.	.	1E	Do-	.	.	.	.	1a	-ti-
 =43	=	=43	=	=43	=	=43	=	=43	=
-0AA]	.	1.E	.	0c	.	0C	.	0e	-ons.
+0AA]	.	1.E	-mi-	0c	.	0C	.	0e	-ons.
 .	.	2F\	.	.	.	.	.	.	.
 =44	=	=44	=	=44	=	=44	=	=44	=
 1.BB-	.	1G	.	[0B-	.	0D	.	0r	.
@@ -162,7 +162,7 @@
 =46	=	=46	=	=46	=	=46	=	=46	=
 [0FF	.	0F	.	[0A	.	0C	.	0a	Car
 =47	=	=47	=	=47	=	=47	=	=47	=
-0FF]	.	0F	.	0A]	.	0c	Car	1a	A-
+0FF]	.	0F	-ne	0A]	.	0c	Car	1a	A-
 .	.	.	.	.	.	.	.	1a	-tro-
 =48	=	=48	=	=48	=	=48	=	=48	=
 0C	Car	[0E	.	0e	Car	1c	A-	[0g	-pos,
@@ -188,10 +188,10 @@
 .	.	.	.	2E/	.	.	.	.	.
 .	.	.	.	1F#i	.	.	.	.	.
 =55	=	=55	=	=55	=	=55	=	=55	=
-0GG	-pe,	0G	.	1G	-pe,	0D	-pe,	[0b	-pe,
+0GG	-pe,	0G	et	1G	-pe,	0D	-pe,	[0b	-pe,
 .	.	.	.	1d	sa-	.	.	.	.
 =56	=	=56	=	=56	=	=56	=	=56	=
-0r	.	1G	.	1B	-trap-	1E	.	1b]	.
+0r	.	1G	lux	1B	-trap-	1E	.	1b]	.
 .	.	1E	.	[1e	.	1C	.	1cc	.
 =57	=	=57	=	=57	=	=57	=	=57	=
 0r	.	0F	.	2e\]	.	0D	.	[0a	.
@@ -238,13 +238,13 @@
 .	.	.	.	2c\	.	.	.	.	.
 .	.	.	.	1d	.	.	.	.	.
 =69	=	=69	=	=69	=	=69	=	=69	=
-0C	Vray	[0G	.	[0e	-pe,	0c	Vray	1e	-pe,
+0C	Vray	[0G	per-	[0e	-pe,	0c	Vray	1e	-pe,
 .	.	.	.	.	.	.	.	1r	.
 =70	=	=70	=	=70	=	=70	=	=70	=
 1C	tre-	0G]	.	0e]	.	1c	tre-	0g	Vray
 1C	-so-	.	.	.	.	1c	-so-	.	.
 =71	=	=71	=	=71	=	=71	=	=71	=
-0FF	-rier	[0F	.	0A	Vray	0c	-rier	1.a	tre-
+0FF	-rier	[0F	-pe-	0A	Vray	0c	-rier	1.a	tre-
 .	.	.	.	.	.	.	.	2b\	.
 =72	=	=72	=	=72	=	=72	=	=72	=
 1r	.	0F_	.	1A	tre-	1r	.	1cc	.
@@ -257,7 +257,7 @@
 1GG	-qu et	0G	.	1B-i	mu-	1d	-que et	1b-	mu-
 1GG	chief	.	.	1BB-	-si-	1d	cheif	1b-i	-si-
 =75	=	=75	=	=75	=	=75	=	=75	=
-1.BB-i	d'oeu-	[0F	.	1D	-qu et	0d	d'oeu-	1b-i	-qu et
+1.BB-i	d'oeu-	[0F	-tu-	1D	-qu et	0d	d'oeu-	1b-i	-qu et
 .	.	.	.	1D	chief	.	.	1b-i	chief
 2AA/	.	.	.	.	.	.	.	.	.
 =76	=	=76	=	=76	=	=76	=	=76	=
@@ -266,7 +266,7 @@
 =77	=	=77	=	=77	=	=77	=	=77	=
 0r	.	0E	.	0C	-vre,	0c]	.	[0g	-vre,
 =78	=	=78	=	=78	=	=78	=	=78	=
-0r	.	0E	.	1r	.	0B	.	0g]	.
+0r	.	0E	-a	1r	.	0B	.	0g]	.
 .	.	.	.	[1G	Doct	.	.	.	.
 =79	=	=79	=	=79	=	=79	=	=79	=
 0C	Doct	0r	.	1G]	.	0G	.	0e	Doct
@@ -281,7 +281,7 @@
 1r	.	0r	.	1G	corps	0B	-gant	0d	de
 1GG	de	.	.	1G	et	.	.	.	.
 =83	=	=83	=	=83	=	=83	=	=83	=
-1.C	corps	[0G	.	1E	non	1r	.	1e	corps
+1.C	corps	[0G	lu-	1E	non	1r	.	1e	corps
 .	.	.	.	1C	point	1G	de	1e	et
 2C/	et	.	.	.	.	.	.	.	.
 =84	=	=84	=	=84	=	=84	=	=84	=
@@ -292,10 +292,10 @@
 .	.	.	.	.	.	1A	point	.	.
 .	.	.	.	.	.	.	.	2d/	.
 =86	=	=86	=	=86	=	=86	=	=86	=
-[0GG	-pe,	0G	.	0D]	.	1.B	tra-	[0d	-pe,
+[0GG	-pe,	0G	-ce-	0D]	.	1.B	tra-	[0d	-pe,
 .	.	.	.	.	.	2G/	.	.	.
 =87	=	=87	=	=87	=	=87	=	=87	=
-0GG]	.	1G	.	1r	.	0G	-pe,	0d]	.
+0GG]	.	1G	-at	1r	.	0G	-pe,	0d]	.
 .	.	[1B-i	.	[1G	Grant	.	.	.	.
 =88	=	=88	=	=88	=	=88	=	=88	=
 0r	.	1B-]	.	1G]	.	[0d	Grant,	0r	.
@@ -328,7 +328,7 @@
 .	.	.	.	.	.	[1A	la	.	.
 .	.	.	.	2e\	.	.	.	.	.
 =98	=	=98	=	=98	=	=98	=	=98	=
-1AA	-vre,	[0E	.	0c	-vre,	1A]	.	1.cc	la
+1AA	-vre,	[0E	e-	0c	-vre,	1A]	.	1.cc	la
 [1C	.	.	.	.	.	1E	ter-	.	.
 .	.	.	.	.	.	.	.	2b\	ter-
 =99	=	=99	=	=99	=	=99	=	=99	=
@@ -354,7 +354,7 @@
 .	.	.	.	2d\	.	2B\	.	.	.
 .	.	1E	.	[1e	.	1c	.	1g	le
 =104	=	=104	=	=104	=	=104	=	=104	=
-0r	.	0F	.	1e]	.	1.A	.	0a	cou-
+0r	.	0F	-is.	1e]	.	1.A	.	0a	cou-
 .	.	.	.	1d	.	.	.	.	.
 .	.	.	.	.	.	2B\	.	.	.
 =105	=	=105	=	=105	=	=105	=	=105	=
@@ -468,22 +468,22 @@
 =141	=	=141	=	=141	=	=141	=	=141	=
 0AA	-re.	0r	.	0A	-re.	0c	re.	0e	-re.
 =142	=	=142	=	=142	=	=142	=	=142	=
-0E	Re-	0e	.	0G	Re-	0B	Re-	0g	Re-
+0E	Re-	0e	Re-	0G	Re-	0B	Re-	0g	Re-
 =143	=	=143	=	=143	=	=143	=	=143	=
-1C	-qui-	1e	.	1E	-qui-	1c	-qui-	1g	-qui-
-1C	-es-	1e	.	1E	-es-	1c	-es-	1g	-es-
+1C	-qui-	1e	-qui-	1E	-qui-	1c	-qui-	1g	-qui-
+1C	-es-	1e	-es-	1E	-es-	1c	-es-	1g	-es-
 =144	=	=144	=	=144	=	=144	=	=144	=
-1AA	-cant	1e	.	1A	-cant	1c	-cant	1cc	-cant
-1AA	in	1e	.	1A	in	1c	in	1cc	in
+1AA	-cant	1e	-cant	1A	-cant	1c	-cant	1cc	-cant
+1AA	in	1e	in	1A	in	1c	in	1cc	in
 =145	=	=145	=	=145	=	=145	=	=145	=
-0C	pa-	0e	.	1.E	pa-	0c	pa-	1.g	pa-
+0C	pa-	0e	pa-	1.E	pa-	0c	pa-	1.g	pa-
 .	.	.	.	2F/	.	.	.	2a/	.
 =146	=	=146	=	=146	=	=146	=	=146	=
 [0GG	-ce.	0d	.	[0G	-ce.	0B	.	0b	-ce.
 =147	=	=147	=	=147	=	=147	=	=147	=
-0GG]	.	0d	.	0G]	.	[0B	-ce.	[0dd	A-
-=148	=	=148	=	=148	=	=148	=	=148	=
-[0G	A-	0d	.	0r	.	0B]	.	1dd]	.
+0GG]	.	0d	-ce.	0G]	.	[0B	-ce.	[0dd	A-
+=148	=	=148	.	=148	=	=148	=	=148	=
+[0G	A-	0d	A-	0r	.	0B]	.	1dd]	.
 .	.	.	.	.	.	.	.	1b	.
 =149	=	=149	=	=149	=	=149	=	=149	=
 1G]	.	[0e	.	[0G	A-	0r	.	0b	men,
@@ -492,7 +492,7 @@
 0E	-men,	0e]	.	1G]	.	0B	A-	[0g	a-
 .	.	.	.	1E	.	.	.	.	.
 =151	=	=151	=	=151	=	=151	=	=151	=
-1r	.	[0el	.	[0El	-men.	0c	.	1g]	.
+1r	.	[0el	-men.	[0El	-men.	0c	.	1g]	.
 [1C	a-	.	.	.	.	.	.	1e	.
 =152	=	=152	=	=152	=	=152	=	=152	=
 1C]	.	0e_	.	0E_	.	[0c	-men,	[0el	men.

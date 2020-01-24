@@ -9,13 +9,13 @@
 *staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
 *I"Bassus	*	*I"Quinta pars	*	*I"Altus	*	*I"Tenor	*	*I"Superius	*
-*I'B	*	*I'Q	*	*I'T	*	*I'Ct	*	*I'S	*
-*clefF4	*	*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*I'B	*	*I'Q	*	*I'A	*	*I'T	*	*I'S	*
+*clefF4	*	*clef	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!	!	!LO:TX:Z=6:t=Canon at the lower fifth (3 breves)	!	!	!
+!	!	!	!	!	!	!LO:TX:Z=6:t=Canon. Faulte dargent par nature.	!	!	!
 1B-	Faul-	0r	.	2r	.	0r	.	0r	.
 .	.	.	.	1B-	Faul-	.	.	.	.
 2G\	-te	.	.	.	.	.	.	.	.
@@ -68,6 +68,7 @@
 4G\	.	.	.	.	.	.	.	4g/	.
 2E\	dou-	.	.	2e\	-leur	2c\	c'est	[2g/	-reil-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+!	!	!LO:TX:Z=6:t=Faulte dargent par bemol.	!	!	!	!	!	!	!
 1D	-leur	1B-	Faul-	4f\	non	2d\	dou-	2g/]	.
 .	.	.	.	4e\	.	.	.	.	.
 .	.	.	.	4d\	.	2d\	-leur	2f#i/	.
@@ -341,17 +342,17 @@
 .	.	.	.	4F/	.	4d\	.	.	.
 2GG/	.	.	.	2G/	res-	1d	-veil-	.	.
 1AA	-le,	2.A\	dort	1E	-veil-	.	.	2r	.
-.	.	.	.	.	.	2c#i\	.	2e/	pour
+.	.	.	.	.	.	2c#i\	.	2e/	se
 .	.	4G\	.	.	.	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
-1r	.	1F	.	0D	-le,	1d	-le,	2f/	ar-
-.	.	.	.	.	.	.	.	2.a/	-gent,
+1r	.	1F	.	0D	-le,	1d	-le,	2f/	re-
+.	.	.	.	.	.	.	.	2.a/	-veil-
 1A	pour	2r	.	.	.	1r	.	.	.
 .	.	.	.	.	.	.	.	4g/	.
 .	.	2F\	pour	.	.	.	.	4f/	.
 .	.	.	.	.	.	.	.	4e/	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
-2.B-\	ar-	2G\	ar-	2r	.	0r	.	0d	.
+2.B-\	ar-	2G\	ar-	2r	.	0r	.	0d	-le,
 .	.	2G\	-gent	2G/	pour	.	.	.	.
 4A\	-gent	.	.	.	.	.	.	.	.
 2G\	se	2G\	se	2B-\	ar-	.	.	.	.

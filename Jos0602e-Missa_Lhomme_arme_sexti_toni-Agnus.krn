@@ -17,7 +17,7 @@
 *>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]	*>Agnus1[A]
 *>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]	*>Agnus2[B]
 *>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]	*>Agnus3[C]
-*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *>A	*>A	*>A	*>A	*>A	*>A
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1	*M3/1
@@ -73,7 +73,8 @@
 0.A	0.c	0.r	0c	0.r	1c
 .	.	.	.	.	1.cc
 .	.	.	1F	.	.
-.	.	.	.	.	2b-\
+.	.	.	.	.	4b-\
+.	.	.	.	.	4a
 =12	=12	=12	=12	=12	=12
 2r	1F	0.r	1c	0.r	1a
 2A\	.	.	.	.	.
@@ -147,7 +148,7 @@
 =22	=22	=22	=22	=22	=22
 2r	2r	0.r	1G	0.r	1r
 2GG/	2B-\	.	.	.	.
-2EE-/	2G\	.	2r	.	1r
+2EE-i/	2G\	.	2r	.	1r
 2FF/	2A\	.	2F/	.	.
 1GG	1B-	.	2D/	.	1g
 .	.	.	2E/	.	.
@@ -161,8 +162,7 @@
 .	.	.	.	.	4g/
 .	.	.	.	.	4f/
 =24	=24	=24	=24	=24	=24
-0.C	2r	0.r	2c\]	0.r	4e/
-.	.	.	.	.	4d/
+0.C	2r	0.r	2c\]	0.r	2e/
 .	2G\	.	4B-\	.	2.g/
 .	.	.	4A/	.	.
 .	2E\	.	2G/	.	.
@@ -180,7 +180,7 @@
 !!LO:LB:i:g=z
 =27||	=27||	=27||	=27||	=27||	=27||
 *>B	*>B	*>B	*>B	*>B	*>B
-*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2	*clefG2
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
@@ -333,7 +333,7 @@
 1r	0r	0r	2A/	0r	1f
 .	.	.	2B-\	.	.
 2r	.	.	1E-	.	[1g
-[2E-\	.	.	.	.	.
+[2E-i\	.	.	.	.	.
 =55	=55	=55	=55	=55	=55
 4E-\]	0r	0r	0r	0r	1g]
 4D\	.	.	.	.	.
@@ -371,7 +371,6 @@
 1F	0r	0r	2A/]	0r	0r
 .	.	.	4G/	.	.
 .	.	.	4F/	.	.
-!LO:TX:Y=30:t=60iv2&colon; f in Petrucci [error]	!	!	!	!	!
 2E\	.	.	2G/	.	.
 [2F\	.	.	2F/	.	.
 =61	=61	=61	=61	=61	=61
@@ -392,7 +391,7 @@
 .	.	.	4B-\	.	2f/
 .	.	.	4A/	.	.
 2r	.	.	[1G	.	1g
-[2E-\	.	.	.	.	.
+[2E-i\	.	.	.	.	.
 =64	=64	=64	=64	=64	=64
 2E-\]	0r	0r	1G]	0r	2r
 4D\	.	.	.	.	2g/

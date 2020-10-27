@@ -467,7 +467,7 @@
 *k[]	*k[]	*k[]	*k[]
 *	*	*	*rscale:1/2
 *M2/1	*M2/1	*M2/1	*M2/0
-*met(C|)	*met(C2)	*met(C2)	*met(C2)
+*met(C2)	*met(C|)	*met(C2)	*met(C2)
 !!primary-mensuration: met(C2)
 !!!OMD: Agnus Dei III
 !!section: Agnus Dei III

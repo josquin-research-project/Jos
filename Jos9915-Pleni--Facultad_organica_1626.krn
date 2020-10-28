@@ -1,4 +1,4 @@
-!!!COA1: Pierre de la Rue/Josquin des Prez
+!!!COA1: Pierre de la Rue/Josquin des Prez?
 !!!CDT1: ~1450-1521/08/27
 !!!COM2: la Rue, Pierre de
 !!!CDT2: ~1452///-1518/11/20
@@ -17,6 +17,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C2)	*met(C2)	*met(C2)	*met(C2)
 !!section: Pleni sunt celi
+!	!	!	!LO:TX:Z=10:t=from from the Missa Ave Maria surely by La Rue
 0r	0r	1r	1a
 .	.	[1a	4a
 .	.	.	4b

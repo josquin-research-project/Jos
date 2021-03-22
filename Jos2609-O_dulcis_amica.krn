@@ -5,8 +5,8 @@
 !!!SCT:	NJE 26.9
 !!!SCA:	New Josquin Edition 26.9
 !!!voices:	6
-!!!COM:	Josquin?
 !!!OTL:	Jos2609-O_dulcis_amica
+!!!ONB: unicum in Kriesstein 1540
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -210,4 +210,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2020/10/23
 !!!ONB:	Translated from MusicXML and edited on 2020/03/22 by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v75,75,75,75,75,100Q16
+!!muse2ps: C^@{COA}?? (unicum in Kriesstein 1540)\n@{SCT}^i2I150v75,75,75,75,75,100Q16

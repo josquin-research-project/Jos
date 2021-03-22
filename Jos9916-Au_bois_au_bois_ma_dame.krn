@@ -2,6 +2,7 @@
 !!!CDT:	~1450-1521/08/27
 !!!COM:	Moulu
 !!!OTL:	Au bois au bois ma dame
+!!!ONB: =<i>Petre, tu pastor ovium</i> (NJE 20.10)
 !!!AGN:	Motet
 !!!SCT:	NJE 99.16
 !!!SCA:	New Josquin Edition 99.16
@@ -432,4 +433,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2020/10/23/
 !!!ONB:	Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
-!!muse2ps: C^probably by Moulu\nJosquin?^i2I150v85,85,85,150c140
+!!muse2ps: u^@{ONB}^C^probably by Moulu\nJosquin?^i2I150v85,85,85,150c140

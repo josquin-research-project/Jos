@@ -17,8 +17,8 @@
 *M2/1	*M2/1
 *met(C|)	*met(C|)
 =	=
-!	!LO:TX:Z=12:t=The NJE incorrectly calls this an excerpt from the <i>Missa Fortuna desperata</i>, Credo
-!	!LO:TX:Z=32:t=Gumpelzhaimer 1595 includes both this music and an unresolved version using multiple mensuration signs.
+!	!LO:TX:Z=12:t=The NJE incorrectly calls this an excerpt from the Missa Fortuna desperata, Credo
+!	!LO:TX:Z=32:t=Gumpelzhaimer includes both this music and an unresolved version using multiple mensuration signs.
 2r	1c
 2c	.
 2B-	2d
@@ -86,4 +86,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2020/10/23
 !!!ONB:	Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
-!!muse2ps: C^Josquin??\n@{SCT}^i2I150v85,150z16Q16
+!!muse2ps: C^Josquin?? (attrib. in Gumpelzhaimer 1595)\n@{SCT}^i2I150v85,150z16Q16

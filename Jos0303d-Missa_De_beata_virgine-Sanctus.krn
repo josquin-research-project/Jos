@@ -1,6 +1,5 @@
 !!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!COA2: La Rue, Pierre de
 !!!CDT2: ~1452///-1518/11/20/
 !!!OPR:	Missa De beata virgine
 !!!ONM:	4
@@ -947,4 +946,4 @@
 !!attribution-level@Jos: 1 (secure)
 !!attribution-level@Rue: 4 (doubtful)
 !!!ONB:	Translated from MusicXML and edited on 2012/06/07/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Josquin/La Rue?\n@{SCT}^i2I150v85,85,85,85,130Q8
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Josquin\n@{SCT}^i2I150v85,85,85,85,130Q8

@@ -5,6 +5,7 @@
 !!!SCT:	NJE 23.7
 !!!SCA:	New Josquin Edition 23.7
 !!!voices:	8
+!!!ONB: attrib. Josquin in Verona 218
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -976,4 +977,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2020/10/23/
 !!!ONB:	Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v80,80,80,80,80,80,80,120c125s^[(....)][(....)]^
+!!muse2ps: C^@{COA}?? (attrib. in Verona 218)\n@{SCT}^i2I150v80,80,80,80,80,80,80,120c125s^[(....)][(....)]^

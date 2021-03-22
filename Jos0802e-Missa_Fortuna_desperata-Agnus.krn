@@ -2,11 +2,11 @@
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa Fortuna desperata
 !!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
+!!!OTL:	Agnus dei
+!!!AGN:	Mass; Agnus dei
 !!!SCT:	NJE 8.2
 !!!SCA:	New Josquin Edition 8.2
-!!!ONB: 	This mass was apparently conceived with only two Agnus Dei sections.
+!!!ONB: 	Only two Agnus dei sections
 !!!voices: 4
 !!!voices-OPR:	4
 **kern	**kern	**kern	**kern
@@ -384,7 +384,7 @@
 !!!OMD: Agnus Dei II
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!LO:TX:Z=6:t=deorsum	!	!	!
+!LO:TX:Z=6:t=deorsum (=downward [by an 8ve])	!	!	!
 0FF	2.c\	0r	0r
 .	4B\	.	.
 .	4A/	.	.

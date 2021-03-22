@@ -3,8 +3,8 @@
 !!!COA: Ockeghem
 !!!OPR:	Missa Gaudeamus
 !!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
+!!!OTL:	Agnus dei
+!!!AGN:	Mass; Agnus dei
 !!!SCT:	NJE 4.2
 !!!SCA:	New Josquin Edition 4.2
 !!!voices: 4
@@ -22,8 +22,8 @@
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)	*met(O)
-!!!OMD: Agnus Dei I
-!!section: Agnue Dei I
+!!!OMD: Agnus dei I
+!!section: Agnue dei I
 =1-	=1-	=1-	=1-	=1-
 1G	0.r	0.r	0.r	0.r
 1A	.	.	.	.
@@ -240,8 +240,8 @@
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Agnus Dei II
-!!!OMD: Agnus Dei II
+!!section: Agnus dei II
+!!!OMD: Agnus dei II
 !	!	!	!	!LO:TX:Z=6:X=-20:t=Canon at the unison
 0r	0r	0r	0r	1e
 .	.	.	.	[1g
@@ -452,8 +452,8 @@
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Agnus Dei III
-!!!OMD: Agnus Dei III
+!!section: Agnus dei III
+!!!OMD: Agnus dei III
 1E	0G	1r	0r	0r
 1G	.	1B	.	.
 =69	=69	=69	=69	=69

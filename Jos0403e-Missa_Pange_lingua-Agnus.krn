@@ -2,8 +2,8 @@
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa Pange lingua
 !!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
+!!!OTL:	Agnus dei
+!!!AGN:	Mass; Agnus dei
 !!!SCT:	NJE 4.3
 !!!SCA:	New Josquin Edition 4.3
 !!!voices: 4
@@ -22,8 +22,8 @@
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!!OMD: Agnus Dei I
-!!section: Agnue Dei I
+!!!OMD: Agnus dei I
+!!section: Agnue dei I
 =1-	=1-	=1-	=1-
 0.r	0.r	1E	0.r
 .	.	1E	.
@@ -220,8 +220,8 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!!OMD: Agnus Dei II
-!!section: Agnus Dei II
+!!!OMD: Agnus dei II
+!!section: Agnus dei II
 0r	0r	0r	0e
 =27	=27	=27	=27
 0r	0r	0r	1e
@@ -465,8 +465,8 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(O2)	*met(O2)	*met(O2)	*met(O2)
-!!!OMD: Agnus Dei III
-!!section: Agnus Dei III
+!!!OMD: Agnus dei III
+!!section: Agnus dei III
 0r	0r	0r	1e
 .	.	.	1e
 =82.	=82.	=82.	=82.

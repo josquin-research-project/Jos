@@ -28,7 +28,7 @@
 =1-	=1-	=1-	=1-
 !!section: Patrem
 !!!OMD: Patrem
-!	!	!	!LO:TX:Z=8:t=S by Malcort [Segmentation technique throughout Patrem]
+!	!	!	!LO:TX:Z=8:t=S: segmentation technique
 !	!	!	!LO:N:vis=0
 0r	0r	1.E	0r
 .	.	2F/	.
@@ -527,7 +527,7 @@
 !!!OMD: Et incarnatus est
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!	!	!	!LO:TX:Z=8:t=[Segmentation technique throughout Et incarnatus est]
+!	!	!	!LO:TX:Z=8:t=S: segmentation technique
 1c	0r	0r	0r
 2G\	.	.	.
 2A\	.	.	.

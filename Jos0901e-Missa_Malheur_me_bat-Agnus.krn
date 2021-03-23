@@ -2,8 +2,8 @@
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa Malheur me bat
 !!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
+!!!OTL:	Agnus dei
+!!!AGN:	Mass; Agnus dei
 !!!SCT:	NJE 9.1
 !!!SCA:	New Josquin Edition 9.1
 !!!voices: 4
@@ -25,11 +25,11 @@
 *M2/1	*M2/1	*M2/0	*M2/1	*M2/1	*M2/1
 *met()	*met(C|)	*met(C)	*met()	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
-!!!OMD: Agnus Dei I
-!!section: Agnus Dei I
+!!!OMD: Agnus dei I
+!!section: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=6:t=Tenor. De minimis non curat pretor [omit all notes smaller than a semibreve]	!	!	!
-!	!	!LO:TX:Y=26:t=T by Malcort	!	!	!
+!	!	!LO:TX:Z=6:t=Tenor. De minimis non curat pretor [omit all values smaller than a semibreve]	!	!	!
+!	!	!LO:TX:Y=26:t=c.f. in the tenor	!	!	!
 !	!	!LO:N:vis=0	!	!	!
 0r	0r	[y0E\	0r	0r	1e
 .	.	.	.	.	2e/
@@ -523,10 +523,9 @@
 *k[]	*k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!!OMD: Agnus Dei II
-!!section: Agnus Dei II
+!!!OMD: Agnus dei II
+!!section: Agnus dei II
 !	!	!LO:TX:Z=6:t=Canon at the upper second	!	!	!
-!	!	!	!	!	!LO:TX:Z=8:t=S and T by Malcort
 0r	0r	1D	0r	1r	0r
 .	.	1G	.	1E	.
 =81	=81	=81	=81	=81	=81
@@ -841,9 +840,9 @@
 *M2/1	*M2/1	*M2/0	*M2/1	*M2/1	*M2/0
 *met(C|)	*met(C|)	*met(C)	*met(C|)	*met(C|)	*met(C)
 !!primary-mensuration: met(C|)
-!!!OMD: Agnus Dei III
-!!section: Agnus Dei III
-!LO:TX:Z=6:t=[Canon at the unison]	!	!	!	!LO:TX:Z=6:t=[Canon at the unison]	!
+!!!OMD: Agnus dei III
+!!section: Agnus dei III
+!LO:TX:Z=6:t=Minim canon at the unison (A1/A2)	!	!LO:TX:Z=6:t=c.f. in S,T	!	!LO:TX:Z=6:t=Minim canon at the unison (B1/B2)	!
 !	!	!LO:N:vis=0	!	!	!
 !	!	!	!	!	!LO:N:vis=0
 1E	2r	[y0E	0r	0r	0r

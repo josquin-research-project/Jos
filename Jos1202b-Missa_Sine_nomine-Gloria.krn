@@ -24,7 +24,7 @@
 !!!OMD: Et in terra pax
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 !LO:TX:Z=22:X=-40:t=Tenor in diapente	!	!LO:TX:Z=4:X=-40:t=Tenor in basso	!	!	!	!	!
-!LO:TX:Z=6:X=-40:t=Canon at the upper fifth (B-->T, one breve)	!	!	!	!	!	!	!
+!LO:TX:Z=6:X=-40:t=Canon at the upper 5th (B-->T, one breve)	!	!	!	!	!	!	!
 0.r	.	0.r	.	1d	Et	0.r	.
 .	.	.	.	1d	in	.	.
 .	.	.	.	1G	ter-	.	.
@@ -272,7 +272,7 @@
 !!section: Qui tollis
 !!!OMD: Qui tollis
 !LO:TX:Z=24:X=-40:t=Tenor in diapente	!	!	!	!	!	!	!
-!LO:TX:Z=8:X=-40:t=Canon at the upper fifth (B-->T, 3 breves)	!	!	!	!	!	!	!
+!LO:TX:Z=8:X=-40:t=Canon at the upper 5th (B-->T, 3 breves)	!	!	!	!	!	!	!
 0r	.	0r	.	0r	.	0e	Qui
 =37	=37	=37	=37	=37	=37	=37	=37
 0r	.	0r	.	0A	Qui	1a	tol-
@@ -625,7 +625,7 @@
 !LO:TX:Z=30:t=Tenor in diapente	!	!	!	!	!	!	!
 !!section: Cum sancto spiritu
 !!!OMD: Cum sancto spiritu
-!LO:TX:Z=13:X:=-40:t=Canon at the upper fifth (B-->T, one breve)	!	!	!	!	!	!	!
+!LO:TX:Z=13:X:=-40:t=Canon at the upper 5th (B-->T, one breve)	!	!	!	!	!	!	!
 0.r	.	0.r	.	0.r	.	1.f	Cum
 .	.	.	.	.	.	2e/	.
 .	.	.	.	.	.	1d	.

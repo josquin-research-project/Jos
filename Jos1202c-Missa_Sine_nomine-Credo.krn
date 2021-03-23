@@ -23,7 +23,7 @@
 !!section: Patrem omnipotentem
 !!!OMD: Patrem omnipotentem
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!LO:TX:Z=12:X=-40:t=Canon at the upper fourth (one breve)	!	!	!
+!	!	!	!	!LO:TX:Z=12:X=-40:t=Canon at the upper 4th (A-->S, one breve)	!	!	!
 !	!	!	!	!	!	!LO:TX:Z=12:X=-40:t=Altus In diatessaron liquendo primam pausam	!
 0.r	.	1A	Pa-	1e	Pa-	0.r	.
 .	.	1d	.	1f	.	.	.
@@ -417,7 +417,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
-!	!	!	!	!LO:TX:Z=15:X=-40:t=Canon at the upper fourth (one breve)	!	!	!
+!	!	!	!	!LO:TX:Z=15:X=-40:t=Canon at the upper 4th (A-->S, one breve)	!	!	!
 0G	Et	0G	Et	0d	Et	0r	.
 =49	=49	=49	=49	=49	=49	=49	=49
 1G	in-	1B	in-	1d	in-	0g	Et
@@ -513,7 +513,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Crucifixus
 !!!OMD: Crucifixus
-!	!	!	!	!LO:TX:Z=10:X=-40:t=Canon at the upper fourth (two breves)	!	!	!
+!	!	!	!	!LO:TX:Z=10:X=-40:t=Canon at the upper 4th (A-->S, two breves)	!	!	!
 0r	.	0r	.	1d	Cru-	0r	.
 .	.	.	.	1e	-ci-	.	.
 =75	=75	=75	=75	=75	=75	=75	=75
@@ -760,7 +760,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Et in Spiritum
 !!!OMD: Et in Spiritum
-!	!	!	!	!LO:TX:Z=22:X=-40:t=Canon at the upper fourth (two breves)	!	!	!
+!	!	!	!	!LO:TX:Z=22:X=-40:t=Canon at the upper 4th (A-->S, two breves)	!	!	!
 1r	.	0r	.	1d	Et	0r	.
 1G	Et	.	.	1d	in	.	.
 =122	=122	=122	=122	=122	=122	=122	=122

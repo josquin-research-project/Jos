@@ -28,7 +28,7 @@
 !!!OMD: Sanctus
 !!section: Sanctus
 =1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=8:t=c.f. in the altus	!
+!	!	!LO:TX:Z=8:t=C.f. in the altus	!
 0r	0E	0e	0r
 =2	=2	=2	=2
 0r	1B	1.d	0r
@@ -406,9 +406,9 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
+!	!	!LO:TX:Z=8:t=C.f. in the altus	!
 0r	0r	0e	0g
 =61	=61	=61	=61
-!	!	!LO:TX:Z=8:t=c.f. in the altus	!
 0r	0r	1.d	1a
 .	.	.	1b
 .	.	4c\	.
@@ -756,7 +756,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!!OMD: Osanna
 !!section: Osanna
-!	!	!LO:TX:Z=8:t=c.f. in the altus	!
+!	!	!LO:TX:Z=8:t=C.f. in the altus	!
 2.E\	2.G/	0e	1g
 4F\	4A/	.	.
 2G\	2B\	.	2g/
@@ -1307,8 +1307,8 @@
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!!OMD: In nomine domine
-!!section: In nomine domine
+!!!OMD: In nomine
+!!section: In nomine
 0r	1A	0r	0a
 .	[1c	.	.
 =199	=199	=199	=199

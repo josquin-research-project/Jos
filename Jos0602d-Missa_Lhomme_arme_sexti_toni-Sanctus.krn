@@ -30,6 +30,7 @@
 !!section: Sanctus
 !!!OMD: Sanctus
 !LO:TX:Y=30:X=-50:t=[B add E-flat below staff to key sig.]	!	!	!
+!	!LO:TX:Z=7:t=Duo Seraphim clamabant alter ad alterum (T-->A canon at the unison)	!	!
 0FF	0.r	0.r	[0.f
 1FF	.	.	.
 =2	=2	=2	=2
@@ -261,6 +262,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!	!	!	!LO:TX:Z=6:t=Music of the Pleni, down a 5th
 !!!OMD: Gloria tua
 !!section: Gloria tua
 0r	1.c	0r	0r
@@ -371,7 +373,7 @@
 *met(O|)	*met(O|)	*met(O|)	*met(O|)
 !!!OMD: Osanna
 !!section: Osanna
-!	!LO:TX:Z=6:t=Canon at the lower fifth	!	!
+!	!LO:TX:Z=6:t=Canon at the lower 5th	!	!
 0.r	0C	0.r	1.e
 .	.	.	2f/
 .	1C	.	1g
@@ -598,6 +600,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!	!	!	!LO:TX:Z=6:t=Same music as the Benedictus
 !!!OMD: In nomine
 !!section: In nomine
 0r	0r	0r	1.c

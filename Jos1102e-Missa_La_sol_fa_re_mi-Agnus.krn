@@ -2,8 +2,8 @@
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa La sol fa re mi
 !!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
+!!!OTL:	Agnus dei
+!!!AGN:	Mass; Agnus dei
 !!!SCT:	NJE 11.2
 !!!SCA:	New Josquin Edition 11.2
 !!!voices: 4
@@ -22,8 +22,8 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
-!!section: Agnus Dei I
-!!!OMD: Agnus Dei I
+!!section: Agnus dei I/III
+!!!OMD: Agnus dei I/III
 0.AA	0.A	[0.e	0.r
 =2	=2	=2	=2
 1C	1G	1e]	0.r
@@ -240,8 +240,8 @@
 *k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!!OMD: Agnus Dei II
-!!section: Agnus Dei II
+!!!OMD: Agnus dei II
+!!section: Agnus dei II
 0.r	0.r	[0.e	0b
 .	.	.	1cc
 =30	=30	=30	=30
@@ -386,7 +386,7 @@
 .	.	3%2B	.
 .	.	.	2g#i/
 .	.	3%2.A	1a
-!LO:TX:i:Y=40:rj:t=Tertius Agnus ut supra	!	!	!
+!!LO:TX:i:Y=40:rj:t=Tertius Agnus ut supra	!	!	!
 =||	=||	=||	=||
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation

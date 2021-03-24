@@ -254,8 +254,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Secunda pars: Domine, ne memineris
-!!!OMD: Secunda pars: Domine, ne memineris
+!!section: Domine, ne memineris
+!!!OMD: Domine, ne memineris
 0D	[0B-	0r	0r
 =48	=48	=48	=48
 1E-i	0B-]	0r	0r
@@ -531,6 +531,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Quia pauperes
+!!!OMD: Quia pauperes
 0BB-	0B-	0d	0f
 =107	=107	=107	=107
 0BB-	0B-	0d	0f
@@ -596,8 +598,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Tertia pars: Adjuva nos, deus
-!!!OMD: Tertia pars: Adjuva nos, deus
+!!section: Adjuva nos, deus
+!!!OMD: Adjuva nos, deus
 0r	0r	0r	0b-
 =124	=124	=124	=124
 0r	0r	0r	0dd
@@ -955,9 +957,14 @@
 .	.	.	1a
 =209	=209	=209	=209
 0.BB-;l	0.B-;l	0.d;l	0.b-;l
-=210	=210	=210	=210
+=210||	=210||	=210||	=210||
+*>E	*>E	*>E	*>E
+*clefF4	*clefGv2	*clefGv2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Propter nomen tuum
+!!!OMD: Propter nomen tuum
 [0E-	0B-	[0G	0r
 =211	=211	=211	=211
 0E-_	0c	0G_	0r

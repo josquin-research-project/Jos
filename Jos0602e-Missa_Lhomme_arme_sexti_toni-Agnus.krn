@@ -462,7 +462,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *rscale:1/2	*rscale:1/2	*	*	*	*
 *M3/0	*M3/0	*M2/1	*M2/1	*M2/1	*M2/1
-*met(O2)	*met(O2)	*met(O2)	*met(O2)	*met(C|)	*met(C|)
+*met(O)	*met(O)	*met(O2)	*met(O2)	*met(O2)	*met(O2)
 !	!	!	!	!	!LO:TX:Z=6:t=Fuga ad minimam (unison canon at the minim)
 !	!	!	!LO:TX:Z=6:t=Fuga ad minimam (unison canon at the minim)	!	!
 !	!LO:TX:Z=6:t=C.f. sung forwards and backwards simultaneously	!	!	!	!

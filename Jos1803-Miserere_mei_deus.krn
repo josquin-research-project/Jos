@@ -1,6 +1,6 @@
 !!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OTL:	Miserere mei deus
+!!!OTL:	Miserere mei, deus
 !!!AGN:	Motet
 !!!SCT:	NJE 18.3
 !!!SCA:	New Josquin Edition 18.3
@@ -19,6 +19,7 @@
 !!!OMD: Prima pars: Miserere mei
 !!section: Prima pars: Miserere mei
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!LO:TX:Z=22:X=-40:t=T motto subject to a transposition scheme in all three sections	!	!	!	!	!
 0r	.	1.B	Mi-	0r	.	0r	.	0r	.
 .	.	2B	-se-	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2

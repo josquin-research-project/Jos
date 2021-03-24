@@ -841,7 +841,7 @@
 !!primary-mensuration: met(C|)
 !!!OMD: Agnus dei III
 !!section: Agnus dei III
-! !LO:TX:Z=6:t=Minim canon at the unison (B1/B2)	!	!	!LO:TX:Z=6:t=Minim canon at the unison (A1/A2)	!LO:TX:Z=6:t=C.f. in S,T
+!	!LO:TX:Z=6:t=Minim canon at the unison (B1/B2)	!	!	!LO:TX:Z=6:t=Minim canon at the unison (A1/A2)	!LO:TX:Z=6:t=C.f. in S,T
 !	!	!LO:N:vis=0	!	!	!
 !	!	!	!	!	!LO:N:vis=0
 1E	2r	[y0E	0r	0r	0r

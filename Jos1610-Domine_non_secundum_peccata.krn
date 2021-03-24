@@ -863,7 +863,8 @@
 0FFl;	0Fl;	0Al;	0fl;
 =188	=188	=188	=188
 *M3/1	*M3/1	*M3/1	*M3/1
-*met(O)	*met(O)	*met(O)	*met(O)
+*met(3)	*met(3)	*met()	*met()
+!!primary-mensuration: met(3)
 0D	0F	0.r	0.r
 1BB-	1G	.	.
 =189	=189	=189	=189

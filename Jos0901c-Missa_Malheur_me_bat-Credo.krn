@@ -29,7 +29,7 @@
 !!section: Patrem
 !!!OMD: Patrem
 !	!	!	!LO:N:vis=0
-!	!	!	!LO:TX:Z=6:t=S&colon segmentation technique
+!	!	!	!LO:TX:Z=6:t=S&colon; segmentation technique
 0r	0r	1.E	0r
 .	.	2F/	.
 =2	=2	=2	=2-
@@ -527,7 +527,7 @@
 !!!OMD: Et incarnatus est
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!	!	!	!LO:TX:Z=7:t=S&colon segmentation technique
+!	!	!	!LO:TX:Z=7:t=S&colon; segmentation technique
 1c	0r	0r	0r
 2G\	.	.	.
 2A\	.	.	.

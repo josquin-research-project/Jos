@@ -24,7 +24,7 @@
 !!!OMD: Sanctus
 !	!	!	!	!LO:TX:Y=28:t=Canon at the lower fifth (A-->T, 3 breves)	!	!	!
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!LO:TX:Z=3:t=Tenor. In diapente sequentibus signis.	!	!	!
+!	!	!	!	!LO:TX:Z=3:t=Tenor. In diapente sequentibus signis (A-->T at the lower 5th, 3 breves).	!	!	!
 1.A	Sanc-	0.r	.	0.r	.	0a	Sanc-
 1F	.	.	.	.	.	.	.
 .	.	.	.	.	.	1a	-tus,
@@ -205,9 +205,9 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!	!	!	!	!	!	!LO:TX:Z=46:t=Canon at the lower fourth (S-->T, 2 breves)	!
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
+!	!	!	!	!	!	!LO:TX:Z=46:t=Canon at the lower 4th (S-->T, 2 breves)	!
 0r	.	0r	.	0r	.	1a	Ple-
 .	.	.	.	.	.	[1a	-ni
 =26	=26	=26	=26	=26	=26	=26	=26
@@ -381,7 +381,7 @@
 *met(C|3)	*	*met(C|3)	*	*met(C|3)	*	*met(C|3)	*
 !!section: Osanna
 !!!OMD: Osanna
-!LO:TX:Z=35:X=-40:t=Canon at the upper fifth (B-->T, 2 breves)	!	!	!	!	!	!	!
+!LO:TX:Z=35:X=-40:t=Canon at the upper 5th (B-->T, 2 breves)	!	!	!	!	!	!	!
 !LO:TX:Z=13:X=-40:t=Tenor. In diapente	!	!	!	!	!	!	!
 0.r	.	0.r	.	1A	O-	1.a	-O-
 .	.	.	.	1c	.	.	.
@@ -580,10 +580,13 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*met(C|)	*	*met(C|)	*	*met(O)	*	*met(C|)	*
+!!primary-mensuration: met(C|)
+* * *rscale:1/2 *
+* * *barlines:3 *
 !!section: Benedictus
 !!!OMD: Benedictus
-!	!	!	!	!	!	!LO:TX:Z=12:t=Mensuration canon at the fifth (S/A)	!
+!	!	!	!	!	!	!LO:TX:Z=12:t=Mensuration canon at the 5th (S/A)	!
 !	!	!	!	!	!	!LO:TX:Z=32:X=110:t=Benedictus in diapente. C. Qui venit in diapason. In nomine in diapente.	!
 0r	.	0r	.	[0d	Be-	1.a	Be-
 .	.	.	.	.	.	2g/	-ne-
@@ -640,10 +643,13 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
+*met(C|)	*	*met(O)	*	*met(C|)	*	*met(C|)	*
+!!primary-mensuration: met(C|)
+* *rscale:1/2 *rscale:1 *
+* *barlines:3 *barlines:1 *
 !!section: Qui venit
 !!!OMD: Qui venit
-!	!	!LO:TX:Z=10:X=-40:t=T = Benedictus S, down an octave	!	!	!	!	!
+!	!	!LO:TX:Z=10:X=-40:t=T = Benedictus S, down an 8ve	!	!	!	!	!
 0r	.	[0A	Qui	0A	Qui	0r	.
 =109	=109	=109	=109	=109	=109	=109	=109
 0r	.	1A]	.	1c	ve-	0r	.
@@ -698,10 +704,14 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(O)	*
+!!primary-mensuration: met(C|)
+* *rscale:1 * *rscale:1/2
+* *barlines:1 * *barlines:3
 !!section: In nomine
 !!!OMD: In nomine
-!	!	!LO:TX:Z=22:X=-40:t=T = Benedictus S down a fifth	!	!	!	!	!
+* * *rscale:1 *
+!	!	!LO:TX:Z=22:X=-40:t=S = Benedictus S, down a 5th	!	!	!	!	!
 1D	In	[0d	In	0r	.	0r	.
 1F	.	.	.	.	.	.	.
 =119	=119	=119	=119	=119	=119	=119	=119

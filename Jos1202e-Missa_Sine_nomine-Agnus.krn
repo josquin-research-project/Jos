@@ -3,8 +3,8 @@
 !!!OPR:	Missa Sine nomine
 !!!OTA:	Missa Ad fugam
 !!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
+!!!OTL:	Agnus dei
+!!!AGN:	Mass; Agnus dei
 !!!SCT:	NJE 12.2
 !!!SCA:	New Josquin Edition 12.2
 !!!voices: 4
@@ -20,11 +20,11 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
-!!section: Agnus Dei I
-!!!OMD: Agnus Dei I
+!!section: Agnus dei I
+!!!OMD: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 !LO:TX:Z=15:X=-40:t=Tenor in diapente	!	!	!	!	!	!	!
-!LO:TX:Z=34:X=-40:t=Canon at the upper fifth (B-->T, 2 breves)	!	!	!	!	!	!	!
+!LO:TX:Z=34:X=-40:t=Canon at the upper 5th (B-->T, 2 breves)	!	!	!	!	!	!	!
 0.r	.	0.r	.	2.A/	A-	0a	A-
 .	.	.	.	4B\	.	.	.
 .	.	.	.	2c\	.	.	.
@@ -253,9 +253,9 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Agnus Dei II
-!!!OMD: Agnus Dei II
-!	!	!	!	!LO:TX:Z=32:X=-40:t=Canon at the lower second (A-->T, 1 breve)	!	!	!
+!!section: Agnus dei II
+!!!OMD: Agnus dei II
+!	!	!	!	!LO:TX:Z=32:X=-40:t=Canon at the lower 2nd (A-->T, 1 breve)	!	!	!
 !	!	!	!	!LO:TX:Z=13:X=-40:t=Canon ung ton plus bas	!	!	!
 0r	.	0r	.	1.e	A-	0r	.
 .	.	.	.	4d\	.	.	.
@@ -356,12 +356,12 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Agnus Dei III
-!!!OMD: Agnus Dei III
+!!section: Agnus dei III
+!!!OMD: Agnus dei III
 1A	A-	0r	.	0r	.	0r	.
 1c	-gnus	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48
-!	!	!	!	!	!	!LO:TX:Z=32:X=-60:t=Canon at the lower octave (S-->T, 2 breves)	!
+!	!	!	!	!	!	!LO:TX:Z=32:X=-60:t=Canon at the lower 8ve (S-->T, 2 breves)	!
 !	!	!	!	!	!	!LO:TX:Z=13:X=-60:t=Tenor in diapason	!
 2B\	De-	0r	.	1r	.	0r	.
 1A	.	.	.	.	.	.	.

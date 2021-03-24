@@ -19,10 +19,10 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Prima pars: Inviolata, integra et casta es
-!!!OMD: Prima pars: Inviolata, integra et casta es
+!!section: Inviolata, integra et casta es
+!!!OMD: Inviolata, integra et casta es
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=22:X=-40:t=Canon at the upper fifth (T1-->T2, 3 breves)	!	!	!	!	!	!	!
+!	!	!LO:TX:Z=22:X=-40:t=Canon at the upper 5th (T1-->T2, 3 breves)	!	!	!	!	!	!	!
 0r	.	0r	.	0r	.	0r	.	0f	In-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	0r	.	0r	.	0r	.	1f	-vi-
@@ -362,8 +362,8 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !	!	!LO:TX:Z=16:X:=40:t=Canon at the upper fifth (T1-->T2, 2 breves)	!	!	!	!	!	!	!
-!!section: Nostra ut pura pectora
-!!!OMD: Nostra ut pura pectora
+!!section: Secunda pars&colon; Nostra ut pura pectora
+!!!OMD: Secunda pars&colon; Nostra ut pura pectora
 1F	No-	0r	.	0r	.	0r	.	0r	.
 1F	-stra	.	.	.	.	.	.	.	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65
@@ -622,8 +622,8 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M3/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: O benigna
-!!!OMD: O benigna
+!!section: Tertia pars&colon; O benigna
+!!!OMD: Tertia pars&colon; O benigna
 !	!	!LO:TX:Z=12:X=-40:t=Canon at the upper fifth (T1-->T2, 1 breve)	!	!	!	!	!	!	!
 0r	.	0A	O	[0c	O	0r	.	1r	.
 .	.	.	.	.	.	.	.	[1cc	O

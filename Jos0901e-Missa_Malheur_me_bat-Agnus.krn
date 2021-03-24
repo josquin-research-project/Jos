@@ -28,8 +28,7 @@
 !!!OMD: Agnus dei I
 !!section: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=6:t=Tenor. De minimis non curat pretor [omit all values smaller than a semibreve]	!	!	!
-!	!	!LO:TX:Y=26:t=c.f. in the tenor	!	!	!
+!	!	!LO:TX:Z=6:t=Tenor. De minimis non curat pretor [T omits all values smaller than a semibreve]	!	!	!
 !	!	!LO:N:vis=0	!	!	!
 0r	0r	[y0E\	0r	0r	1e
 .	.	.	.	.	2e/
@@ -842,7 +841,7 @@
 !!primary-mensuration: met(C|)
 !!!OMD: Agnus dei III
 !!section: Agnus dei III
-!LO:TX:Z=6:t=Minim canon at the unison (A1/A2)	!	!LO:TX:Z=6:t=c.f. in S,T	!	!LO:TX:Z=6:t=Minim canon at the unison (B1/B2)	!
+! !LO:TX:Z=6:t=Minim canon at the unison (B1/B2)	!	!	!LO:TX:Z=6:t=Minim canon at the unison (A1/A2)	!LO:TX:Z=6:t=C.f. in S,T
 !	!	!LO:N:vis=0	!	!	!
 !	!	!	!	!	!LO:N:vis=0
 1E	2r	[y0E	0r	0r	0r

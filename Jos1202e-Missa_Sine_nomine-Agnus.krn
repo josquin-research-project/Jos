@@ -255,7 +255,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Agnus dei II
 !!!OMD: Agnus dei II
-!	!	!	!	!LO:TX:Z=32:X=-40:t=Canon at the lower 2nd (A-->T, 1 breve)	!	!	!
+!	!	!LO:TX:Z=32:X=-40:t=Canon at the lower 2nd (A-->T, 1 breve)	!	!	! ! !
 !	!	!	!	!LO:TX:Z=13:X=-40:t=Canon ung ton plus bas	!	!	!
 0r	.	0r	.	1.e	A-	0r	.
 .	.	.	.	4d\	.	.	.

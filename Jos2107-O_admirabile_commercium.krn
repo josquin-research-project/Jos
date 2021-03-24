@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL:	O admirabile commercium
 !!!AGN:	Motet
@@ -2146,4 +2146,4 @@
 !!!EEV:	2019/12/10/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150z18l2650c80
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,150z18l2650c80

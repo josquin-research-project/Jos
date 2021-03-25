@@ -19,7 +19,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1	=1	=1	=1
-!	!LO:TX:a:t=T&colon; Per omnia secula seculorum	!	!LO:TX:Z=12:t=S=S of Hayne's "De tous biens plaine"
+!	!LO:TX:Z=8:t=T&colon; Per omnia secula seculorum	!	!LO:TX:Z=12:t=S=S of Hayne's "De tous biens plaine"
 [0GG	0r	1.G	0g
 .	.	2A	.
 =2	=2	=2	=2
@@ -81,7 +81,7 @@
 4C	.	4A	.
 =12	=12	=12	=12
 1AA	1F	1c	1a
-!	!	!LO:TX:a:t=mm. 12 note 2, A&colon; Sb 2-Sm Mi Sb	!
+!	!	!LO:TX:Z=8:t=mm. 12 note 2, A&colon; Sb 2-Sm Mi Sb	!
 1GG	1G	[1B-	[1b-
 =13	=13	=13	=13
 2r	1G	2B-]	2b-]
@@ -339,7 +339,7 @@
 =60	=60	=60	=60
 1r	0G	4d]	0g
 .	.	4c	.
-!	!	!LO:TX:a:t=MS&colon; 60A b-flat = minim	!
+!	!	!LO:TX:Z=8:t=MS&colon; 60A b-flat = minim	!
 .	.	1B-	.
 1GG	.	.	.
 .	.	4A	.
@@ -473,4 +473,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2021/03/25
 !!!ONB:	Translated from MusicXML and edited on 2021/03/25 by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150c210
+!!muse2ps: C^@{COA}??\n@{SCT}^i2I150v85,85,85,150c210

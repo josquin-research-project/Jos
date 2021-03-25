@@ -1,6 +1,6 @@
 !!!COA:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa L'ami baudichon
+!!!OPR:	Missa L'ami Baudichon
 !!!ONM:	2
 !!!OTL:	Gloria
 !!!AGN:	Mass; Gloria
@@ -451,6 +451,7 @@
 !!!OMD: Qui tollis
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!	!LO:TX:Z=6:t=T: twofold statement under successive mensuration signs	!	!
 0G	0r	0r	0r
 =63	=63	=63	=63
 1A	0r	0r	0r
@@ -664,11 +665,11 @@
 0C	[0e	1r	1cc
 .	.	1c	1r
 =113	=113-	=113	=113
-1r	0e_	1c	3%4gV
+1r	0e]	1c	3%4gV
 1C	.	1c	.
 .	.	.	[3%2gZ
 =114	=114	=114	=114
-1C	0e]	2G/	3%2g]V
+1C	0e	2G/	3%2g]V
 .	.	2.c\	.
 .	.	.	3%4gZ
 1C	.	.	.

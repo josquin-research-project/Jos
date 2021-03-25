@@ -586,7 +586,7 @@
 !!!OMD: Benedictus
 !	!	!	!	!LO:N:vis=1.	!	!	!
 !	!	!	!	!	!	!LO:TX:Z=12:t=Mensuration canon at the 5th (S/A)	!
-!	!	!	!	!	!	!LO:TX:Z=32:X=110:t=Benedictus in diapente. C. Qui venit in diapason. In nomine in diapente.	!
+!	!	!	!	!	!	!LO:TX:Z=32:X=110:t=Benedictus in diapente. Qui venit in diapason. In nomine in diapente.	!
 0r	.	0r	.	[y0d	Be-	1.a	Be-
 .	.	.	.	.	.	2g/	-ne-
 =99	=99	=99	=99	=99-	=99	=99	=99
@@ -649,7 +649,7 @@
 *	*	*rscale:1/2	*	*rscale:1	*	*	*
 !!section: Qui venit
 !!!OMD: Qui venit
-!	!	!LO:TX:Z=10:X=-40:t=T - Benedictus S, down an 8ve	!	!	!	!	!
+!	!	!LO:TX:Z=10:X=-40:t=T&colon; Benedictus A, down a 4th	!	!	!	!	!
 !	!	!LO:N:vis=1.	!	!	!	!	!
 0r	.	[y0A	Qui	0A	Qui	0r	.
 =109	=109	=109-	=109	=109	=109	=109	=109
@@ -713,7 +713,7 @@
 !!section: In nomine
 !!!OMD: In nomine
 !	!	!	!	!	!	!LO:N:vis=1.	!
-!	!	!LO:TX:Z=22:X=-40:t=S = Benedictus S, down a 5th	!	!	!	!	!
+!	!	!LO:TX:Z=22:X=-40:t=S&colon; Benedictus S	!	!	!	!	!
 1D	In	0r	.	0r	.	[y0d	In
 1F	.	.	.	.	.	.	.
 =119	=119	=119	=119	=119	=119	=119-	=119

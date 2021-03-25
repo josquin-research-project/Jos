@@ -1,6 +1,6 @@
 !!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT: Victimae paschali laudes / D'ung aultre amer
+!!!OTL@@LAT: Victime paschali laudes / D'ung aultre amer@ndash;De tous biens plaine
 !!!OTL2@@LAT: Dic nobis Maria
 !!!AGN:	Motet
 !!!SCT:	NJE 22.6
@@ -16,7 +16,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-!	!	!	!LO:TX:Z=10:t=Superius by Ockeghem
+!	!	!	!LO:TX:Z=10:t=S quotes Okeghem's song discantus
 0r	0G	0r	0g
 =2	=2	=2	=2
 0r	1F	0r	1a
@@ -259,7 +259,7 @@
 =47||	=47||	=47||	=47||
 !!section: Secunda pars: Dic nobis Maria
 !!!OMD: Secunda pars: Doc nobis Maria
-!	!	!	!LO:TX:Z=5:t=Superius by Hayne van Ghizeghem
+!	!	!	!LO:TX:Z=5:t=S quotes Hayne's song discantus
 1.D	0r	0r	0r
 2E\	.	.	.
 =48	=48	=48	=48

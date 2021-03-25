@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!COM: Isaac
 !!!OTL@@LAT: Virgo prudentissima
@@ -16,7 +16,6 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Virgo prudentissima
-!!!OMD: Virgo prudentissima
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0r	.	0r	.	0r	.	0g	Vir-
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -392,5 +391,5 @@
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2013/03/08/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^I150v90,90,90,130c70Q16z18
-!!muse2ps-notext: C^@{COA}?\n@{SCT}^I150v90,90,90,130c100Q16
+!!muse2ps-notext: C^@{COM}\n@{SCT}^I150v90,90,90,130c100Q16
 !!!ONB: April 2013 Concert

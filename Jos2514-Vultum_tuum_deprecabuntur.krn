@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT:  Vultum tuum deprecabuntur
 !!!OTL2@@LAT: Sancta dei genitrix 
@@ -29,7 +29,6 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*	*met(C|)	*
 !!section: Prima pars: Vultum tuum deprecabuntur
-!!!OMD: Prima pars
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 [0G	.	0G	.	[0d	.	.	[0g	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -1576,10 +1575,10 @@
 .	.	1B-	.	1d	.	.	.	.
 .	.	.	.	.	.	.	2g/	.
 =313	=313	=313	=313	=313	=313	=313	=313	=313
-1r	.	0A	.	1e	.	.	0a	.
+1r	.	0A	.	1en-	.	.	0a	.
 1D	.	.	.	1d	.	.	.	.
 =314	=314	=314	=314	=314	=314	=314	=314	=314
-1E	.	0r	.	2Bni\	.	.	0r	.
+1En-	.	0r	.	2Bni\	.	.	0r	.
 .	.	.	.	2c\	.	.	.	.
 1D	.	.	.	2d\	.	.	.	.
 .	.	.	.	2e\	.	.	.	.
@@ -1594,8 +1593,8 @@
 1D	.	2r	.	4e\]	.	.	0r	.
 .	.	.	.	4d\	.	.	.	.
 .	.	1A	.	1d	.	.	.	.
-1E	.	.	.	.	.	.	.	.
-.	.	2G/	.	2c#i\	.	.	.	.
+1En-	.	.	.	.	.	.	.	.
+.	.	2G/	.	2c\	.	.	.	.
 =317	=317	=317	=317	=317	=317	=317	=317	=317
 1D	.	1A	.	1d	.	.	2r	.
 .	.	.	.	.	.	.	1a	.
@@ -1611,7 +1610,7 @@
 1A	.	2d\]	.	2g\]	.	.	2a/	.
 .	.	2c\	.	2f\	.	.	1cc	.
 1G	.	1d	.	1g	.	.	.	.
-.	.	.	.	.	.	.	2bni\	.
+.	.	.	.	.	.	.	2b\	.
 =320	=320	=320	=320	=320	=320	=320	=320	=320
 2r	.	1e	.	1c	.	.	1cc	.
 1c	.	.	.	.	.	.	.	.
@@ -2396,7 +2395,7 @@
 *>G	*	*>G	*	*>G	*	*	*>G	*
 !!section: Septima pars: Christe, fili dei
 !!!OMD: Septima pars: Christe, fili dei
-!	!	!	!	!LO:TX:Z=6:X:=-50:t=Altus quotes discantus of the anon. "J'ay pris amours" down a fifth	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:X:=-50:t=A quotes discantus of the anon. "J'ay pris amours" down a 5th	!	!	!	!
 0r	.	0r	.	0r	.	.	0g	Chri-
 =489	=489	=489	=489	=489	=489	=489	=489	=489
 0r	.	0G	Chri-	0r	.	.	0g	-ste,
@@ -2470,7 +2469,7 @@
 .	.	.	.	2c\	.	.	4a/	-re
 .	.	4A/	.	.	.	.	4g/	.
 =507	=507	=507	=507	=507	=507	=507	=507	=507
-0D	no-	2B-\	-re-	[0dl	-se.	-bis.	2f/	no-
+0D	no-	2B-\	-re-	[0dl;	-se.	-bis.	2f/	no-
 .	.	2G/	-re	.	.	.	1g	.
 .	.	1A	no-	.	.	.	.	.
 .	.	.	.	.	.	.	2f#i/	.
@@ -2696,4 +2695,4 @@
 !!!EEV:	2012/04/22/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/10/17/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^I150v90,90,90,110c66i2I150Q16z18
+!!muse2ps: C^@{COM}\n@{SCT}^I150v90,90,90,110c66i2I150Q16z18

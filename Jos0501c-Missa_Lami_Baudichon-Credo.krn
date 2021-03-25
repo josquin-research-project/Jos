@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!COA2: Tinctoris
 !!!OPR:	Missa L'ami Baudichon
@@ -785,7 +785,7 @@
 *met(O2)	*met(O)	*met(O2)	*met(O2)
 !!primary-mensuration: met(O2)
 !	!LO:N:vis=0	!	!
-!	!LO:TX:Z=6:t=T: sequential descent (2 x 6 statements)	!	!
+!	!LO:TX:Z=6:t=T&colon; sequential descent (2 x 6 statements)	!	!
 0C	[y0g	[0c	0cc
 =127.	=127-	=127.	=127.
 1C	0g]yy	0c]	1cc
@@ -1500,4 +1500,4 @@
 !!!EEV:	2012/06/09/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2012/06/09/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,150c180
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v85,85,85,150c180

@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL:	Credo Quarti toni
 !!!AGN:	Mass section; Credo
@@ -19,7 +19,7 @@
 !!primary-mensuration: met(C|)
 =1-	=1-	=1-	=1-
 *	*rscale:1/2	*rscale:1/2	*
-!	!	!LO:TX:Z=8:t=Canon at the lower fifth	!
+!	!	!LO:TX:Z=8:t=Canon at the lower 5th (A-->T, 1 minim in augmentation)	!
 0A	1r	0e	[0a
 !	!LO:N:vis=1	!	!
 .	[y1A	.	.
@@ -573,6 +573,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Crucifixus
 !!!OMD: Crucifixus
+!	!	!LO:TX:Z=8:t=Canon at the lower 5th (A-->T, 1 minim, shifting to 1 breve in m. 214)	!
 0r	0r	0r	1g
 .	.	.	1a
 =117	=117	=117	=117
@@ -1213,4 +1214,4 @@
 !!!EEV:	2012/06/24/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2012/06/24/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150Q16
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,150Q16

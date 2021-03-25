@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa D'ung aultre amer
 !!!ONM:	4
@@ -22,6 +22,7 @@
 =1-	=1-	=1-	=1-
 !!section: Sanctus
 !!!OMD: Sanctus
+!	!LO:TX:Z=6:t=T quotes Okeghem song T
 0r	0G	0r	0g
 =2	=2	=2	=2
 0r	1F	0r	1a
@@ -441,4 +442,4 @@
 !!!EEV:	2012/03/22/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v90,85,85,150Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v90,85,85,150Q16

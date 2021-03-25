@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL: A la mort / Monstra te esse matrem
 !!!AGN: Chanson; Motet-Chanson
@@ -16,6 +16,7 @@
 *met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-
 !LO:TX:Y=24:t=Monstra te esse matrem	!LO:TX:Y=24:t=A la mort on prioit a l'heure	!LO:TX:Y=30:t=A la mort on prioit a l'heure
+!LO:TX:Z=6:t=Ct&colon; two identical c.f. statements beginning on d, A	!	!
 0r	0r	1d
 .	.	1d
 =2	=2	=2
@@ -264,4 +265,4 @@
 !!!EEV: 2011/08/09/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/09/ by Craig Sapp
-!!muse2ps:  C^@{COM}{/}@{COA}?\n@{SCT}^v100,100,150I150Q16
+!!muse2ps:  C^@{COM}\n@{SCT}^v100,100,150I150Q16

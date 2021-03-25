@@ -1,9 +1,9 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa D'ung aultre amer
 !!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei; Missa Brevis
+!!!OTL:	Agnus dei
+!!!AGN:	Mass; Agnus dei; Missa Brevis
 !!!SCT:	NJE 7.3
 !!!SCA:	New Josquin Edition 7.3
 !!!voices:	4
@@ -20,8 +20,9 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-!!section: Agnus Dei I
-!!!OMD: Agnus Dei I
+!!section: Agnus dei I
+!!!OMD: Agnus dei I
+!	!LO:TX:Z=6:t=T quotes Okeghem song T
 0G	0G	0r	0r
 =2	=2	=2	=2
 1A	1F	0r	0r
@@ -123,8 +124,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Agnus Dei II
-!!!OMD: Agnus Dei II
+!!section: Agnus dei II
+!!!OMD: Agnus dei II
 0r	0B-	0r	2.d/
 .	.	.	4e/
 .	.	.	2f/
@@ -209,8 +210,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
-!!section: Agnus Dei III
-!!!OMD: Agnus Dei III
+!!section: Agnus dei III
+!!!OMD: Agnus dei III
 0r	0B-	0r	0d
 =37	=37	=37	=37
 0r	1G	0r	1d
@@ -306,4 +307,4 @@
 !!!EEV:	2012/03/22/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,150Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v85,85,85,150Q16

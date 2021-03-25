@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL: De tous biens plaine
 !!!AGN: Chanson
@@ -15,7 +15,7 @@
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-
-!LO:TX:Z=16:t=Canon at the upper fifth	!	!LO:TX:Z=16:t=Discantus by Hayne van Ghizeghem
+!LO:TX:Z=16:t=Canon at the upper 5th (Ct-->T, one semibreve)	!	!LO:TX:Z=16:t=D quotes Hayne's discantus
 0G	1r	0g
 .	[1d	.
 =2	=2	=2
@@ -342,4 +342,4 @@
 !!!EEV: 2011/08/12/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/12/ by Craig Sapp
-!!muse2ps:  C^@{COM}{/}@{COA}?\n@{SCT}^v100,100,150I150Q16
+!!muse2ps:  C^@{COM}\n@{SCT}^v100,100,150I150Q16

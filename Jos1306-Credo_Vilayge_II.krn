@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL:	Credo Vilayge II
 !!!AGN:	Mass section; Credo
@@ -868,4 +868,4 @@
 !!!EEV:	2012/07/26/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2012/07/26/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150c160
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,150c160

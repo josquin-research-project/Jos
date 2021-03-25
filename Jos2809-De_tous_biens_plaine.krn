@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL@@FRA: De tous biens plaine
 !!!AGN: Chanson
@@ -15,7 +15,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-!	!LO:TX:X=-50:Z=24:t=Canon&colon; Petrus & Joannes current In puncto	!	!LO:TX:X=-50:Z=6:t=NB&colon; Two upper voices by Hayne van Ghizeghem
+!	!LO:TX:X=-50:Z=24:t=Canon&colon; Petrus & Joannes currunt in puncto (Peter and John run on a point; B2-->B1 caonon at the unison, one minim, with B1 beginning on B2's first dot)	!	!LO:TX:X=-50:Z=6:t=NB&colon; S and T quote corresponding voices of Hayne's song
 2r	2.G\	[0G	0g
 2.G\	.	.	.
 .	4A\	.	.
@@ -416,4 +416,4 @@
 !!!EEV: 2011/08/08/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/08/ by Craig Sapp
-!!muse2ps:  C^@{COM}{/}@{COA}?\n@{SCT}^v90,100,90,150I150Q16
+!!muse2ps:  C^@{COM}\n@{SCT}^v90,100,90,150I150Q16

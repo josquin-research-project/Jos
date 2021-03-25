@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL@@LAT:	In exitu Israel de Egypto
 !!!OTL2@@LAT:	Deus autem noster in celo
@@ -2001,4 +2001,4 @@
 !!!EEV:	2012/01/22/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2012/01/22/ by Craig Sapp
-!!muse2ps: u^(2) @{OTL2}, (3) @{OTL3}^C^@{COA}?\n@{SCT}^i2I150v90,90,90,150Q16
+!!muse2ps: u^(2) @{OTL2}, (3) @{OTL3}^C^@{COM}\n@{SCT}^i2I150v90,90,90,150Q16

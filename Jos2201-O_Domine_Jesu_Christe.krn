@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL@@LAT: O domine Jesu Christe
 !!!OTL2@@LAT: adoro te in cruce vulneratum
@@ -27,7 +27,6 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 *MM360	*MM360	*MM360	*MM360
 !!section: Prima pars
-!!!OMD: Prima pars
 =1-	=1-	=1-	=1-
 [0D	[0D	[0A	[0d
 =2	=2	=2	=2
@@ -1084,4 +1083,4 @@
 !!!EEV:	2011/10/18/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/10/18/ by Craig Sapp
-!!muse2ps: u^(2) @{OTL2} (3) @{OTL3} (4) @{OTL4} (5) @{OTL5}^C^@{COA}?\n@{SCT}^v95,95,95,150i2I150c90Q16
+!!muse2ps: u^(2) @{OTL2} (3) @{OTL3} (4) @{OTL4} (5) @{OTL5}^C^@{COM}\n@{SCT}^v95,95,95,150i2I150c90Q16

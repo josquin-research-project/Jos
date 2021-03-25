@@ -18,9 +18,8 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Prima pars: Pater noster
-!!!OMD: Prima pars: Pater noster
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=12:X=-40:t=Canon at the upper fifth (3 breves)	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:Z=12:X=-40:t=Canon at the upper 5th (T2-->T1, 3 breves)	!	!	!	!	!	!	!	!	!
 0r	.	0r	.	0r	.	0r	.	0g	Pa-	0g	Pa-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	0r	.	0r	.	0G	Pa-	1g	-ter	1g	-ter
@@ -581,7 +580,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Secunda pars: Ave Maria
 !!!OMD: Secunda pars: Ave Maria
-!	!	!LO:TX:Z=12:X=-40:t=Canon at the unison (3 breves)	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:Z=12:X=-40:t=Canon at the unison (T2-->T1, 3 breves)	!	!	!	!	!	!	!	!	!
 0r	.	0B-	A-	0r	.	0G	A-	0r	.	0r	.
 =122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
 0r	.	0F	-ve	0r	.	1A	-ve	0r	.	0r	.

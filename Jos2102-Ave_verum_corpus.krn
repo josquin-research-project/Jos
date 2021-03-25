@@ -16,6 +16,7 @@
 *k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*
+!	!	!	!	!LO:TX:Z=6:t=Exceptional ranges (effectively SST)	!
 =1-	=1-	=1-	=1-	=1-	=1-
 0r	.	0f	A-	0r	.
 =2	=2	=2	=2	=2	=2
@@ -113,6 +114,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 !!!OMD: Vere passum
 !!section: Vere passum
+!	!	!	!	!LO:TX:Z=6:t=Same music as prev. section with an added voice	!
 2.F/	Ve-	0f	Ve-	0r	.
 4G/	.	.	.	.	.
 2A/	.	.	.	.	.
@@ -366,6 +368,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 !!!OMD: Esto nobis
 !!section: Esto nobis
+!	!	!	!	!LO:TX:Z=6:t=Same music as prev. section with an added voice	!
 1.F	Es-	1.a	Es-	0r	.
 2G/	.	2b-i\	.	.	.
 =73	=73	=73	=73	=73	=73

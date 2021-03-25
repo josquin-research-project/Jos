@@ -22,6 +22,7 @@
 *met(O)	*met(O.)	*met(O)	*met(O)
 !!primary-mensuration: met(O)
 =1-	=1-	=1-	=1-
+!	!LO:TX:Z=6:t=T subject to inversion	!	!
 0.r	0.r	0c	0cc
 .	.	2e\	1cc
 .	.	2f\	.
@@ -784,6 +785,7 @@
 *met(O2)	*met(O)	*met(O2)	*met(O2)
 !!primary-mensuration: met(O2)
 !	!LO:N:vis=0	!	!
+!	!LO:TX:Z=6:t=T: sequential descent (2 x 6 statements)	!	!
 0C	[y0g	[0c	0cc
 =127.	=127-	=127.	=127.
 1C	0g]yy	0c]	1cc

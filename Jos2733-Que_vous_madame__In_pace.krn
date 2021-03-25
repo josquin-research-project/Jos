@@ -22,7 +22,7 @@
 *met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-
 !	!	!LO:TX:Z=6:t=Upper voices&colon; virelai (AbbaA)
-!	!	!LO:TX:Z=6:t=Que vous madame
+!LO:TX:Z=6:t=Que vous madame  ! !
 0r	2.c\	0r
 .	4d\	.
 .	2e\	.
@@ -31,11 +31,11 @@
 0r	2f\]	1r
 .	4e\	.
 .	4d\	.
-!	!LO:TX:Z=6:t=Que vous madame	!
+!	!LO:TX:Z=30:t=Que vous madame	!
 .	[1e	2.g/
 .	.	4a/
 =3	=3	=3
-!LO:TX:Z=-6:t=In pace	!	!
+!LO:TX:Z=-66:t=In pace	!	!
 0E	1e]	2b\
 .	.	1cc
 .	1e	.

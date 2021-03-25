@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL@@FRA: A l'heure
 !!!AGN: Chanson
@@ -15,7 +15,7 @@
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
 =1-	=1-	=1-	=1-
-!	!	!	!LO:TX:Z=10:t=Canon at the lower 9th
+!	!	!	!LO:TX:Z=10:t=Canon at the lower 9th (S-->B, 1 breve)
 0.r	1.G	0.r	1r
 .	.	.	1r
 .	1B-	.	.
@@ -298,4 +298,4 @@
 !!!EEV: 2011/08/08/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/08/ by Craig Sapp
-!!muse2ps:  C^@{COM}{/}@{COA}?\n@{SCT}^v90,100,90,150I150Q16
+!!muse2ps:  C^@{COM}{/}@{COM}\n@{SCT}^v90,100,90,150I150Q16

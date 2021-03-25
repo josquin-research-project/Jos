@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OPR:	Missa D'ung aultre amer
 !!!ONM:	1
@@ -22,6 +22,7 @@
 =1-	=1-	=1-	=1-
 !!section: Kyrie I
 !!!OMD: Kyrie I
+!	!LO:TX:Z=6:t=T quotes Okeghem song T
 0r	1.G	0r	0g
 .	2E/	.	.
 =2	=2	=2	=2
@@ -316,4 +317,4 @@
 !!!EEV:	2012/03/22/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I100v85,85,85,150c100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,85,85,150c100Q16

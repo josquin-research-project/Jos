@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL@@LAT: Magnificat tertii toni
 !!!OTL1@@LAT: Et exsultavit spiritus me
@@ -742,7 +742,7 @@
 4F\	.	[2A/	2a/
 4G\	.	.	.
 =119	=119	=119	=119
-2A\	[0Ai	4A/]	2e/
+2A\	[0Al	4A/]	2e/
 .	.	4B\	.
 2AA/	.	2c\	2r
 2r	.	2.A/	2e/
@@ -761,7 +761,7 @@
 1D	.	1F	.
 .	.	.	2d/
 =122	=122	=122	=122
-0AAi	0A]	0Ei	0ei
+0AAl	0A]	0El	0el
 !!LO:LB:i:g=z
 =123||	=123||	=123||	=123||
 *>E	*>E	*>E	*>E
@@ -1144,4 +1144,4 @@
 !!!EEV:	2013/10/25/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^I150v90,90,90,150c95i2I150Q16
+!!muse2ps: C^@{COM}\n@{SCT} (Berlin 40021)^I150v90,90,90,150c95i2I150Q16

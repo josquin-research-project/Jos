@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL@@LAT: Homo quidam fecit cenam
 !!!ONB: (2) Versus Venite, comedite
@@ -17,6 +17,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(O2)	*met(O2)	*met(O2)	*met(O2)	*met(O2)
 =1-	=1-	=1-	=1-	=1-
+!	!	!LO:TX:Z=6:t=Canon at the lower 4th (T1-->T2, 1 breve)	!	!
 0r	0r	0r	0c	[0cc
 =2.	=2.	=2.	=2.	=2.
 0r	0r	0r	1.c	0cc]
@@ -472,13 +473,14 @@
 !!LO:LB:i:g=z
 !LO:TX:r:Y=20:t=Fine	!LO:TX:r:Y=20:t=Fine	!LO:TX:r:Y=20:t=Fine	!LO:TX:r:Y=20:t=Fine	!LO:TX:r:Y=20:t=Fine
 ==85	==85	==85	==85	==85
+0C	0G	0c	0c	0cc
+=86	=86	=86	=86	=86.
 *>B	*>B	*>B	*>B	*>B
 !!section: Versus: Venite, comedite panem meum
 !!!OMD: Versus: Venite, comedite panem meum
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
-0C	0G	0c	0c	0cc
-=86	=86	=86	=86	=86.
+!	!	!LO:TX:Z=6:t=Canon at the unison (T1-->T2, 2 breves)	!	!
 1.C	0r	0r	0r	0r
 2BB/	.	.	.	.
 =87	=87	=87	=87	=87.
@@ -715,4 +717,4 @@
 !!!EEV:	2011/08/18/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
-!!muse2ps: u^(2) Versus: Venite, comedite^C^@{COM}{/}@{COA}?\n@{SCT}^I150v90,90,90,90,130i2I150Q16
+!!muse2ps: u^(2) Versus: Venite, comedite^C^@{COM}\n@{SCT}^I150v90,90,90,90,130i2I150Q16

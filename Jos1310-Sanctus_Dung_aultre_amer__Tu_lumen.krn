@@ -14,6 +14,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
+!!section: Sanctus and Pleni
+!!!OMD: Sanctus and Pleni
 =1-	=1-	=1-	=1-
 !	!	!	!LO:TX:Z=10:t=S quotes Okeghem song S
 0r	0r	0g	0g
@@ -222,6 +224,8 @@
 =43||	=43||	=43||	=43||
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O/3)	*met(O/3)	*met(O/3)	*met(O/3)
+!!section: Benedictus
+!!!OMD: Benedictus
 0.r	0.r	1g	0g
 .	.	1e	.
 .	.	1f	1a
@@ -342,8 +346,8 @@
 =68||	=68||	=68||	=68||
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)
-!!section: Osanna
-!!!OMD: Osanna
+!!section: Osanna (ut supra)
+!!!OMD: Osanna (ut supra)
 0.r	0.r	0g	0.b-
 .	.	2d\	.
 .	.	2e\	.

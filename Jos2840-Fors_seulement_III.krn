@@ -1,10 +1,9 @@
 !!!COA: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
-!!!COM: Ghiselin
 !!!OTL@@FRA: Fors seulement III
 !!!AGN: Chanson
-!!!SCT: NJE 28.40 (fake)
-!!!SCA: New Josquin Edition 28.40 (fake)
+!!!SCT: NJE 28.40
+!!!SCA: New Josquin Edition 28.40
 !!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
@@ -16,7 +15,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=16:X=-40:t=Altus by Johannes Ockeghem (CT of "Fors seulement" up a fifth)	!
+!	!	!LO:TX:Z=16:X=-40:t=A quotes the contra of Okeghem's song up a fifth	!
 0r	1A	0e	0r
 .	1A	.	.
 =2	=2	=2	=2
@@ -440,4 +439,4 @@
 !!!EEV: 2015/09/09/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
-!!muse2ps:  C^@{COA}?\n@{SCT}^v90,100,90,150I150Q16
+!!muse2ps:  C^@{COA}\n@{SCT} (anon. unicum in Augsburg 142a)^v90,100,90,150I150Q16

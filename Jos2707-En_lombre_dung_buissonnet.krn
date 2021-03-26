@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL: En l'ombre d'ung buissonnet
 !!!AGN: Chanson
@@ -261,4 +261,4 @@
 !!!EEV: 2011/08/11/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/11/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v110,110,130z18c49l2600
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v110,110,130z18c49l2600

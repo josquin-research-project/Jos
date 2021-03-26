@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL@@FRE: Incessament livr&eacute;
 !!!AGN:	Chanson
@@ -15,7 +15,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-	=1-
-!	!	!	!LO:TX:Z=10:t=Canon at the lower fifth	!
+!	!	!	!LO:TX:Z=10:t=Canon at the lower 5th (T-->Q, 3 breves)	!
 1E	0r	0r	1r	0r
 1E	.	.	1e	.
 =2	=2	=2	=2	=2
@@ -323,4 +323,4 @@
 !!!EEV:	2011/12/06/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/12/06/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^I150v95,95,95,95,95,130c95i2I150Q16
+!!muse2ps: C^@{COM}\n@{SCT}^I150v95,95,95,95,95,130c95i2I150Q16

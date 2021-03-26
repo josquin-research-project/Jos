@@ -1,4 +1,4 @@
-!!!COA:	Josquin des Prez
+!!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
 !!!OTL@@FRE:	Vous l'arez
 !!!AGN:	Chanson
@@ -15,7 +15,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=10:t=Canon at the lower fourth	!	!	!
+!	!	!LO:TX:Z=10:t=Canon at the lower 4th (tenor-->sextus, four breves)	!	!	!
 0r	0r	1r	1d	0r	0r
 .	.	1d	1d	.	.
 =2	=2	=2	=2	=2	=2
@@ -261,4 +261,4 @@
 !!!EEV:	2011/12/01/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/12/01/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v95,95,95,95,95,130Q16
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v95,95,95,95,95,130Q16

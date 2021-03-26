@@ -1,4 +1,4 @@
-!!!COA: Josquin des Prez
+!!!COM: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
 !!!OTL@@FRA: Pleine de dueil
 !!!AGN: Chanson
@@ -10,12 +10,12 @@
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Contratenor	*I"Quintus	*I"Superius
 *I'B	*I'T	*I'Ct	*I'Q	*I'S
-*clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2
+*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
 *met(C)	*met(C)	*met(C)	*met(C)	*met(C)
 =1-	=1-	=1-	=1-	=1-
-!	!	!	!LO:TX:Z=10:t=Canon at the upper fifth	!
+!	!	!	!LO:TX:Z=10:t=Canon at the upper 5th (Q-->S, one breve)	!
 0r	1A	1r	0r	0r
 .	1A	1A	.	.
 =2	=2	=2	=2	=2
@@ -264,4 +264,4 @@
 !!!EEV: 2011/12/01/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/12/01/ by Craig Sapp
-!!muse2ps:  C^@{COA}?\n@{SCT}^v90,90,90,90,90,130Q16
+!!muse2ps:  C^@{COM}\n@{SCT}^v90,90,90,90,90,130Q16

@@ -15,7 +15,7 @@
 *M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*	*M2/1	*	*	*	*
 *met(C|)	*	*	*	*	*met(C|)	*	*	*	*	*met(C|)	*	*	*	*	*met(C|)	*	*	*	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!	!	!	!	!	!	!LO:TX:X=-54:Z=12:t=Canon at the upper 4th (A-->S, 1 semibreve) (He who flies above me is silent / He who sings on the dot comes after me)	!	!	!	!	!LO:TX:Z=6:t=Quiescit qui super me volat / Venit post me qui in punctu clamat	!	!	!	!
+!	!	!	!	!	!LO:TX:Z=6:t=Trans. of S canon&colon; He who flies above me is silent / He who sings on the dot comes after me	!	!	!	!	!LO:TX:Z=6:t=Canon at the upper 4th (A-->S, 1 semibreve)	!	!	!	!	!LO:TX:Z=6:t=Quiescit qui super me volat / Venit post me qui in punctu clamat	!	!	!	!
 1.F	U-	Je	Par	A-	1.f	U-	Je	Par	A-	1r	.	.	.	.	0r	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	[1c	U-	Je	Par	A-	.	.	.	.	.
 2G\	-ne	lui	mon	-voir	4e\	-ne	lui	mon	-voir	.	.	.	.	.	.	.	.	.	.
@@ -217,7 +217,7 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/09/10; Text: Rodin 2017/06/05
+!!!ENC:	Jesse Rodin 2011/09/10; Text: Rodin 2017/06/05
 !!!END:	2011/08/18/
 !!!EED:	Jesse Rodin
 !!!EEV:	2018/01/23/

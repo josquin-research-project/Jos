@@ -15,8 +15,8 @@
 *k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)
-!!LO:TX:Z=8:t=From Isaac's mass cycle
 =1	=1	=1
+!	!	!LO:TX:Z=8:t=From Isaac's mass cycle
 1F	0r	1f
 1C	.	2.cc\
 .	.	4b-\
@@ -241,4 +241,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2021/04/14
 !!!ONB:	Translated from MusicXML and edited on 2021/04/14 by Craig Sapp
-!!muse2ps: C^Isaac; @{COA}??\n@{SCT}^i2I150v115,115,150z18c100
+!!muse2ps: C^Isaac; @{COA}??\n(attrib. Josqin in Egenolff ca. 1536)^i2I150v115,115,150z18c100

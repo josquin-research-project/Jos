@@ -16,7 +16,7 @@
 *M2/1
 *met(C|)
 =1
-!LO:TX:Z=8:t=From a song &agrave; 6
+!LO:TX:Z=8:t=From a song &agrave; 6; nearly identical to Okeghem's tenor
 [0a
 =2
 0a]
@@ -218,4 +218,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2021/04/14
 !!!ONB:	Translated from MusicXML and edited on 2021/04/14 by Craig Sapp
-!!muse2ps: C^@{COA}??^i2I150v150z18c180t300
+!!muse2ps: C^@{COA}??\n@{SCT}^i2I150v150z18c180t300

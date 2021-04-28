@@ -279,15 +279,15 @@
 .	.	.	4B\	.	.
 .	.	.	4A/	.	.
 =50	=50	=50	=50	=50	=50
+!	!	!LO:TX:Z=6:t=2nd note of m. lacking in all sources	!	!	!
 0r	0r	2G/	2B\	2d\	2b\
-.	.	2C/	2c\	2f\	2a/
-.	.	2.G/	2c\	2e\	2cc\
-.	.	.	2G/	[2d\	[2b\
-.	.	4A/	.	.	.
+.	.	2F/	2c\	2f\	2a/
+.	.	2C/	2c\	2e\	2cc\
+.	.	[2G	2G/	[2d\	[2b\
 =51	=51	=51	=51	=51	=51
-1r	0r	1F	1d	4d\]	4b\]
-.	.	.	.	4c\	4a/
-.	.	.	.	4B\	1a
+1r	0r	4G]	1d	4d\]	4b\]
+.	.	4A	.	4c\	4a/
+.	.	2F	.	4B\	1a
 .	.	.	.	4A/	.
 1E	.	1E	1e	1B	.
 .	.	.	.	.	2g#i/
@@ -675,15 +675,15 @@
 .	.	.	4B\	.	.
 .	.	.	4A/	.	.
 =125	=125	=125	=125	=125	=125
+!	!	!LO:TX:Z=6:t=2nd note of m. lacking in all sources	!	!	!
 0r	0r	2G/	2B\	2d\	2b\
-.	.	2C/	2c\	2f\	2a/
-.	.	2.G/	2c\	2e\	2cc\
-.	.	.	2G/	[2d\	[2b\
-.	.	4A/	.	.	.
+.	.	2F/	2c\	2f\	2a/
+.	.	2C/	2c\	2e\	2cc\
+.	.	[2G	2G/	[2d\	[2b\
 =126	=126	=126	=126	=126	=126
-1r	0r	1F	1d	4d\]	4b\]
-.	.	.	.	4c\	4a/
-.	.	.	.	4B\	1a
+1r	0r	4G]	1d	4d\]	4b\]
+.	.	4A	.	4c\	4a/
+.	.	2F	.	4B\	1a
 .	.	.	.	4A/	.
 1E	.	1E	1e	1B	.
 .	.	.	.	.	2g#i/
@@ -722,4 +722,4 @@
 !!!EEV:	2011/11/02/
 !!attribution-level@Jos: 4a (the rest [double question mark])
 !!!ONB:	Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v95,95,95,95,95,130Q16
+!!muse2ps: C^@{COA}??\n@{SCT}^i2I150v95,95,95,95,95,130Q16

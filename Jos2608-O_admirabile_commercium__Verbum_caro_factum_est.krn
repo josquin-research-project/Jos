@@ -32,9 +32,7 @@
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 1.C_	_	1.c	ad-	2r	.	1.r	.	1.g]	_
 .	.	.	.	2r	.	.	.	.	.
-!	!	!	!	!LO:TX:i:Z=6:t=animato	!	!	!	!	!
 .	.	.	.	2.e/	ad-	.	.	.	.
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=6:t=animato	!
 1.C_	_	1.e	.	.	.	1.r	.	1cc	ad-
 .	.	.	.	4f/	.	.	.	.	.
 .	.	.	.	2g/	.	.	.	.	.
@@ -44,7 +42,6 @@
 .	.	.	.	2g/	-ra-	.	.	1ee	-bi-
 .	.	.	.	[2cc\	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-!	!	!LO:TX:i:Z=10:t=animato	!	!	!	!	!	!	!
 1.G	_	1d	-ra-	4cc\]	.	1.r	.	2dd\	-le
 .	.	.	.	4b\	.	.	.	.	.
 .	.	.	.	2b\	-bi-	.	.	2.dd\	com-
@@ -72,27 +69,22 @@
 1.r	.	[1.c	.	1.g	-um!	1.r	.	1cc	-um!
 .	.	.	.	.	.	.	.	2r	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=12:t=marcato	!
 1.r	.	1.c]	.	2r	.	1.r	.	1cc	Cre-
 .	.	.	.	2r	.	.	.	.	.
-!	!	!	!	!LO:TX:i:X=-20:Z=10:t=marcato	!	!	!	!	!
 .	.	.	.	2g/	Cre-	.	.	1ee	.
 1.r	.	1.G	-ci-	1.g	-a-	1.r	.	.	.
 .	.	.	.	.	.	.	.	2.dd\	.
 .	.	.	.	.	.	.	.	4cc\	.
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=12:t=legato	!
 1.r	.	1.d	-um!_	1.f	-tor	1.r	.	2b\	-a-
 .	.	.	.	.	.	.	.	2a/	.
 .	.	.	.	.	.	.	.	2dd\	-tor
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-!	!	!	!	!LO:TX:i:Z=8:X=-10:t=legato	!	!	!	!	!
 1.r	.	1.G	_	1g	ge-	1.r	.	2b\	ge-
 .	.	.	.	.	.	.	.	2.dd\	.
 .	.	.	.	2g/	-ne-	.	.	.	.
 .	.	.	.	.	.	.	.	4ee\	-ne-
 1.r	.	2r	.	2a/	-ris_	1.r	.	2ff\	-ris_
 !	!	!	!	!	!	!	!	!	!
-!	!	!LO:TX:i:rj:X=8:Z=8:t=legato	!	!	!	!	!	!	!
 .	.	2G/	Cre-	2b\	_	.	.	2gg\	_
 .	.	2A/	.	2cc\	hu-	.	.	2ee\	hu-
 1.r	.	2B\	-a-	2b\	-ma-	1.r	.	2dd\	-ma-
@@ -122,7 +114,6 @@
 [1.F	-mi-	1A	.	1.c_	.	1.r	.	1.r	.
 .	.	2A/	-ni-	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=26:t=marcato	!
 !	!	!	!	!	!	!	!	!	!
 1.F]	.	2F/	-ma-	1.c]	.	1.r	.	1.cc	a-
 .	.	2.A/	-tum_	.	.	.	.	.	.
@@ -192,10 +183,8 @@
 1.A]	.	1.r	.	2f/	.	1.cc]	_	.	.
 .	.	.	.	1e	-ctum	.	.	2r	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!LO:TX:rj:i:Z=12:t=legato	!
 .	.	.	.	.	.	.	.	2ee\	ho-
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-!LO:TX:i:Z=20:t=legato	!	!LO:TX:i:X=-20:Z=24:t=legato	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!
 1.D	-ris	1.a	et_	[1.d	est_	[1.dd	est_	1.ff	.
 1D	hu-	1f	_	1.d]	_	1.dd_	_	1dd	.
@@ -205,7 +194,6 @@
 1F	.	1d	-ce-	.	.	.	.	2.ff\	.
 .	.	.	.	.	.	.	.	4ee\	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-!	!	!	!	!LO:TX:i:Z=6:t=legato	!	!	!	!	!
 [1.C	-ni,_	1c	-dens	1.g	et	1.r	.	[1.ee	-mo_
 .	.	2c\	ho-	.	.	.	.	.	.
 1.C	_	2G/	.	1g	ha-	1.r	.	1ee]	_
@@ -260,12 +248,9 @@
 1.G_	.	1d	.	1.g	.	1.r	.	1.r	.
 .	.	2d\	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!LO:TX:i:X=10:Z=10:t=bright and dance-like	!
 1.G_	.	1B	.	1.g	-bis.	1.r	.	1dd	lar-
 .	.	2c\	-mi-	.	.	.	.	2cc\	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-!	!	!	!	!LO:TX:i:Z=6:t=pompous	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:i:X=10:Z=6:t=bright and dance-like	!	!	!
 1.G_	.	1.d	-ne.	[1.g	Et_	1dd	Ma-	1b	.
 .	.	.	.	.	.	2cc\	-gnum	2cc\	-gi-
 1.G]	.	1.r	.	1.g]	_	1b	no-	2dd\	-tus_
@@ -273,7 +258,6 @@
 .	.	.	.	.	.	2cc\	-men	.	.
 .	.	.	.	.	.	.	.	4dd\	_
 !	!	!	!	!	!	!	!	!	!
-!	!	!LO:TX:i:Z=8:t=pompous	!	!	!	!	!	!	!
 1.G	-mens	1B	Ma-	1d	pro-	1dd	Do-	1dd	est
 .	.	2c\	-gnum	2e/	.	2cc\	-mi-	2r	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
@@ -327,7 +311,6 @@
 1.A	_	2c\	est,_	1e	no-	1.r	.	1.cc	.
 .	.	2A/	_	.	.	.	.	.	.
 .	.	2c\	per	2f/	-men	.	.	.	.
-!LO:TX:i:X=20:Z=8:t=pompous	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!
 1G	lar-	2d\	Ga-	1g	Do-	1.r	.	1.b	-tem,
 .	.	2.d\	-bri-	.	.	.	.	.	.
@@ -340,7 +323,6 @@
 1D	_	.	.	.	.	.	.	2r	.
 .	.	4F/	.	4B/	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!LO:TX:i:X=-40:Z=20:t=exultant and legato	!
 .	.	2F/	.	2B/	-nu-	.	.	2dd\	su-
 [1.C	no-	1G	-el_	1.c	-el	1.r	.	2ee\	.
 .	.	.	.	.	.	.	.	2cc\	.
@@ -385,7 +367,6 @@
 *met(O)	*met()	*met(O)	*met()	*met(O)	*met()	*met(O)	*met()	*met(O)	*met()
 *MM272	*	*MM272	*	*MM272	*	*MM272	*	*MM272	*
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!LO:TX:i:X=10:Z=8:t=very legato and peaceful	!
 !!section: Iocundare die theotice - Verbum caro factus est - Hodie apparuit
 !!!OMD: Secunda pars
 0.r	.	1c	Io-	1c	Io-	0.r	.	1cc	Io-
@@ -412,7 +393,6 @@
 .	.	2r	.	2a/	.	.	.	[1ee	.
 .	.	[2c\	tin-	2g/	.	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-!	!	!	!	!LO:TX:b:Z=10:sz=large:t=   ,	!	!	!	!	!
 0.r	.	2c\]	.	1a,	-ce,	0.r	.	2ee\]	.
 .	.	1d	-nu-	.	.	.	.	2.ff\	.
 .	.	.	.	1d	tin-	.	.	.	.
@@ -422,7 +402,6 @@
 .	.	1A	-la	1e	-nu-	.	.	.	.
 .	.	.	.	.	.	.	.	2cc#i\	-to-
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=6:t=     ,	!
 0.r	.	2.B\	fe-	1d	-la	0.r	.	0dd	-ce,
 .	.	4G/	.	.	.	.	.	.	.
 .	.	0G	-sto	0g	fe-	.	.	.	.
@@ -452,13 +431,11 @@
 .	.	1d	.	.	.	.	.	.	.
 .	.	.	.	2f/	.	.	.	2b\	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-!LO:TX:i:X=-20:Z=16:t=declamatory	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!
 0C	Ver-	1c	.	1g	.	0.r	.	1cc	-sto
 .	.	2G/	.	2e/	.	.	.	1r	.
 !	!	!	!	!	!	!	!	!	!
 .	.	1c	.	2f/	.	.	.	.	.
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=10:t=stronger	!
 1r	.	.	.	1g	-sto	.	.	1ee	o-
 !	!	!	!	!	!	!	!	!	!
 .	.	2B\	-di-	.	.	.	.	.	.
@@ -473,7 +450,6 @@
 1F	-ctum_	1r	.	1a]	.	0.r	.	2cc\	in-
 .	.	.	.	.	.	.	.	2a/	.
 1G	_	1r	.	0g	.	.	.	1.b	-e-
-!	!	!LO:TX:i:X=-80:Z=16:t=declamatory	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!
 2G\	est	1G	Ver-	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	[2dd\	.
@@ -495,7 +471,6 @@
 2F\	et_	1d	est.	1r	.	.	.	1.a	.
 2G\	_	.	.	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:rj:X=30:Z=20:i:t=declamatory	!	!	!	!	!
 1A	ha-	1r	.	1c	Ver-	.	.	.	.
 .	.	.	.	.	.	.	.	2cc\	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
@@ -515,7 +490,6 @@
 !	!	!	!	!	!	!	!	!	!
 .	.	.	.	2d/	ver-	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=6:t=declamatory	!
 0.r	.	1G	.	2.g/	-bum_	0.r	.	2b\	-bum
 .	.	.	.	.	.	.	.	2dd\	ca-
 .	.	.	.	4f/	_	.	.	.	.
@@ -526,7 +500,6 @@
 0.r	.	1B	est,_	1d	-ctum	1r	.	1dd	_
 .	.	0G	_	0g	est,	1r	.	1dd	est...
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:i:X=10:Z=16:t=declamatory	!	!	!
 .	.	.	.	.	.	1g	Ver-	1r	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 !	!	!	!	!	!	!	!	!	!
@@ -538,7 +511,6 @@
 .	.	.	.	2g/	-bum	.	.	4dd\	_
 .	.	.	.	.	.	.	.	4cc\	_
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
-!LO:TX:i:Z=20:t=maestoso	!	!LO:TX:i:Z=6:t=maestoso	!	!	!	!	!	!	!
 [0.G	in_	0d	fa-	0g	ca-	0dd	est	0b	nunc
 .	.	1d	-ctum_	2g/	-ro_	2r	.	1b	ar-
 .	.	.	.	2f/	_	2dd\	et	.	.
@@ -553,7 +525,6 @@
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
 1r	.	1r	.	[0.g	est,_	2ee\	-vit	1b	-go
 .	.	.	.	.	.	2dd\	in	.	.
-!LO:TX:i:X=-10:Z=10:t=simile	!	!LO:TX:i:X=-10:Z=6:t=simile	!	!	!	!	!	!	!
 0C	no-	0c	est,	.	.	0ee	no-	0cc	bo-
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
 1BB	-bis,_	1r	.	0.g]	_	1dd	.	1dd	.
@@ -564,11 +535,9 @@
 0.G	_	0d	.	1r	.	0b	-bis	1dd	-na
 .	.	.	.	1r	.	.	.	1r	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!LO:TX:i:X=20:Z=6:t=legato	!	!	!	!LO:TX:i:X=20:Z=16:t=legato	!
 .	.	1B	-ctum	1g	et	1r	.	1gg	men-
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 !	!	!	!	!	!	!	!	!	!
-!LO:TX:i:X=25:Z=8:t=legato	!	!	!	!	!	!	!	!	!
 0c	et	0e	est_	2g/	ha-	0.r	.	2.gg\	-tis_
 .	.	.	.	2a/	-bi-	.	.	.	.
 .	.	.	.	.	.	.	.	4ff\	_
@@ -587,10 +556,8 @@
 1D	glo-	.	.	1f	.	.	.	.	.
 .	.	.	.	.	.	.	.	2dd\	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-!	!	!	!	!	!	!LO:TX:i:Z=16:t=declamatory	!	!	!
 1r	.	0.r	.	1e	-bis	1b	et	0ee	-ce
 0E	-ri-	.	.	2r	.	2b\	vi-	.	.
-!	!	!	!	!LO:TX:i:Z=6:t=declamatory	!	!	!	!	!
 .	.	.	.	2e/	et	2b\	-di-	.	.
 .	.	.	.	2e/	vi-	2b\	-mus	1r	.
 .	.	.	.	2e/	-di-	2b\	glo-	.	.
@@ -627,18 +594,15 @@
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62
 *	*	*	*	*	*	*M3/1	*M3/1	*	*
 *	*	*	*	*	*	*met(3)	*met(3)	*	*
-!	!	!	!	!	!	!LO:TX:i:X=30:Z=16:t=bright and dance-like	!	!	!
 !	!	!	!	!	!	!	!	!	!
 1B	_	0.r	.	1d	-ius	3%2dd	Ho-	1dd	-te
 .	.	.	.	.	.	3dd\	-di-	.	.
 *	*	*	*	*M3/1	*M3/1	*	*	*	*
 *	*	*	*	*met(3)	*met(3)	*	*	*	*
-!	!	!	!	!LO:TX:i:X=-30:Z=16:t=bright and dance-like	!	!	!	!	!
 1G	_	.	.	3%2g	Ho-	3%2dd	-e	1r	.
 .	.	.	.	3g/	-di-	3ee\	ap-	.	.
 *	*	*	*	*	*	*	*	*M3/1	*
 *	*	*	*	*	*	*	*	*met(3)	*
-!	!	!	!	!	!	!	!	!LO:TX:i:X=-110:Z=24:t=bright and dance-like	!
 !	!	!	!	!	!	!	!	!	!
 1G	_	.	.	3%2g	-e	3%2gg	-pa-	3%2b	pro_
 .	.	.	.	3a/	ap-	3ff\	-ru-	3a/	_
@@ -684,10 +648,8 @@
 *	*	*M9/2	*M9/2	*	*	*	*	*	*
 *	*	*met(3)	*met(3)	*	*	*	*	*	*
 .	.	1c	Sunt	1c	-seph,	1.r	.	1cc	-ra
-!	!	!LO:TX:Z=12:i:t=stronger, but still dance-like	!	!	!	!	!	!	!
 .	.	2d\	im-	2r	.	.	.	2r	.
 =67	=67	=67	=67	=67	=67	=67	=67	=67	=67
-!	!	!	!	!	!	!LO:TX:i:X=-3:Z=12:t=stronger, but still dance-like	!	!	!
 2%9r	.	1e	-ple-	1.c	per	1g	Sunt	1.cc	lo-
 .	.	2f\	-ta	.	.	2a/	im-	.	.
 .	.	1d	quae	1.G	Ma-	1b	-ple-	1.dd	-quar
@@ -708,7 +670,6 @@
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69
 2%9r	.	1G	-el,	1d	-seph.	1.g	-el.	1b	-trix
 .	.	2r	.	2r	.	.	.	2r	.
-!	!	!	!	!LO:TX:i:X=-30:Z=12:t=pompous	!	!	!	!	!
 .	.	[1.G	quae_	1g	Sunt	1.r	.	1b	tur-
 .	.	.	.	2a/	im-	.	.	2cc\	.
 .	.	1.G]	_	1b	-ple-	1.r	.	1dd	-ris
@@ -733,8 +694,6 @@
 .	.	2r	_	.	.	.	.	1r	.
 *M9/2	*M9/2	*	*	*	*	*	*	*	*
 *met(3)	*met(3)	*	*	*	*	*	*	*	*
-!LO:TX:i:Z=10:t=pompous	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:Z=8:X=-20:i:t=pompous	!	!	!
 1G	per	1.r	.	1.g	-el.	1b	E-	.	.
 .	.	.	.	.	.	.	.	1dd	at-
 2F\	Ma-	.	.	.	.	2a/	.	.	.
@@ -758,7 +717,6 @@
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74
 1B	-e	1d	-go_	1.r	.	1dd	-vi-	1.r	.
 2B\	ap-	2B\	_	.	.	2dd\	-na	.	.
-!	!	!LO:TX:i:Z=8:t=legato	!	!	!	!	!	!	!
 1c	-pa-	1A	De-	1.r	.	1ee	vo-	1.r	.
 2c\	-ru-	2c\	-um	.	.	2ee\	-lu-	.	.
 2B\	-it	2d\	ge-	1.r	.	1dd	-it	1.r	.
@@ -827,10 +785,8 @@
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*met()	*met(O)	*met()	*met(O)	*met()	*met(O)	*met()	*met(O)	*met()
 *MM272	*	*MM272	*	*MM272	*	*MM272	*	*MM272	*
-!LO:TX:i:X=10:Z=10:t=maestoso	!	!	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!
 1C	qua-	1r	.	1c	-a	0.r	.	1cc	-ma
-!	!	!LO:TX:i:Z=16:t=maestoso	!	!LO:TX:i:Z=6:t=maestoso	!	!	!	!LO:TX:i:Z=6:t=maestoso	!
 !	!	!	!	!	!	!	!	!	!
 1C	-si	1.c	qua-	2.e/	qua-	.	.	2.cc\	Chri-
 .	.	.	.	4e/	-si	.	.	4b\	.
@@ -847,7 +803,6 @@
 .	.	4d\	.	.	.	.	.	.	.
 =82	=82	=82	=82	=82	=82	=82	=82	=82	=82
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:i:Z=6:X=20:t=maestoso	!	!	!
 1C	-ti-	1c	-ti-	2e/	Pa-	[0.gl	a.	4gg\]	.
 .	.	.	.	.	.	.	.	4ff\	.
 .	.	.	.	2g/	.	.	.	2ee\	.
@@ -1117,7 +1072,6 @@
 .	.	.	.	.	.	.	.	4cc\	.
 .	.	.	.	.	.	.	.	4dd\	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!	!	!	!	!LO:TX:i:X=10:Z=6:t=exultant and marcato	!	!	!
 0C	.	1.e	.	0c	-lis.	2cc\	u-	1.ee	.
 .	.	.	.	.	.	2cc\	-ni-	.	.
 .	.	.	.	.	.	2cc\	-ver-	.	.
@@ -1133,10 +1087,8 @@
 .	.	2f#i\	.	.	.	.	.	.	.
 0G	.	2g\	.	0r	.	0dd	-a	0b	-lis,
 .	.	2fi\	.	.	.	.	.	.	.
-!	!	!LO:TX:sz=large:b:Z=16:t=    ,	!	!	!	!	!	!	!
 .	.	1d,	-bis	.	.	.	.	.	.
 !	!	!	!	!	!	!	!	!	!
-!	!	!LO:TX:i:X=10:Z=16:t=exultant and marcato	!	!	!	!	!	!	!
 0C	-bis	2c\	u-	0r	.	2ee\	con-	0r	.
 .	.	2c\	-ni-	.	.	2ee\	-gau-	.	.
 .	.	2c\	-ver-	.	.	2ee\	-de-	.	.
@@ -1146,7 +1098,6 @@
 1C	cu-	1c	ec-	.	.	1ee	tem-	.	.
 1G	-ius_	1B	-cle-	0r	.	1dd	-po-	0r	.
 1C	_	1c	-si-	.	.	1cc	-ri-	.	.
-!	!	!	!	!LO:TX:i:X:-30:Z=6:t=maestoso	!	!	!	!	!
 0G	_	0d	-a	0g	post	0b	-bus	0r	.
 =110	=110	=110	=110	=110	=110	=110	=110	=110	=110
 0r	.	2e\	con-	1g	ma-	2cc\	cum	0r	.
@@ -1161,7 +1112,6 @@
 .	.	1c	-ri-	2cc\	.	2ee\	.	.	.
 .	.	.	.	2a/	.	2cc\	.	.	.
 =111	=111	=111	=111	=111	=111	=111	=111	=111	=111
-!LO:TX:i:Z=10:t=maestoso	!	!	!	!	!	!	!	!	!
 0G	im-	0B	-bus	1g	.	1dd	.	0r	.
 .	.	.	.	1g	-la_	2b\	.	.	.
 .	.	.	.	.	.	2.dd\	.	.	.
@@ -1176,7 +1126,6 @@
 1G	.	2d\	-ge-	2r	_	.	.	.	.
 .	.	2e\	-lis	2g/	ce-	.	.	.	.
 =112	=112	=112	=112	=112	=112	=112	=112	=112	=112
-!	!	!	!	!	!	!	!	!LO:TX:i:Z=10:t=maestoso	!
 1.F	.	1f	sic	1.a	-li-	0cc]	_	0.cc	Su-
 .	.	1c	ca-	.	.	.	.	.	.
 2E\	.	.	.	2g/	.	.	.	.	.
@@ -1279,7 +1228,6 @@
 .	.	.	.	.	.	.	.	4cc\	.
 1r	.	.	.	1r	.	0r	.	2b\	.
 .	.	2f\	-mi-	.	.	.	.	2dd\	.
-!	!	!	!	!LO:TX:rj:i:X=50:Z=22:t=exultant and mercato	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!
 [1C	e-	2e\	.	1g	Val-	.	.	2cc\	.
 .	.	2c\	.	.	.	.	.	[2ee\	.
@@ -1292,9 +1240,6 @@
 !	!	!	!	!	!	!	!	!	!
 1C	-ius.	1c	-bus.	1e	_	0r	.	1cc	-la,
 1r	.	1r	.	1r	.	.	.	1r	.
-!	!	!	!	!	!	!	!	!LO:TX:i:rj:X=-10:Y=10:t=subito	!
-!	!	!LO:TX:i:rj:Y=10:t=subito	!	!	!	!	!	!	!
-!LO:TX:i:rj:Y=10:t=subito	!	!	!	!LO:TX:i:rj:Y=10:t=subito	!	!	!	!	!
 0C;	Sus,	0c;	Sus,	0g;	sus,	0cc;	Sus,	0ee;	sus,
 =121	=121	=121	=121	=121	=121	=121	=121	=121	=121
 1E	val-	1G	val-	1g	val-	1cc	val-	1gg	val-
@@ -1385,7 +1330,6 @@
 =129	=129	=129	=129	=129	=129	=129	=129	=129	=129
 0C	re-	0c	-lus.	1g	-sus._	0cc	-lus.	2.ee\	-e,_
 .	.	.	.	.	.	.	.	4ff\	_
-!	!	!	!	!LO:TX:b:sz=large:Z=6:t=   ,	!	!	!	!	!
 .	.	.	.	1e	_	.	.	1.gg	_
 !	!	!	!	!	!	!	!	!	!
 1E	-qui-	0r	.	2c/	Re-	0r	.	.	.
@@ -1404,11 +1348,9 @@
 .	.	1g	no-	.	.	.	.	1cc	.
 1G	_	.	.	1d	.	.	.	.	.
 .	.	2f\	-e,	.	.	.	.	2b\	.
-!	!	!	!	!	!	!	!	!LO:TX:b:sz=large:Z=6:t=   ,	!
 1r	.	1e	no-	1c	-vu-	0r	.	1cc,	-e,
 !	!	!	!	!	!	!	!	!	!
 1C	par-	1c	.	1e	.	.	.	1cc	No-
-!	!	!LO:TX:sz=large:b:Z=16:t=    ,	!	!	!	!	!	!	!
 1.G	.	1d,	-e,	1d	-lus._	0r	.	1b	-e._
 .	.	[1d	par-	[1g	_	.	.	1dd	_
 2A\	.	.	.	.	.	.	.	.	.

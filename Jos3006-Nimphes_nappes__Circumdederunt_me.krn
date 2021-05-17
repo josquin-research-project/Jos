@@ -1,6 +1,6 @@
 !!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OTL@@FRE:	Nimphes, nappes / Circumdederunt me
+!!!OTL@@FRE:	Nimphes, nappees / Circumdederunt me
 !!!AGN:	Chanson
 !!!SCT:	NJE 30.6
 !!!SCA:	New Josquin Edition 30.6
@@ -209,11 +209,9 @@
 1F	0c	0r	1r	1c	2.a/
 .	.	.	.	.	4g/
 1F	.	.	1c	1A	1f
+!	!	!LO:TX:Z=6:t=E-flats are not in all sources and may be erroneous; cf. Macey, NJE	!	!	!
 =49	=49	=49	=49	=49	=49
 0C	1r	1r	1c	1G	1e
-!! Quintus: E- is based on article by Patrick Macey: An Expressive Detail
-!! in Josquin's 'Nymphes, napp&eacute;s' (Early Music, August 2003).
-!! All Four early prints and two manuscript sources notate E-flat explicitly.
 .	1C	1E-	1c	[1c	2r
 .	.	.	.	.	2g/
 =50	=50	=50	=50	=50	=50
@@ -233,8 +231,10 @@
 .	.	.	4f\	.	.
 .	.	.	4e\	.	.
 .	.	.	4d\	.	.
-.	1C	.	2.e\	1c	1g
-.	.	.	4d\	.	.
+.	1C	.	4e\	1c	1g
+.	.	.	4f\	.	.
+.	.	.	4g\	.	.
+.	.	.	4e\	.	.
 =54	=54	=54	=54	=54	=54
 1FF	1.F	[0F	0f	0c	1.a
 2r	.	.	.	.	.
@@ -274,8 +274,10 @@
 .	.	.	4f\	.	.
 .	.	.	4e\	.	.
 .	.	.	4d\	.	.
-1C	1C	.	2.e\	1c	1g
-.	.	.	4d\	.	.
+1C	1C	.	4e\	1c	1g
+.	.	.	4f\	.	.
+.	.	.	4g\	.	.
+.	.	.	4e\	.	.
 =62	=62	=62	=62	=62	=62
 1FF	1C	[0Fl	0f	0c	1.a
 1FF	[1F	.	.	.	.

@@ -209,7 +209,7 @@
 1F	mes	0c	-des,	0r	.	1r	.	1c	-lo-	2.a/	que
 .	.	.	.	.	.	.	.	.	.	4g/	ma-
 1F	es-	.	.	.	.	1c	que	1A	-res	1f	-la-
-!	!	!	!	!LO:TX:Z=6:t=E-flats are not in all sources and may not be original&semi; cf. Macey, NJE	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:t=E-flats are not in all sources and may not be original&#59; cf. Macey, NJE	!	!	!	!	!	!	!
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
 0C	-pris	1r	.	1r	.	1c	mes	1G	in-	1e	-des,
 .	.	1C	que	1E-	cir-	1c	es-	[1c	-fer-	2r	.
@@ -307,4 +307,4 @@
 !!!EEV: 2012/05/23/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/09/20/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,130z18c140
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,130z18c160

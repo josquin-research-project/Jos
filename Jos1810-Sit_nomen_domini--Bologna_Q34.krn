@@ -9,6 +9,8 @@
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"10	*I"9	*I"8	*I"7	*I"6	*I"5	*I"4	*I"3	*I"2	*I"1
+*I'10	*I'9	*I'8	*I'7	*I'6	*I'5	*I'4	*I'3	*I'2	*I'1
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
 *clefGv2	*clefGv2	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
@@ -180,11 +182,11 @@
 .	.	.	.	.	.	.	4b	.	.
 .	.	.	1A	2A	.	1c	4cc	1a	1cc
 4B	4d	4B	.	.	.	.	4dd	.	.
-2.A	2.c	4c	.	1el	2e	.	1eel	.	.
+2.A	2.c	4c	.	1e	2e	.	1ee	.	.
 .	.	4d	.	.	.	.	.	.	.
-.	.	2el	2cl	.	2el	2cl	.	2Al	2al
-4Gl	4Bl	.	.	.	.	.	.	.	.
-!!LO:TX:rj:Z=12:t=It is not clear how the piece is meant to end.
+.	.	2e	2c	.	2e	2c	.	2A	2a
+4G	4B	.	.	.	.	.	.	.	.
+!!LO:TX:rj:Z=18:t=It is not clear how the piece is meant to end.
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation

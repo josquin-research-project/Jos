@@ -1,6 +1,6 @@
 !!!COM:	Josquin des Prez
 !!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	Ave Maria...virgo serena (&agrave; 4)
+!!!OTL@@LAT:	Ave Maria...virgo serena
 !!!AGN:	Motet
 !!!SCT:	NJE 23.6
 !!!SCA:	New Josquin Edition 23.6
@@ -15,7 +15,6 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Ave Maria
-!!!OMD: Ave Maria
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0r	.	0r	.	0r	.	1g	A-
 .	.	.	.	.	.	[1cc	-ve

@@ -23,9 +23,8 @@
 !!section: Kyrie I
 !!!OMD: Kyrie I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!	!	!LO:TX:Z=5:X=-40:t=Tenor in diatessaron sequentibus signis	!
-!	!	!	!	!	!	!LO:TX:Z=27:X=80:t=Canon at the lower 4th (S-->T, 7 breves)	!
-!	!	!LO:TX:Z=12:X=-40:t=Quaere in suprano	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:Z=5:X=-30:t=Tenor in diatessaron sequentibus signis (S-->T canon at the lower 4th, 7 breves) 	!
+!	!	!LO:TX:Z=12:X=-30:t=Quaere in suprano	!	!	!	!	!
 0.r	.	0.r	.	0A	Ky-	[0.a	Ky-
 .	.	.	.	1D	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -131,7 +130,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!LO:TX:Z=12:X=-40:t=Christe in contra alto	!	!	!	!LO:TX:Z=8:X=-40:t=Canon at the lower 4th (A-->B, 12 breves)	!	!LO:TX:Z=12:X=-40:t=Canon at the lower 4th (S-->T, 12 breves)	!
+!LO:TX:Z=12:X=-40:t=Christe in contra alto	!	!	!	!LO:TX:Z=6:X=-40:t=Canon at the lower 4th (A-->B, 12 breves)	!	!LO:TX:Z=6:X=-40:t=Canon at the lower 4th (S-->T, 12 breves)	!
 !!section: Christe
 !!!OMD: Christe
 0r	.	0r	.	0r	.	0a	Chri-
@@ -261,7 +260,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O|)	*	*met(O|)	*	*met(O|)	*	*met(O|)	*
-!	!	!	!	!	!	!LO:TX:Z=10:X=-40:t=Canon at the lower 4th (S-->T, 7 breves)	!
+!	!	!	!	!	!	!LO:TX:Z=6:X=-40:t=Canon at the lower 4th (S-->T, 7 breves)	!
 !!section: Kyrie II
 !!!OMD: Kyrie II
 0.r	.	0.r	.	1A	Ky-	1a	Ky-

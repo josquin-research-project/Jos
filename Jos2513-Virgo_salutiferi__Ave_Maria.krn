@@ -19,7 +19,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!LO:TX:Z=10:X=-40:t=Canon at the upper 8ve (T-->S, 3 breves)	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:X=-40:t=Canon at the upper 8ve (T-->S, 3 breves)	!	!	!	!	!
 0r	.	0G	Vir-	0r	.	0r	.	0r	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	2.G/	-go,	0r	.	0G	Vir-	0r	.
@@ -640,7 +640,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Secunda pars: Tu potis es
 !!!OMD: Secunda pars: Tu potis es
-!	!	!	!	!LO:TX:Z=10:X=-40:t=Canon at the upper 8ve (T-->S, 2 breves)	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:X=-40:t=Canon at the upper 8ve (T-->S, 2 breves)	!	!	!	!	!
 0r	.	0r	.	0r	.	0c	Tu	0r	.
 =112	=112	=112	=112	=112	=112	=112	=112	=112	=112
 0r	.	0r	.	0r	.	1c	po-	0r	.
@@ -1002,7 +1002,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Tertia pars: Nunc celi regina
 !!!OMD: Tertia pars: Nunc celi regina
-!	!	!	!	!LO:TX:Z=12:X=-40:t=Canon at the upper 8ve (T-->S, 1 breve)	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:X=-40:t=Canon at the upper 8ve (T-->S, 1 breve)	!	!	!	!	!
 1r	.	1c	Nunc	0r	.	0r	.	0r	.
 1C	Nunc	1c	ce-	.	.	.	.	.	.
 =173	=173	=173	=173	=173	=173	=173	=173	=173	=173
@@ -1285,5 +1285,5 @@
 !!!EEV:	2013/03/01/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/08/15/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c120z18l2780t100
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c120z18l2785t100
 !!!ONB: April 2013 Concert

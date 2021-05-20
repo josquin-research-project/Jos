@@ -1023,10 +1023,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/05/17; Words: Rodin 2017/09/05
+!!!ENC:	Jesse Rodin 2011/05/17; Words: Rodin 2017/09/05
 !!!END:	2018/01/11/
 !!!EED:	Jesse Rodin
 !!!EEV:	2018/01/19/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2018/01/19/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^I150v80,80,80,80,110i2I150c130z16l2750
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c90z18l2780t100

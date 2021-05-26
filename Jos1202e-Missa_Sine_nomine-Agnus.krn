@@ -23,8 +23,8 @@
 !!section: Agnus dei I
 !!!OMD: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!LO:TX:Z=15:X=-40:t=Tenor in diapente	!	!	!	!	!	!	!
-!LO:TX:Z=34:X=-40:t=Canon at the upper 5th (B-->T, 2 breves)	!	!	!	!	!	!	!
+!LO:TX:Z=8:X=-40:t=Tenor in diapente	!	!	!	!	!	!	!
+!LO:TX:Z=30:X=-40:t=Canon at the upper 5th (B-->T, 2 breves)	!	!	!	!	!	!	!
 0.r	.	0.r	.	2.A/	A-	0a	A-
 .	.	.	.	4B\	.	.	.
 .	.	.	.	2c\	.	.	.
@@ -255,8 +255,8 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Agnus dei II
 !!!OMD: Agnus dei II
-!	!	!LO:TX:Z=32:X=-40:t=Canon at the lower 2nd (A-->T, 1 breve)	!	!	!	!	!
-!	!	!	!	!LO:TX:Z=13:X=-40:t=Canon ung ton plus bas	!	!	!
+!	!	!LO:TX:Z=8:X=-40:t=Canon at the lower 2nd (A-->T, 1 breve)	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=8:X=-40:t=Canon ung ton plus bas	!	!	!
 0r	.	0r	.	1.e	A-	0r	.
 .	.	.	.	4d\	.	.	.
 .	.	.	.	4c\	.	.	.
@@ -361,7 +361,7 @@
 1A	A-	0r	.	0r	.	0r	.
 1c	-gnus	.	.	.	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48
-!	!	!	!	!	!	!LO:TX:Z=13:X=-60:t=Tenor in diapason (S-->T canon at the lower 8ve, 2 breves)	!
+!	!	!	!	!	!	!LO:TX:Z=8:X=-60:t=Tenor in diapason (S-->T canon at the lower 8ve, 2 breves)	!
 2B\	De-	0r	.	1r	.	0r	.
 1A	.	.	.	.	.	.	.
 .	.	.	.	1e	A-	.	.

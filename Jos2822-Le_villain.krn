@@ -15,6 +15,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
+!	!	!	!LO:TX:Z=6:t=Incipit only
 1.AA	0r	0r	0r
 2BB/	.	.	.
 =2	=2	=2	=2
@@ -404,4 +405,4 @@
 !!!EEV:	2011/09/21/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB:	Translated from MusicXML and edited on 2011/09/21/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^i2I150v90,90,90,150Q16
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v90,90,90,120c105z18l2700t130

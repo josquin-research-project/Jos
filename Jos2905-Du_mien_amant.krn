@@ -8,7 +8,7 @@
 **kern	**text	**text	**kern	**text	**text	**kern	**text	**text	**kern	**text	**text	**kern	**text	**text
 *staff5	*	*	*staff4	*	*	*staff3	*	*	*staff2	*	*	*staff1	*	*
 *Ivox	*	*	*Ivox	*	*	*Ivox	*	*	*Ivox	*	*	*Ivox	*	*
-*I"Bassus	*	*	*I"Tenor	*	*	*I"Contratenor	*	*	*I"Quintus	*	*	*I"Superius	*	*
+*I"Bassus	*	*	*I"Tenor	*	*	*I"Altus	*	*	*I"Quintus	*	*	*I"Superius	*	*
 *I'B	*	*	*I'T	*	*	*I'Ct	*	*	*I'Q	*	*	*I'S	*	*
 *clefF4	*	*	*clefGv2	*	*	*clefGv2	*	*	*clefGv2	*	*	*clefG2	*	*
 *>[A,B,B,A,A]	*	*	*>[A,B,B,A,A]	*	*	*>[A,B,B,A,A]	*	*	*>[A,A,B,B]	*	*	*>[A,B,B,A,A]	*	*
@@ -438,4 +438,4 @@
 !!!EEV: 2011/12/06/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/12/06/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^I150v95,95,95,95,95,130c105i2I150z18l2740
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v90,90,90,90,125c105z18l2780t100

@@ -11,8 +11,7 @@
 *I"Bassus	*	*	*I"Tenor	*	*	*I"Contratenor	*	*	*I"Quintus	*	*	*I"Superius	*	*
 *I'B	*	*	*I'T	*	*	*I'Ct	*	*	*I'Q	*	*	*I'S	*	*
 *clefF4	*	*	*clefGv2	*	*	*clefGv2	*	*	*clefGv2	*	*	*clefG2	*	*
-*>[A,A,B,B]	*	*	*>[A,A,B,B]	*	*	*>[A,A,B,B]	*	*	*>[A,A,B,B]	*	*	*>[A,A,B,B]	*	*
-*>norep[A,B]	*	*	*>norep[A,B]	*	*	*>norep[A,B]	*	*	*>norep[A,B]	*	*	*>norep[A,B]	*	*
+*>[A,B,B,A,A]	*	*	*>[A,B,B,A,A]	*	*	*>[A,B,B,A,A]	*	*	*>[A,A,B,B]	*	*	*>[A,B,B,A,A]	*	*
 *>A	*	*	*>A	*	*	*>A	*	*	*>A	*	*	*>A	*	*
 *k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*
 *M2/1	*	*	*M2/1	*	*	*M2/1	*	*	*M2/1	*	*	*M2/1	*	*

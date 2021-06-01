@@ -117,12 +117,12 @@
 .	.	.	.	4e/	.
 2D\	Bel-	.	.	4f/	.
 .	.	4e\	.	4g/	.
-2D\	m'a-	4d\	.	[2a/	-my-
+2D\	-lon	4d\	.	[2a/	-my-
 .	.	4c\	.	.	.
 =19	=19	=19	=19	=19	=19
-2E\	-my-	2B-\	.	2a/]	.
+2E\	m'a-	2B-\	.	2a/]	.
 2C/	.	2c\	.	1g	.
-1D	.	1A	.	.	.
+1D	-my-	1A	.	.	.
 .	.	.	.	2f#i/	.
 =20	=20	=20	=20	=20	=20
 [0GG	-e,	0G	-e,	1g	-e,
@@ -308,10 +308,10 @@
 =56	=56	=56	=56	=56	=56
 0r	.	2.g\	t'ay-	2.b-\	Je
 .	.	4f\	.	4cc\	ne
-.	.	2d\	.	2dd\	t'ay-
-.	.	[2b-\	-me	2g/	-me
+.	.	2d\	-me	2dd\	t'ay-
+.	.	[2b-\	pas	2g/	-me
 =57	=57	=57	=57	=57	=57
-0r	.	4b-\]	pas	1b-	pas
+0r	.	4b-\]	.	1b-	pas
 .	.	4a\	.	.	.
 .	.	1g	.	.	.
 .	.	.	.	1a	ung
@@ -373,15 +373,15 @@
 4G\	la	4B-\	.	4b-\	la
 2F\	my-	4c\	.	2a/	my-
 .	.	4d\	.	.	.
-2E\	.	4e\	.	2g/	-e,
+2E\	.	4e\	.	2g/	.
 .	.	4c\	.	.	.
 =68	=68	=68	=68	=68	=68
-1D	-e,	2d\	.	2f/	la
-.	.	2.f\	.	4d/	my-
+1D	-e,	2d\	.	2f/	-e,
+.	.	2.f\	.	4d/	la
 .	.	.	.	4e/	.
 2D\	de	.	.	4f/	.
 .	.	4e\	.	4g/	.
-2D\	la	4d\	.	[2a/	.
+2D\	la	4d\	.	[2a/	my-
 .	.	4c\	.	.	.
 =69	=69	=69	=69	=69	=69
 2E\	my-	2B-\	.	2a/]	.
@@ -403,15 +403,15 @@
 4G\	la	4B-\	.	4b-\	la
 2F\	my-	4c\	.	2a/	my-
 .	.	4d\	.	.	.
-2E\	.	4e\	.	2g/	-e,
+2E\	.	4e\	.	2g/	.
 .	.	4c\	.	.	.
 =73	=73	=73	=73	=73	=73
-1D	-e,	2d\	.	2f/	la
-.	.	2.f\	.	4d/	my-
+1D	-e,	2d\	.	2f/	-e,
+.	.	2.f\	.	4d/	la
 .	.	.	.	4e/	.
 2D\	de	.	.	4f/	.
 .	.	4e\	.	4g/	.
-2D\	la	4d\	.	[2a/	.
+2D\	la	4d\	.	[2a/	my-
 .	.	4c\	.	.	.
 =74	=74	=74	=74	=74	=74
 2E\	my-	2B-\	.	2a/]	.
@@ -442,4 +442,4 @@
 !!!EEV: 2011/08/12/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/12/ by Craig Sapp
-!!muse2ps:  C^@{COA}\n@{SCT}^i2I150v90,90,120c105z18l2700t130
+!!muse2ps:  C^@{COA}\n@{SCT}^v100,100,150I150Q16

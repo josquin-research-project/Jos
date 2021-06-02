@@ -15,7 +15,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-
-!LO:TX:Z=8:t=Bassus&colon; sequential c.f. statements (on a, g, f, e, d, and a)	!	!	!	!LO:TX:Z=36:t=Florence 2439 gives the incipit “Fortune destrange plummaige”	!
+!LO:TX:Z=12:t=Bassus&colon; sequential c.f. statements (on a, g, f, e, d, and a)	!	!	!	!LO:TX:Z=36:t=Florence 2439 gives the incipit “Fortune destrange plummaige”	!
 !	!	!	!	!LO:TX:Z=10:t=“Ce povre” text unique to Brussels 228	!
 0r	.	0A	Ce	0e	Ce
 =2	=2	=2	=2	=2	=2
@@ -101,11 +101,11 @@
 .	.	.	.	4b\	.
 .	.	.	.	4cc\	.
 =19	=19	=19	=19	=19	=19
-0F	-per	4D/	.	1dd	.
+0F	-per	4D/	be-	1dd	.
 .	.	4E/	.	.	.
 .	.	4F/	.	.	.
 .	.	4G/	.	.	.
-.	.	1A	be-	[1cc	be-
+.	.	1A	.	[1cc	be-
 =20	=20	=20	=20	=20	=20
 1E	sum	2G/	-ne-	2cc\]	.
 .	.	1c	-fi-	4b\	.
@@ -120,8 +120,8 @@
 .	.	.	.	2f/	.
 =22	=22	=22	=22	=22	=22
 0C	-go,	1G	-ce	1e	-ce
-.	.	2A/	ne of-	2r	.
-.	.	[2G/	.	[2e/	ne of-
+.	.	2A/	ne of-	2r	.
+.	.	[2G/	.	[2e/	ne of-
 =23	=23	=23	=23	=23	=23
 0r	.	2G/]	.	4e/]	.
 .	.	.	.	4f/	.

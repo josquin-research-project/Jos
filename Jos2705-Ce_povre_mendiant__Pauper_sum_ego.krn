@@ -16,7 +16,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-
 !	!	!	!	!LO:TX:Z=36:t=Florence 2439 gives the incipit “Fortune destrange plummaige”	!
-!	!	!	!	!LO:TX:Z=6:t=“Ce povre” text unique to Brussels 228	!
+!	!	!	!	!LO:TX:Z=10:t=“Ce povre” text unique to Brussels 228	!
 !LO:TX:Z=8:t=Bassus&colon; sequential c.f. statements (on a, g, f, e, d, and a)	!	!	!	!	!
 0r	.	0A	Ce	0e	Ce
 =2	=2	=2	=2	=2	=2
@@ -246,7 +246,7 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC: Jesse Rodin; Victoria Chang 2011/05/30/
+!!!ENC: Jesse Rodin 2011/05/30/
 !!!END: 2011/05/30/
 !!!EED: Jesse Rodin
 !!!EEV: 2011/08/09/

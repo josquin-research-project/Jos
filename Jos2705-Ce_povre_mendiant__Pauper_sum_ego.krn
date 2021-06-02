@@ -15,7 +15,8 @@
 *M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!LO:TX:Z=6:t=Florence 2439&colon; incipit “Fortune destrange plummaige”; “Ce povre” unique to Brussels 228	!
+!	!	!	!	!LO:TX:Z=36:t=Florence 2439 gives the incipit “Fortune destrange plummaige”	!
+!	!	!	!	!LO:TX:Z=6:t=“Ce povre” text unique to Brussels 228	!
 !LO:TX:Z=8:t=Bassus&colon; sequential c.f. statements (on a, g, f, e, d, and a)	!	!	!	!	!
 0r	.	0A	Ce	0e	Ce
 =2	=2	=2	=2	=2	=2
@@ -251,4 +252,4 @@
 !!!EEV: 2011/08/09/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/09/ by Craig Sapp
-!!muse2ps:  C^@{COM}\n@{SCT}^i2I150v90,90,125c120z18l2700t130
+!!muse2ps:  C^@{COM}\n@{SCT}^i2I150v90,90,120c105z18l2700t130

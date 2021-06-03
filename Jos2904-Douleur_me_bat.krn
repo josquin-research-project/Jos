@@ -1,10 +1,10 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Douleur me bat
-!!!AGN:	Chanson
-!!!SCT:	NJE 29.4
-!!!SCA:	New Josquin Edition 29.4
-!!!voices:	5
+!!!COM:	Josquin des Prez								
+!!!CDT:	~1450-1521/08/27								
+!!!OTL:	Douleur me bat								
+!!!AGN:	Chanson								
+!!!SCT:	NJE 29.4								
+!!!SCA:	New Josquin Edition 29.4								
+!!!voices:	5								
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -237,7 +237,7 @@
 .	.	2A/	qu'on	2c\	qu'on	.	.	2cc\	qu'on
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
 0r	.	2G/	me	2d\	me	1r	.	2b\	me
-.	.	2E/	dé-	2e\	dé-	.	.	2g/	dé-
+.	.	2E/	d&eacute;-	2e\	d&eacute;-	.	.	2g/	d&eacute;-
 .	.	1F	-col-	[1c	-col-	1A	pour	1a	-col-
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 2r	.	0E	-le,	2c\]	.	1.e	dieu	2g/	-le,
@@ -247,12 +247,12 @@
 2C/	qu'on	.	.	.	.	2e\	qu'on	2g/	qu'on
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 2D\	me	0r	.	0r	.	2d\	me	2f/	me
-2GG/	dé-	.	.	.	.	2B\	dé-	2d/	dé-
+2GG/	d&eacute;-	.	.	.	.	2B\	d&eacute;-	2d/	d&eacute;-
 2.C/	-col-	.	.	.	.	1c	-col-	1e	-col-
 4BB/	.	.	.	.	.	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45
 1GG	-le,	1r	.	1.d	de	0B	-le,	1d	-le,
-2r	.	1G	de	.	.	.	.	2.dd\	dé-
+2r	.	1G	de	.	.	.	.	2.dd\	d&eacute;-
 [2GG/	de	.	.	2d\	vi-	.	.	.	.
 .	.	.	.	.	.	.	.	4cc\	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
@@ -278,7 +278,7 @@
 .	.	2A/	qu'on	2c\	qu'on	.	.	2cc\	qu'on
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 0r	.	2G/	me	2d\	me	1r	.	2b\	me
-.	.	2E/	dé-	2e\	dé-	.	.	2g/	dé-
+.	.	2E/	d&eacute;-	2e\	d&eacute;-	.	.	2g/	d&eacute;-
 .	.	1F	-col-	[1c	-col-	1A	pour	1a	-col-
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 2r	.	0E	-le,	2c\]	.	1.e	dieu	2g/	-le,
@@ -288,7 +288,7 @@
 2C/	qu'on	.	.	.	.	2e\	qu'on	2g/	qu'on
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
 2D\	me	0r	.	1r	.	2d\	me	2f/	me
-2GG/	dé-	.	.	.	.	2B\	dé-	2d/	dé-
+2GG/	d&eacute;-	.	.	.	.	2B\	d&eacute;-	2d/	d&eacute;-
 2.C/	-col-	.	.	2r	.	1c	-col-	1e	-col-
 .	.	.	.	2c\	pour	.	.	.	.
 4BB/	.	.	.	.	.	.	.	.	.
@@ -296,22 +296,22 @@
 0GG	-le,	2r	.	2d\	dieu	0B	-le,	1d	-le,
 .	.	2G/	pour	2d\	qu'on	.	.	.	.
 .	.	2G/	dieu	2d\	me	.	.	1r	.
-.	.	2G/	qu'on	[2e\	dé-	.	.	.	.
+.	.	2G/	qu'on	[2e\	d&eacute;-	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
 0r	.	2F/	me	4e\]	.	0r	.	1r	.
 .	.	.	.	4d\	.	.	.	.	.
-.	.	2D/	dé-	1d	-col-	.	.	.	.
+.	.	2D/	d&eacute;-	1d	-col-	.	.	.	.
 .	.	1E	-col-	.	.	.	.	2r	.
 .	.	.	.	2c#i\	.	.	.	2g/	pour
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 2r	.	0D	-le,	2d\	-le,	2r	.	2a/	dieu
 2D\	pour	.	.	2f\	pour	2d\	pour	2a/	qu'on
 2F\	dieu	.	.	2f\	dieu	2d\	dieu	2a/	me
-2D\	qu'on	.	.	2f\	qu'on	2d\	qu'on	[2b\	dé-
+2D\	qu'on	.	.	2f\	qu'on	2d\	qu'on	[2b\	d&eacute;-
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 2A\	me	0r	.	2e\	me	2c\	me	4b\]	.
 .	.	.	.	.	.	.	.	4a/	.
-2F\	dé-	.	.	2d\	dé-	2A/	dé-	1a	-col-
+2F\	d&eacute;-	.	.	2d\	d&eacute;-	2A/	d&eacute;-	1a	-col-
 1E	-col-	.	.	1e	-col-	1B	-col-	.	.
 .	.	.	.	.	.	.	.	2g#i/	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
@@ -322,7 +322,7 @@
 .	.	.	.	.	.	.	.	4g/	qu'on
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 2D\	me	2D/	me	2d\	me	0r	.	2f/	me
-2AA/	dé-	2E/	dé-	2c\	dé-	.	.	2e/	dé-
+2AA/	d&eacute;-	2E/	d&eacute;-	2c\	d&eacute;-	.	.	2e/	d&eacute;-
 1D	-col-	1F	-col-	1d	-col-	.	.	4d/	-col-
 .	.	.	.	.	.	.	.	4e/	.
 .	.	.	.	.	.	.	.	4f/	.
@@ -334,7 +334,7 @@
 2E\	qu'on	.	.	2G/	qu'on	2B\	qu'on	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60
 2AA/	me	0E_	.	2c\	me	2A/	me	0e_	.
-2GG/	dé-	.	.	2B\	dé-	2B\	dé-	.	.
+2GG/	d&eacute;-	.	.	2B\	d&eacute;-	2B\	d&eacute;-	.	.
 1AA	-col-	.	.	1A	-col-	1c	-col-	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
 *^	*	*	*	*	*	*	*	*	*
@@ -342,12 +342,12 @@
 *v	*v	*	*	*	*	*	*	*	*	*
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern:	l=long note in original notation
-!!!RDF**kern:	i=editorial accidental
-!!!ENC:	Will Watson 06/09/2011
-!!!END:	2011/09/06/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/10/07/
-!!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/10/07/ by Craig Sapp
-!!muse2ps:  C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c105z18l2780t100
+!!!RDF**kern:	l=long note in original notation								
+!!!RDF**kern:	i=editorial accidental								
+!!!ENC:	Will Watson 06/09/2011								
+!!!END:	2011/09/06/								
+!!!EED:	Jesse Rodin								
+!!!EEV:	2011/10/07/								
+!!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])									
+!!!ONB:	Translated from MusicXML and edited on 2011/10/07/ by Craig Sapp								
+!!muse2ps:  C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c105z18l2780t100									

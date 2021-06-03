@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Ecce video celos apertos
-!!!AGN:	Motet
-!!!SCT:	NJE 19.2
-!!!SCA:	New Josquin Edition 19.2
-!!!voices:	3
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Ecce video celos apertos
+!!!AGN: Motet
+!!!SCT: NJE 19.2
+!!!SCA: New Josquin Edition 19.2
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -594,10 +594,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 05-30-2012
-!!!END:	2012/05/30/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/06/21/
+!!!ENC: Chris Gage 05-30-2012
+!!!END: 2012/05/30/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/21/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/06/21/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/21/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,150Q16

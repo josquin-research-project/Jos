@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Fors seulement II
-!!!AGN:	Chanson
-!!!SCT:	NJE 28.16
-!!!SCA:	New Josquin Edition 28.16
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Fors seulement II
+!!!AGN: Chanson
+!!!SCT: NJE 28.16
+!!!SCA: New Josquin Edition 28.16
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -434,10 +434,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2015/09/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/09/08/
+!!!ENC: Jesse Rodin
+!!!END: 2015/09/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/09/08/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2015/09/08/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2015/09/08/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^v90,100,90,150i2I150Q16

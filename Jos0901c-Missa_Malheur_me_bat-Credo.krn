@@ -1,11 +1,11 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Malheur me bat
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	NJE 9.1
-!!!SCA:	New Josquin Edition 9.1
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Malheur me bat
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: NJE 9.1
+!!!SCA: New Josquin Edition 9.1
 !!!voices: 4
 !!!voices-OPR: 4(-6)
 **kern	**kern	**kern	**kern
@@ -1269,10 +1269,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/04/17
-!!!END:	2011/04/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/04/17/
+!!!ENC: Jesse Rodin; Victoria Chang 2011/04/17
+!!!END: 2011/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/17/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,150Q16

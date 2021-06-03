@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Di dadi
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	NJE 9.3
-!!!SCA:	New Josquin Edition 9.3
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Di dadi
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: NJE 9.3
+!!!SCA: New Josquin Edition 9.3
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -953,10 +953,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2012/01/28
-!!!END:	2012/01/28/
-!!!EED:	Jesse Rodin
+!!!ENC: Jesse Rodin; Victoria Chang 2012/01/28
+!!!END: 2012/01/28/
+!!!EED: Jesse Rodin
 !!!EEV: 2012/04/24/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/03/22/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,150c130

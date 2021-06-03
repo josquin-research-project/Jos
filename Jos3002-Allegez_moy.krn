@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: Barbe
 !!!COA3: Le Brung
 !!!COA4: Willaert
-!!!OTL@@FRE:	Allegez moy
-!!!AGN:	Chanson
-!!!SCT:	NJE 30.2
-!!!SCA:	New Josquin Edition 30.2
-!!!voices:	6
+!!!OTL@@FRE: Allegez moy
+!!!AGN: Chanson
+!!!SCT: NJE 30.2
+!!!SCA: New Josquin Edition 30.2
+!!!voices: 6
 **kern	**kern	**kern	**kern	**kern	**kern
 *staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -264,10 +264,10 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 07/09/2011
-!!!END:	2011/09/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/10/07/
+!!!ENC: Will Watson 07/09/2011
+!!!END: 2011/09/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/10/07/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/10/07/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/10/07/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v95,95,95,95,95,130Q16

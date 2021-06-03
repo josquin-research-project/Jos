@@ -1,13 +1,13 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Pange lingua
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	NJE 4.3
-!!!SCA:	New Josquin Edition 4.3
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Pange lingua
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: NJE 4.3
+!!!SCA: New Josquin Edition 4.3
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox

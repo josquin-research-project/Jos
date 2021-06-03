@@ -1,14 +1,14 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: Moulu
 !!!COA3: Verdelot
 !!!COA4: Mouton
-!!!OTL@@LAT:	Quam pulchra es
-!!!OTL2@@LAT:	Labia tua lilia
-!!!AGN:	Motet
-!!!SCT:	NJE 14.10
-!!!SCA:	New Josquin Edition 14.10
-!!!voices:	4
+!!!OTL@@LAT: Quam pulchra es
+!!!OTL2@@LAT: Labia tua lilia
+!!!AGN: Motet
+!!!SCT: NJE 14.10
+!!!SCA: New Josquin Edition 14.10
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -725,10 +725,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Joel Chapman 2012/1/21
-!!!END:	2012/01/21/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/02/02/
+!!!ENC: Joel Chapman 2012/1/21
+!!!END: 2012/01/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/02/02/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/02/02/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/02/02/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v95,95,95,150Q16

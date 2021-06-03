@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Scimus quoniam diligentibus / De tous biens plaine / Per omnia secula
-!!!AGN:	Motet
-!!!SCT:	NJE 20.12
-!!!SCA:	New Josquin Edition 20.12
-!!!voices:	4
-!!!COM:	Josquin?
-!!!OTL:	Jos2012-Scimus_quoniam_diligentibus__De_tous_biens_plaine__Per_omnia_secula
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Scimus quoniam diligentibus / De tous biens plaine / Per omnia secula
+!!!AGN: Motet
+!!!SCT: NJE 20.12
+!!!SCA: New Josquin Edition 20.12
+!!!voices: 4
+!!!COM: Josquin?
+!!!OTL: Jos2012-Scimus_quoniam_diligentibus__De_tous_biens_plaine__Per_omnia_secula
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -468,10 +468,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Jesse Rodin 21 Oct 2020
-!!!END:	2020/10/21
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/03/25
+!!!ENC: Jesse Rodin 21 Oct 2020
+!!!END: 2020/10/21
+!!!EED: Jesse Rodin
+!!!EEV: 2021/03/25
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/03/25 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/03/25 by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT} (unicum in Dresden 1/D/505)^i2I150v85,85,85,150c210

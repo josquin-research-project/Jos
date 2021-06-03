@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Usquequo domine oblivisceris me
-!!!AGN:	Motet
-!!!SCT:	NJE 18.12
-!!!SCA:	New Josquin Edition 18.12
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Usquequo domine oblivisceris me
+!!!AGN: Motet
+!!!SCT: NJE 18.12
+!!!SCA: New Josquin Edition 18.12
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -1091,10 +1091,10 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!ENC:	Chris Gage 07-01-2014
-!!!END:	2020/10/21/
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/04/28/
+!!!ENC: Chris Gage 07-01-2014
+!!!END: 2020/10/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/28/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/04/28/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/04/28/ by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT}^i2I150v85,85,85,150z18c125

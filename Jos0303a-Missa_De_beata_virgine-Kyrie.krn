@@ -1,15 +1,15 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: La Rue, Pierre de
 !!!CDT2: ~1452///-1518/11/20/
-!!!OPR:	Missa De beata virgine
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	NJE 3.3
-!!!SCA:	New Josquin Edition 3.3
-!!!voices:	4
-!!!voices-OPR:	4-5
+!!!OPR: Missa De beata virgine
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: NJE 3.3
+!!!SCA: New Josquin Edition 3.3
+!!!voices: 4
+!!!voices-OPR: 4-5
 !!!ONB: KGC attrib. La Rue in Weimar B
 **kern	**kern	**kern	**kern
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -559,11 +559,11 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 06-05-2012
-!!!END:	2012/06/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/06/07/
+!!!ENC: Jesse Rodin 06-05-2012
+!!!END: 2012/06/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/07/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!attribution-level@Rue: 4 (doubtful)
-!!!ONB:	Translated from MusicXML and edited on 2012/06/07/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/07/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Josquin (KGC attrib. La Rue in Weimar B)\n@{SCT}^i2I150v85,85,85,150c90Q16

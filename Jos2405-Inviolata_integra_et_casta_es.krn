@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Inviolata integra et casta es
-!!!AGN:	Motet
-!!!SCT:	NJE 24.5
-!!!SCA:	New Josquin Edition 24.5
-!!!voices:	12
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Inviolata integra et casta es
+!!!AGN: Motet
+!!!SCT: NJE 24.5
+!!!SCA: New Josquin Edition 24.5
+!!!voices: 12
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -535,10 +535,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Joel Chapman 2012/05/01
-!!!END:	2012/05/01/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/06/24/
+!!!ENC: Joel Chapman 2012/05/01
+!!!END: 2012/05/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/24/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/06/24/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/24/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,85,85,85,85,85,85,85,85,100Q16

@@ -1,11 +1,11 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	O virgo prudentissima / Beata mater
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: O virgo prudentissima / Beata mater
 !!!OTL2@@LAT: Audi virgo puerpera
-!!!AGN:	Motet
-!!!SCT:	NJE 24.9
-!!!SCA:	New Josquin Edition 24.9
-!!!voices:	6
+!!!AGN: Motet
+!!!SCT: NJE 24.9
+!!!SCA: New Josquin Edition 24.9
+!!!voices: 6
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -1088,12 +1088,12 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/05/22; JR 2012/02 text
-!!!END:	2013/03/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/03/08/
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/22; JR 2012/02 text
+!!!END: 2013/03/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/03/08/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/08/15/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/08/15/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c105
 !!muse2ps-notext: u^(2) @{OTL2}^C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c50
 !!!ONB: April 2013 Concert

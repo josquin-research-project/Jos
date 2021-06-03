@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2:   Mahu?
 !!!COA3:   Mouton?
-!!!OTL:	Puer natus est nobis
-!!!AGN:	Motet
-!!!SCT:	NJE 26.10
-!!!SCA:	New Josquin Edition 26.10
-!!!voices:	4
+!!!OTL: Puer natus est nobis
+!!!AGN: Motet
+!!!SCT: NJE 26.10
+!!!SCA: New Josquin Edition 26.10
+!!!voices: 4
 **kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -264,10 +264,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8-17-2012
-!!!END:	2012/08/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/29/
+!!!ENC: Jesse Rodin 8-17-2012
+!!!END: 2012/08/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/29/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
 !!muse2ps: C^Mahu?/Mouton?/Josquin?\n@{SCT}^i2I150v85,85,85,150Q16

@@ -1,10 +1,10 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Credo Vilayge II
-!!!AGN:	Mass section; Credo
-!!!SCT:	NJE 13.6
-!!!SCA:	New Josquin Edition 13.6
-!!!voices:	4
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Credo Vilayge II
+!!!AGN: Mass section; Credo
+!!!SCT: NJE 13.6
+!!!SCA: New Josquin Edition 13.6
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -862,10 +862,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin; Victoria Chang 2012/02/05
-!!!END:	2012/02/05/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/07/26/
+!!!ENC: Jesse Rodin; Victoria Chang 2012/02/05
+!!!END: 2012/02/05/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/07/26/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2012/07/26/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/07/26/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,150c160

@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	Qui edunt me
-!!!AGN:	Motet
-!!!SCT:	NJE 14.11
-!!!SCA:	New Josquin Edition 14.11
-!!!voices:	2
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Qui edunt me
+!!!AGN: Motet
+!!!SCT: NJE 14.11
+!!!SCA: New Josquin Edition 14.11
+!!!voices: 2
 **kern	**kern
 *staff2	*staff1
 *Ivox	*Ivox
@@ -196,10 +196,10 @@
 *-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 08/07/2011
-!!!END:	2011/08/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/08/18/
+!!!ENC: Will Watson 08/07/2011
+!!!END: 2011/08/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/08/18/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
 !!muse2ps: C^@{COM}{/}@{COA}?\n@{SCT}^I150v100,150Q16

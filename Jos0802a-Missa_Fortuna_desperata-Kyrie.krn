@@ -1,13 +1,13 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Fortuna desperata
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	NJE 8.2
-!!!SCA:	New Josquin Edition 8.2
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Fortuna desperata
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: NJE 8.2
+!!!SCA: New Josquin Edition 8.2
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -430,8 +430,8 @@
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/13
 !!!END: 2011/04/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/04/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/14/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/14/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/14/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,150c95Q16

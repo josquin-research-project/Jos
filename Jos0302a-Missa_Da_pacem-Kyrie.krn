@@ -1,15 +1,15 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: Bauldeweyn
 !!!COA3: Mouton
-!!!OPR:	Missa Da pacem
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	NJE 3.2
-!!!SCA:	New Josquin Edition 3.2
+!!!OPR: Missa Da pacem
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: NJE 3.2
+!!!SCA: New Josquin Edition 3.2
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -487,14 +487,14 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/04/02
-!!!END:	2011/01/01/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/04/06/
+!!!ENC: Jesse Rodin; Victoria Chang 2011/04/02
+!!!END: 2011/01/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/06/
 !!!SMS: Grapheus 1539
 !!!SMS: Smijers, No. 19, afl. 43 (after G1539)
 !!!SMS1: Ed. Blume. Josquin des Pres, Missa Da pacem, in: Cw, 20 
 !!!SMS2: (Wolfenbuttel 1932) (after G1539).
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Bauldeweyn/Josquin?/Mouton?\n@{SCT}^i2I100v85,90,85,150c95Q16

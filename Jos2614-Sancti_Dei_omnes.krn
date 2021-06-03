@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	Sancti dei omnes
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Sancti dei omnes
 !!!OTL2@@LAT: Christe, audi nos
-!!!AGN:	Motet
-!!!SCT:	NJE 26.14
-!!!SCA:	New Josquin Edition 26.14
-!!!voices:	4
+!!!AGN: Motet
+!!!SCT: NJE 26.14
+!!!SCA: New Josquin Edition 26.14
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1127,10 +1127,10 @@
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 14/07/2011
-!!!END:	2011/07/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/11/02/
+!!!ENC: Will Watson 14/07/2011
+!!!END: 2011/07/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/11/02/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v90,90,90,150c90Q16

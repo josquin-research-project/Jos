@@ -1,5 +1,5 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT: Magnificat tertii toni
 !!!OTL1@@LAT: Et exsultavit spiritus meus
 !!!OTL2@@LAT: Quia fecit mihi magna
@@ -7,10 +7,10 @@
 !!!OTL4@@LAT: Esurientes implevit bonis
 !!!OTL5@@LAT: Sicut locutus est
 !!!OTL6@@LAT: Sicut erat in principio
-!!!AGN:	Motet
-!!!SCT:	NJE 20.1
-!!!SCA:	New Josquin Edition 20.1
-!!!voices:	4
+!!!AGN: Motet
+!!!SCT: NJE 20.1
+!!!SCA: New Josquin Edition 20.1
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1137,11 +1137,11 @@
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/05/24
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/24
 !!!SMS: BerlS 40021
-!!!END:	2011/05/24/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/10/25/
+!!!END: 2011/05/24/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/10/25/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT} (Berlin 40021)^I150v90,90,90,150c95i2I150Q16

@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT:Inter natos mulierum
 !!!OTL2@@LAT:Fuit homo missus a Deo
-!!!AGN:	Motet
-!!!SCT:	NJE 19.10
-!!!SCA:	New Josquin Edition 19.10
-!!!voices:	6
+!!!AGN: Motet
+!!!SCT: NJE 19.10
+!!!SCA: New Josquin Edition 19.10
+!!!voices: 6
 **kern	**kern	**kern	**kern	**kern	**kern
 *staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -663,11 +663,11 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Victoria Chang
-!!!END:	2011/03/21/
-!!!SMS1:	Smijers and Antonowycz, No. 84, afl. 49
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/04/04/
+!!!ENC: Victoria Chang
+!!!END: 2011/03/21/
+!!!SMS1: Smijers and Antonowycz, No. 84, afl. 49
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/04/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v100,100,100,100,100,130c120Q16

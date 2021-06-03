@@ -1,12 +1,12 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa L'homme arm&eacute; sexti toni
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	NJE 6.2
-!!!SCA:	New Josquin Edition 6.2
-!!!voices:	4
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa L'homme arm&eacute; sexti toni
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: NJE 6.2
+!!!SCA: New Josquin Edition 6.2
+!!!voices: 4
 !!!voices-OPR: 4(-6)
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1

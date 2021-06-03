@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Venit Jesus / Tu es Petrus
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Venit Jesus / Tu es Petrus
 !!!SMS: Munich 17198
-!!!AGN:	Motet
-!!!SCT:	NJE 20.15
-!!!SCA:	New Josquin Edition 20.15
+!!!AGN: Motet
+!!!SCT: NJE 20.15
+!!!SCA: New Josquin Edition 20.15
 !!!ONB1: Only extant voice, texted "Tu es Petrus," from a motet possibly &agrave; 6
-!!!voices:	0
+!!!voices: 0
 **kern
 *clefGv2
 *k[b-]
@@ -195,10 +195,10 @@
 ==
 *-
 !!!RDF**kern: l=long note in original notation
-!!!ENC:	Jesse Rodin 23 October 2020
-!!!END:	2020/10/23
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/04/28
+!!!ENC: Jesse Rodin 23 October 2020
+!!!END: 2020/10/23
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/28
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT} (unicum in @{SMS})^u^@{ONB1}^i2I150v150z18c180t300

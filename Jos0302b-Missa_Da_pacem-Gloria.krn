@@ -1,15 +1,15 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: Bauldeweyn
 !!!COA3: Mouton
-!!!OPR:	Missa Da pacem
-!!!ONM:	2
-!!!OTL:	Gloria
-!!!AGN:	Mass; Gloria
-!!!SCT:	NJE 3.2
-!!!SCA:	New Josquin Edition 3.2
+!!!OPR: Missa Da pacem
+!!!ONM: 2
+!!!OTL: Gloria
+!!!AGN: Mass; Gloria
+!!!SCT: NJE 3.2
+!!!SCA: New Josquin Edition 3.2
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -761,8 +761,8 @@
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Victoria Chang 2011/04/18
 !!!END: 2011/04/18/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/09/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/09/08/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/09/08/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/09/08/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Bauldeweyn/Josquin?/Mouton?\n@{SCT}^i2I100v85,90,85,150c100Q16

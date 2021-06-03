@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Conserva me domine
-!!!AGN:	Motet
-!!!SCT:	NJE 15.10
-!!!SCA:	New Josquin Edition 15.10
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Conserva me domine
+!!!AGN: Motet
+!!!SCT: NJE 15.10
+!!!SCA: New Josquin Edition 15.10
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -478,7 +478,7 @@
 =88||	=88||	=88||	=88||
 *>B	*>B	*>B	*>B
 !!section: Secunda pars: Dominus pars haereditatis meae
-!!!OMD:	Secunda pars: Dominus pars haereditatis meae
+!!!OMD: Secunda pars: Dominus pars haereditatis meae
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
@@ -884,10 +884,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 05/30/2012
-!!!END:	2012/05/31/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/06/24/
+!!!ENC: Chris Gage 05/30/2012
+!!!END: 2012/05/31/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/24/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/06/24/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/24/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150Q16

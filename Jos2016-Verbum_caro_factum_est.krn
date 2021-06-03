@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Verbum caro factum est
-!!!AGN:	Motet
-!!!SCT:	NJE 20.16
-!!!SCA:	New Josquin Edition 20.16
-!!!voices:	5
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Verbum caro factum est
+!!!AGN: Motet
+!!!SCT: NJE 20.16
+!!!SCA: New Josquin Edition 20.16
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1465,10 +1465,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Joel Chapman 2012/05/01
-!!!END:	2012/05/01/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/06/21/
+!!!ENC: Joel Chapman 2012/05/01
+!!!END: 2012/05/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/21/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/06/21/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/21/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,85,130Q16

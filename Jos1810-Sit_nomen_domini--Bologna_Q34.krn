@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Sit nomen domini
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Sit nomen domini
 !!!SMS: Bologna Q34
-!!!AGN:	Motet
-!!!SCT:	NJE 18.10
-!!!SCA:	New Josquin Edition 18.10
-!!!voices:	10
+!!!AGN: Motet
+!!!SCT: NJE 18.10
+!!!SCA: New Josquin Edition 18.10
+!!!voices: 10
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -191,10 +191,10 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: [*]
-!!!ENC:	Jesse Rodin 23 October 2020
-!!!END:	2020/10/23
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/04/28
+!!!ENC: Jesse Rodin 23 October 2020
+!!!END: 2020/10/23
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/28
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT} (@{SMS})^i2I150v75,75,75,75,75,75,75,75,75,100z18c120

@@ -1,13 +1,13 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Pange lingua
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	NJE 4.3
-!!!SCA:	New Josquin Edition 4.3
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Pange lingua
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: NJE 4.3
+!!!SCA: New Josquin Edition 4.3
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *clefF4	*clefGv2	*clefGv2	*clefG2
@@ -469,10 +469,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 01/09/2011; Victoria Chang 04/09/2011
-!!!END:	2011/04/09/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/09/14/
+!!!ENC: Will Watson 01/09/2011; Victoria Chang 04/09/2011
+!!!END: 2011/04/09/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/09/14/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/09/14/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/09/14/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,150c110Q16

@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Celi enarrant gloriam dei (Zacconi 1592, fragment)
-!!!AGN:	Fragment
-!!!SCT:	NJE 99.12
-!!!SCA:	New Josquin Edition 99.12
-!!!voices:	0
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Celi enarrant gloriam dei (Zacconi 1592, fragment)
+!!!AGN: Fragment
+!!!SCT: NJE 99.12
+!!!SCA: New Josquin Edition 99.12
+!!!voices: 0
 **kern
 *>[A,B]
 *>A
@@ -49,10 +49,10 @@
 1r
 ==
 *-
-!!!ENC:	Jesse Rodin 23 October 2020
-!!!END:	2020/10/23
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/05/19
+!!!ENC: Jesse Rodin 23 October 2020
+!!!END: 2020/10/23
+!!!EED: Jesse Rodin
+!!!EEV: 2021/05/19
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/05/19 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/05/19 by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT}^i0I1v150c140z18t200

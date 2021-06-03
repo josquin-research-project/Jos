@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	De profundis clamavi [low]
-!!!OTL2@@LAT:	A custodia
-!!!AGN:	Motet
-!!!SCT:	NJE 15.11
-!!!SCA:	New Josquin Edition 15.11
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: De profundis clamavi [low]
+!!!OTL2@@LAT: A custodia
+!!!AGN: Motet
+!!!SCT: NJE 15.11
+!!!SCA: New Josquin Edition 15.11
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -844,10 +844,10 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 15/12/2011, text underlay: Peter Pesic 2014/06/14
-!!!END:	2012/12/15/ 
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/06/17/
+!!!ENC: Will Watson 15/12/2011, text underlay: Peter Pesic 2014/06/14
+!!!END: 2012/12/15/ 
+!!!EED: Jesse Rodin
+!!!EEV: 2014/06/17/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2014/06/17/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2014/06/17/ by Craig Sapp
 !!muse2ps: C^@{COA}\n@{SCT}^u^(2) @{OTL2}^i2I100v110,105,105,105,130c180

@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: Compere
 !!!COA3: Ninot le Petit
 !!!OTL@@FRE: Lourdault, Lourdault
-!!!AGN:	Chanson
-!!!SCT:	NJE 28.24
-!!!SCA:	New Josquin Edition 28.24
-!!!voices:	4
+!!!AGN: Chanson
+!!!SCT: NJE 28.24
+!!!SCA: New Josquin Edition 28.24
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -312,10 +312,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 23/10/2011
-!!!END:	2011/10/23/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/12/16/
+!!!ENC: Will Watson 23/10/2011
+!!!END: 2011/10/23/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/12/16/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/12/16/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/12/16/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v90,90,90,150Q16

@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Mater patris
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	NJE 10.1
-!!!SCA:	New Josquin Edition 10.1
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Mater patris
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: NJE 10.1
+!!!SCA: New Josquin Edition 10.1
 !!!voices: 4
 !!!voices-OPR: 4(-5)
 **kern	**kern	**kern	**kern
@@ -878,8 +878,8 @@
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Will Watson 16/08/2011
 !!!END: 2011/08/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/10/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/10/28/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/10/28/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/10/28/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I100v85,85,85,150c80Q16

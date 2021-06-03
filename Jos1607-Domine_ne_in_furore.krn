@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT: Domine, ne in furore
 !!!OTL2@@LAT: Turbatus est a furore
-!!!AGN:	Motet
-!!!SCT:	NJE 16.7
-!!!SCA:	New Josquin Edition 16.7
-!!!voices:	4
+!!!AGN: Motet
+!!!SCT: NJE 16.7
+!!!SCA: New Josquin Edition 16.7
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -841,10 +841,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/05/23
-!!!END:	2011/05/23/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/10/20/
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/23
+!!!END: 2011/05/23/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/10/20/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/10/20/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/10/20/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v90,90,90,150Q16

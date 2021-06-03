@@ -1,17 +1,17 @@
-!!!COM:	Mouton, Jean
-!!!CDT:	~1459-1522/10/30
-!!!COA:	Josquin des Prez
-!!!CDT2:	~1450-1521/08/27
+!!!COM: Mouton, Jean
+!!!CDT: ~1459-1522/10/30
+!!!COA: Josquin des Prez
+!!!CDT2: ~1450-1521/08/27
 !!!COA2: Antoine de F&eacute;vin
 !!!COA3: Morales
 !!!COA4: Festa
 !!!OTL@@LAT:Salva nos domine
-!!!OTL@ENG:	Save us Lord
-!!!AGN:	Motet
-!!!SCT:	NJE 26.12
-!!!SCA:	New Josquin Edition 26.12
+!!!OTL@ENG: Save us Lord
+!!!AGN: Motet
+!!!SCT: NJE 26.12
+!!!SCA: New Josquin Edition 26.12
 !!!ONB: long name: Salva nos domine vigilantes
-!!!voices:	6
+!!!voices: 6
 **kern	**kern	**kern	**kern	**kern	**kern
 *staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -227,12 +227,12 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Victoria Chang
-!!!END:	2011/03/23/
-!!!SMS1:	Lowinsky, The Medici Codex of 1518: A Choirbook of Motets 
-!!!SMS2:	Dedicated to Lorenzo deMedici, Duke of Urbino, MRM 4, p. 227
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/04/03/
+!!!ENC: Victoria Chang
+!!!END: 2011/03/23/
+!!!SMS1: Lowinsky, The Medici Codex of 1518: A Choirbook of Motets 
+!!!SMS2: Dedicated to Lorenzo deMedici, Duke of Urbino, MRM 4, p. 227
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/03/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/03/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/03/ by Craig Sapp
 !!muse2ps: C^@{COM}{/}@{COA}?\n@{SCT}^I150v100,100,100,100,100,130c100Q16

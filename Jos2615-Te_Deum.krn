@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!COA2:	de Silva
-!!!OTL:	Te deum laudamus
-!!!AGN:	Motet
-!!!SCT:	NJE 26.15
-!!!SCA:	New Josquin Edition 26.15
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!COA2: de Silva
+!!!OTL: Te deum laudamus
+!!!AGN: Motet
+!!!SCT: NJE 26.15
+!!!SCA: New Josquin Edition 26.15
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -2286,10 +2286,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8-26-2012
-!!!END:	2012/08/26/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/11/05/
+!!!ENC: Jesse Rodin 8-26-2012
+!!!END: 2012/08/26/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/11/05/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/11/05/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/11/05/ by Craig Sapp
 !!muse2ps: C^de Silva?/Josquin?\n@{SCT}^i2I150v85,85,85,150Q8c120

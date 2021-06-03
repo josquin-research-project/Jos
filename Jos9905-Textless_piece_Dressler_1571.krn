@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Textless piece [Dressler 1571]
-!!!AGN:	Unknown
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Textless piece [Dressler 1571]
+!!!AGN: Unknown
 !!!ONB: Missing parts
-!!!SCT:	NJE 99.5
-!!!SCA:	New Josquin Edition 99.5
-!!!voices:	1
-!!!COM:	Josquin?
-!!!OTL:	Jos9905-Textless_piece_(Dressler_1571)
+!!!SCT: NJE 99.5
+!!!SCA: New Josquin Edition 99.5
+!!!voices: 1
+!!!COM: Josquin?
+!!!OTL: Jos9905-Textless_piece_(Dressler_1571)
 **kern
 *staff1
 *clefG2
@@ -273,10 +273,10 @@
 ==
 *-
 !!!RDF**kern: l=long note in original notation
-!!!ENC:	Jesse Rodin
-!!!END:	2020/10/22
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/04/14
+!!!ENC: Jesse Rodin
+!!!END: 2020/10/22
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/14
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/04/14 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/04/14 by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT}^i2I150v150c190z18t300

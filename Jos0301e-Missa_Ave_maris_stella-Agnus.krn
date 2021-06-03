@@ -1,13 +1,13 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Ave maris stella
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	NJE 3.1
-!!!SCA:	New Josquin Edition 3.1
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Ave maris stella
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: NJE 3.1
+!!!SCA: New Josquin Edition 3.1
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *I"Bassus	*I"Tenor	*I"Altus	*I"Superius
@@ -652,8 +652,8 @@
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/01/
 !!!END: 2011/04/01/
-!!!EED:	Jesse Rodin
+!!!EED: Jesse Rodin
 !!!EEV: 2013/10/25/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/06/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,150c94Q16

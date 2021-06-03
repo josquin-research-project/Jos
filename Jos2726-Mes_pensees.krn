@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Mes pensees
-!!!AGN:	Chanson
-!!!SCT:	NJE 27.26
-!!!SCA:	New Josquin Edition 27.26
-!!!voices:	3
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Mes pensees
+!!!AGN: Chanson
+!!!SCT: NJE 27.26
+!!!SCA: New Josquin Edition 27.26
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -463,10 +463,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Megan K. Eagen 20/06/2012
-!!!END:	2012/08/21/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/29/
+!!!ENC: Megan K. Eagen 20/06/2012
+!!!END: 2012/08/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/29/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
 !!muse2ps: C^Comp&eacute;re/Josquin?\n@{SCT}^i2I150v85,85,150Q16

@@ -1,11 +1,11 @@
 !!!COM: Regis, Johannes
 !!!CDT: ~1425-~1496
 !!!COA: Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!CDT: ~1450-1521/08/27
 !!!OTL:  O admirabile commercium / Verbum caro factum est - Magnum nomen
-!!!AGN:	Motet
-!!!SCT:	NJE 26.8
-!!!SCA:	New Josquin Edition 26.8
+!!!AGN: Motet
+!!!SCT: NJE 26.8
+!!!SCA: New Josquin Edition 26.8
 !!!voices: 5
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -1381,8 +1381,8 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/11/20
 !!!END: 2011/11/20/
 !!!SMS: Chigi Codex; Lindenburg, CMM 9-2
-!!!EED:	Victoria Chang
-!!!EEV:	2011/12/24/
+!!!EED: Victoria Chang
+!!!EEV: 2011/12/24/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/12/24/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/12/24/ by Craig Sapp
 !!muse2ps: z14jC^@{COM}\n@{SCT}^T^@{OTL}^i2I150v130,130,130,130,110c95Q4s^[(.)(.)(.)(.)(.)]^

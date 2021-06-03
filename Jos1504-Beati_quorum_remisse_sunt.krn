@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Beati quorum remisse sunt
-!!!AGN:	Motet
-!!!SCT:	NJE 15.4
-!!!SCA:	New Josquin Edition 15.4
-!!!voices:	5
-!!!COM:	Josquin
-!!!OTL:	Jos1504-Beati,_quorum_remisse_sunt
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Beati quorum remisse sunt
+!!!AGN: Motet
+!!!SCT: NJE 15.4
+!!!SCA: New Josquin Edition 15.4
+!!!voices: 5
+!!!COM: Josquin
+!!!OTL: Jos1504-Beati,_quorum_remisse_sunt
 **kern	**kern	**kern	**kern	**kern
 *part5	*part4	*part3	*part2	*part1
 *staff5	*staff4	*staff3	*staff2	*staff1
@@ -1245,10 +1245,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4,s5
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Chris Gage
-!!!END:	2014/06/30
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/03/25
+!!!ENC: Chris Gage
+!!!END: 2014/06/30
+!!!EED: Jesse Rodin
+!!!EEV: 2021/03/25
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/03/25 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/03/25 by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT}^i2I150v85,85,85,85,150c125

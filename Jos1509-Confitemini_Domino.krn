@@ -1,12 +1,12 @@
-!!!COM:	Mouton, Jean
+!!!COM: Mouton, Jean
 !!!CDT: ~1459///-1522/10/30/
 !!!COA2: Josquin des Prez
 !!!CDT2: ~1450-1521/08/27
-!!!OTL:	Confitemini domino / Per singulos dies benedicimus te
-!!!AGN:	Motet
-!!!SCT:	NJE 15.9
-!!!SCA:	New Josquin Edition 15.9
-!!!voices:	6
+!!!OTL: Confitemini domino / Per singulos dies benedicimus te
+!!!AGN: Motet
+!!!SCT: NJE 15.9
+!!!SCA: New Josquin Edition 15.9
+!!!voices: 6
 !!!ONB: cross-listed Mou2032 and Jos1509
 **kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe	**kern	**silbe
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -609,10 +609,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 10/14/12
-!!!END:	2012/10/14/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/11/05/
+!!!ENC: Jesse Rodin 10/14/12
+!!!END: 2012/10/14/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/11/05/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/11/05/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/11/05/ by Craig Sapp
 !!muse2ps: C^Mouton/Josquin?\n@{SCT}^i2I150v80,80,80,80,80,130Q16

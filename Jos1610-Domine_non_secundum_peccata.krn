@@ -1,12 +1,12 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT: Domine, non secundum peccata
 !!!OTL2@@LAT: Domine, ne memineris
 !!!OTL3@@LAT: Adjuva nos, deus
-!!!AGN:	Motet
-!!!SCT:	NJE 16.10
-!!!SCA:	New Josquin Edition 16.10
-!!!voices:	2-4
+!!!AGN: Motet
+!!!SCT: NJE 16.10
+!!!SCA: New Josquin Edition 16.10
+!!!voices: 2-4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1111,10 +1111,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/05/10
-!!!END:	2011/05/10/
-!!!EED:	Jesse Rodin
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/10
+!!!END: 2011/05/10/
+!!!EED: Jesse Rodin
 !!!EEV: 2012/04/24/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2} (3) @{OTL3}^C^@{COM}\n@{SCT}^i2I150v90,90,90,150Q16

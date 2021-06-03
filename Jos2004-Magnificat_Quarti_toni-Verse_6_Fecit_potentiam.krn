@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT: Magnificat quarti toni
-!!!AGN:	Motet
-!!!SCT:	NJE 20.4
-!!!SCA:	New Josquin Edition 20.4
-!!!ONB:	Verse 6: Fecit potentiam
-!!!voices:	4
+!!!AGN: Motet
+!!!SCT: NJE 20.4
+!!!SCA: New Josquin Edition 20.4
+!!!ONB: Verse 6: Fecit potentiam
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -276,11 +276,11 @@
 !!!RDF**kern: l=long note in original notation
 !!!ONB: RDF "l" not used in this piece (last notes are semibreves)
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Joel Chapman 2011/7/13; Victoria Chang 2011/08/08
+!!!ENC: Joel Chapman 2011/7/13; Victoria Chang 2011/08/08
 !!!SMS: Fuenllana 1554 (only found in tablature)
-!!!END:	2011/08/08/
-!!!EED:	Jesse Rodin
+!!!END: 2011/08/08/
+!!!EED: Jesse Rodin
 !!!EEV: 2012/04/24/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/08/10/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/08/10/ by Craig Sapp
 !!muse2ps: u^Verse 6: Fecit potentiam^C^@{COA}?\n@{SCT}^I150v90,90,90,90,150c95Q16

@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@FRE: Je me complains
-!!!AGN:	Chanson
-!!!SCT:	NJE 29.10
-!!!SCA:	New Josquin Edition 29.10
-!!!voices:	5
+!!!AGN: Chanson
+!!!SCT: NJE 29.10
+!!!SCA: New Josquin Edition 29.10
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -376,10 +376,10 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 13/11/2011
-!!!END:	2011/11/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/12/02/
+!!!ENC: Will Watson 13/11/2011
+!!!END: 2011/11/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/12/02/
 !!attribution-level@Jos: 3 (problematic [question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/12/02/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/12/02/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^I150v95,95,95,95,95,130c95i2I150Q16

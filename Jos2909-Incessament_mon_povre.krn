@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM2: La Rue, Pierre de
 !!!CDT2: ~1452///-1518/11/20/
 !!!OTL@@FRE: Incessament mon povre cueur
-!!!AGN:	Song; Chanson
-!!!SCT:	NJE 29.9
-!!!SCA:	New Josquin Edition 29.9
-!!!voices:	5
+!!!AGN: Song; Chanson
+!!!SCT: NJE 29.9
+!!!SCA: New Josquin Edition 29.9
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -357,10 +357,10 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 13/11/2011
-!!!END:	2011/11/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/12/06/
+!!!ENC: Will Watson 13/11/2011
+!!!END: 2011/11/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/12/06/
 !!attribution-level@Jos: 
-!!!ONB:	Translated from MusicXML and edited on 2011/12/06/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/12/06/ by Craig Sapp
 !!muse2ps: C^La Rue/Josquin?\n@{SCT}^I150v95,95,95,95,95,130c95i2I150Q16

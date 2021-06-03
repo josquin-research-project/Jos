@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Ave Maria ... virgo serena
-!!!AGN:	Motet
-!!!SCT:	NJE 23.7
-!!!SCA:	New Josquin Edition 23.7
-!!!voices:	8
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Ave Maria ... virgo serena
+!!!AGN: Motet
+!!!SCT: NJE 23.7
+!!!SCA: New Josquin Edition 23.7
+!!!voices: 8
 !!!ONB: attrib. Josquin in Verona 218
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
@@ -972,10 +972,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8)]
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Megan K. Eagen 2013/01/01
-!!!END:	2013/01/01/
-!!!EED:	Jesse Rodin
-!!!EEV:	2020/10/23/
+!!!ENC: Megan K. Eagen 2013/01/01
+!!!END: 2013/01/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2020/10/23/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
 !!muse2ps: C^@{COA}?? (attrib. in Verona 218)\n@{SCT}^i2I150v80,80,80,80,80,80,80,120c125s^[(....)][(....)]^

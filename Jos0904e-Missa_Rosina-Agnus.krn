@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Rosina
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	NJE 9.4
-!!!SCA:	New Josquin Edition 9.4
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Rosina
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: NJE 9.4
+!!!SCA: New Josquin Edition 9.4
+!!!voices: 4
+!!!voices-OPR: 4
 **kern
 *staff1
 *Ivox
@@ -140,10 +140,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Rob Wegman; Jesse Rodin (May 2013)
-!!!END:	2013/05/10/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/05/13/
+!!!ENC: Rob Wegman; Jesse Rodin (May 2013)
+!!!END: 2013/05/10/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/05/13/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2013/05/13/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2013/05/13/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I250v150z21c120Q16

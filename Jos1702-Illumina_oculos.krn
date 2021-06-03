@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Illumina oculos
-!!!AGN:	Motet
-!!!SCT:	NJE 17.2
-!!!SCA:	New Josquin Edition 17.2
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Illumina oculos
+!!!AGN: Motet
+!!!SCT: NJE 17.2
+!!!SCA: New Josquin Edition 17.2
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -875,10 +875,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin (8/15/2012)
-!!!END:	2012/08/15/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/15/
+!!!ENC: Jesse Rodin (8/15/2012)
+!!!END: 2012/08/15/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/15/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/15/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/15/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,130Q16

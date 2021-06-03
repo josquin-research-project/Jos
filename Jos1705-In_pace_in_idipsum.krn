@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	In pace in idipsum
-!!!AGN:	Motet
-!!!SCT:	NJE 17.5
-!!!SCA:	New Josquin Edition 17.5
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: In pace in idipsum
+!!!AGN: Motet
+!!!SCT: NJE 17.5
+!!!SCA: New Josquin Edition 17.5
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -193,10 +193,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Joel Chapman 2011/12/26
-!!!END:	2011/12/26/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/01/24/
+!!!ENC: Joel Chapman 2011/12/26
+!!!END: 2011/12/26/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/01/24/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/01/24/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/01/24/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v90,90,90,150Q16

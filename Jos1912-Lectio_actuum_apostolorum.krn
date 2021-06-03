@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM: Viardot
 !!!OTL@@LAT:Lectio actuum apostolorum / Dum complerentur
 !!!OTL2@@LAT: Facta autem hac voce
-!!!AGN:	Motet
-!!!SCT:	NJE 19.12
-!!!SCA:	New Josquin Edition 19.12
-!!!voices:	5
+!!!AGN: Motet
+!!!SCT: NJE 19.12
+!!!SCA: New Josquin Edition 19.12
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1421,11 +1421,11 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Victoria Chang
-!!!END:	2011/03/22/
-!!!SMS:	Smijers, No. 41, afl. 24
-!!!EED:	Jesse Rodin
+!!!ENC: Victoria Chang
+!!!END: 2011/03/22/
+!!!SMS: Smijers, No. 41, afl. 24
+!!!EED: Jesse Rodin
 !!!EEV: 2012/04/24/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^I150v90,90,90,90,130Q16

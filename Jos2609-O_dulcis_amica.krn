@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	O dulcis amica
-!!!AGN:	Motet
-!!!SCT:	NJE 26.9
-!!!SCA:	New Josquin Edition 26.9
-!!!voices:	6
-!!!OTL:	Jos2609-O_dulcis_amica
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: O dulcis amica
+!!!AGN: Motet
+!!!SCT: NJE 26.9
+!!!SCA: New Josquin Edition 26.9
+!!!voices: 6
+!!!OTL: Jos2609-O_dulcis_amica
 !!!ONB: unicum in Kriesstein 1540
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -205,10 +205,10 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4,s5,s6
-!!!ENC:	Jesse Rodin 8/23/2013
-!!!END:	2020/10/21
-!!!EED:	Jesse Rodin
-!!!EEV:	2020/10/23
+!!!ENC: Jesse Rodin 8/23/2013
+!!!END: 2020/10/21
+!!!EED: Jesse Rodin
+!!!EEV: 2020/10/23
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2020/03/22 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2020/03/22 by Craig Sapp
 !!muse2ps: C^@{COA}?? (unicum in Kriesstein 1540)\n@{SCT}^i2I150v75,75,75,75,75,100Q16

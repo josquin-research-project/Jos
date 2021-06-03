@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT:Christus mortuus est
-!!!AGN:	Motet
-!!!SCT:	NJE 19.1
-!!!SCA:	New Josquin Edition 19.1
-!!!voices:	6
+!!!AGN: Motet
+!!!SCT: NJE 19.1
+!!!SCA: New Josquin Edition 19.1
+!!!voices: 6
 !!!ONB: Christus mortuus est / c.p.f. Circumdederunt me
 !!!ONB: Can we find a way to indicate the canon?
 **kern	**kern	**kern	**kern	**kern	**kern
@@ -213,16 +213,16 @@
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Victoria Chang
-!!!END:	2011/03/21/
+!!!ENC: Victoria Chang
+!!!END: 2011/03/21/
 !!!SMS: Montanus & Neuber 1564: 
 !!!SMS: Smijers no. 87 afl. 51; 
 !!!SMS1: Ed. Commer, Collectio operum musicorum batavorum saeculi XVI vol. 8 
 !!!SMS2: (Maguntiae Antverpiae et Bruxellarum s.d.) no. 3; (3) Mattfeld, 
 !!!SMS3: Cantus firmus in the LIturgical Motets of Josquin des Prez 
 !!!SMS4: (PhD diss Yale 1959) Appendix E pp 15-17
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/04/04/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/04/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
 !!muse2ps: C^@{COM}{/}@{COA}?\n@{SCT}^I150v100,100,100,100,100,130c100Q16

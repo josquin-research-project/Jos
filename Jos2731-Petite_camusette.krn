@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Petite camusette
-!!!AGN:	Chanson
-!!!SCT:	NE 27.31
-!!!SCA:	New Josquin Edition 27.31
-!!!voices:	3
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Petite camusette
+!!!AGN: Chanson
+!!!SCT: NE 27.31
+!!!SCA: New Josquin Edition 27.31
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -330,10 +330,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Megan K. Eagen 05/28/2012
-!!!END:	2012/05/28/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/06/20/
+!!!ENC: Megan K. Eagen 05/28/2012
+!!!END: 2012/05/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/20/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/06/20/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/20/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,150Q16

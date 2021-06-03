@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Laudate dominum omnes gentes
-!!!AGN:	Motet
-!!!SCT:	NJE 17.10
-!!!SCA:	New Josquin Edition 17.10
-!!!voices:	16
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Laudate dominum omnes gentes
+!!!AGN: Motet
+!!!SCT: NJE 17.10
+!!!SCA: New Josquin Edition 17.10
+!!!voices: 16
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -438,10 +438,10 @@
 ==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8)][(s9,s10,s11,s12)][(s13,s14,s15,s16)]
-!!!ENC:	Jesse Rodin
-!!!END:	2020/10/24
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/04/14
+!!!ENC: Jesse Rodin
+!!!END: 2020/10/24
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/14
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/04/14 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/04/14 by Craig Sapp
 !!muse2ps: C^@{COA}??\n@{SCT}^i2I150v120,120,120,135,120,120,120,135,120,120,120,135,120,120,120,105s^[(....)][(....)][(....)][(....)]^f

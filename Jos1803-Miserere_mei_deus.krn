@@ -1,10 +1,10 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Miserere mei, deus
-!!!AGN:	Motet
-!!!SCT:	NJE 18.3
-!!!SCA:	New Josquin Edition 18.3
-!!!voices:	5
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Miserere mei, deus
+!!!AGN: Motet
+!!!SCT: NJE 18.3
+!!!SCA: New Josquin Edition 18.3
+!!!voices: 5
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -2126,10 +2126,10 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2019/12/09/
-!!!EED:	Jesse Rodin
-!!!EEV:	2019/12/10/
+!!!ENC: Jesse Rodin
+!!!END: 2019/12/09/
+!!!EED: Jesse Rodin
+!!!EEV: 2019/12/10/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2019/12/10/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c90z18l2780t100

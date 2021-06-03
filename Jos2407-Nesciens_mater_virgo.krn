@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	Nesciens mater virgo virum
-!!!OTL2@@LAT:	Ipsum regem angelorum
-!!!AGN:	Motet
-!!!SCT:	NJE 24.7
-!!!SCA:	New Josquin Edition 24.7
-!!!voices:	5
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Nesciens mater virgo virum
+!!!OTL2@@LAT: Ipsum regem angelorum
+!!!AGN: Motet
+!!!SCT: NJE 24.7
+!!!SCA: New Josquin Edition 24.7
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -741,10 +741,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Joel Chapman 2012/1/28
-!!!END:	2012/01/28/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/02/02/
+!!!ENC: Joel Chapman 2012/1/28
+!!!END: 2012/01/28/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/02/02/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/02/02/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/02/02/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v95,95,95,95,130c100Q16

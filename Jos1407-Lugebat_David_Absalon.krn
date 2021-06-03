@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!COA:	Gombert
-!!!OTL:	Lugebat David Absalon
-!!!AGN:	Motet
-!!!SCT:	NJE 14.7
-!!!SCA:	New Josquin Edition 14.7
-!!!voices:	8
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!COA: Gombert
+!!!OTL: Lugebat David Absalon
+!!!AGN: Motet
+!!!SCT: NJE 14.7
+!!!SCA: New Josquin Edition 14.7
+!!!voices: 8
 **kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
 *part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
 *staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -1051,10 +1051,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4,s5,s6,s7,s8
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Chris Gage 06-25-2014
-!!!END:	2020/10/21/
-!!!EED:	Jesse Rodin
-!!!EEV:	2020/10/23/
+!!!ENC: Chris Gage 06-25-2014
+!!!END: 2020/10/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2020/10/23/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2020/10/23/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2020/10/23/ by Craig Sapp
 !!muse2ps: C^Probably by Gombert\n@{SCT}^i2I150v95,95,95,95,95,95,95,150z18c112

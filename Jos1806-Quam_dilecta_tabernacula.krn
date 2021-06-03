@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: Certon
-!!!OTL:	Quam dilecta tabernacula
-!!!AGN:	Motet
-!!!SCT:	NJE 18.6
-!!!SCA:	New Josquin Edition 18.6
-!!!voices:	5
+!!!OTL: Quam dilecta tabernacula
+!!!AGN: Motet
+!!!SCT: NJE 18.6
+!!!SCA: New Josquin Edition 18.6
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *part5	*part4	*part3	*part2	*part1
 *staff5	*staff4	*staff3	*staff2	*staff1
@@ -1209,10 +1209,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4,s5
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2020/10/21
-!!!EED:	Jesse Rodin
-!!!EEV:	2020/10/23
+!!!ENC: Jesse Rodin
+!!!END: 2020/10/21
+!!!EED: Jesse Rodin
+!!!EEV: 2020/10/23
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/03/25 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/03/25 by Craig Sapp
 !!muse2ps: C^probably by Certon\n@{SCT}^i2I150v85,85,85,85,150c110

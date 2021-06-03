@@ -1,14 +1,14 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA: Ockeghem
-!!!OPR:	Missa Gaudeamus
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	NJE 4.2
-!!!SCA:	New Josquin Edition 4.2
+!!!OPR: Missa Gaudeamus
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: NJE 4.2
+!!!SCA: New Josquin Edition 4.2
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -950,10 +950,10 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2011/01/01/
-!!!EED:	Jesse Rodin
+!!!ENC: Jesse Rodin
+!!!END: 2011/01/01/
+!!!EED: Jesse Rodin
 !!!EEV: 2012/04/24/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/01/03/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/01/03/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I100v85,90,85,130Q16

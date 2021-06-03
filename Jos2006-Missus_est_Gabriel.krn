@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM: Ninot le Petit
 !!!OTL@@LAT:Missus est Gabriel angelus
 !!!OTL2@@LAT: Hic erit magnus
-!!!AGN:	Motet
-!!!SCT:	NJE 20.6
-!!!SCA:	New Josquin Edition 20.6
-!!!ONB:	Missus est Gabriel angelus (c.p.f. A une dame iay promis)
-!!!voices:	5
+!!!AGN: Motet
+!!!SCT: NJE 20.6
+!!!SCA: New Josquin Edition 20.6
+!!!ONB: Missus est Gabriel angelus (c.p.f. A une dame iay promis)
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1118,13 +1118,13 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Victoria Chang
-!!!END:	2011/03/23/
+!!!ENC: Victoria Chang
+!!!END: 2011/03/23/
 !!!SMS: Smijers, No. 40, afl. 24. 
 !!!SMS1:Lowinsky, Edward E. "The Medici Codex of 1518: A Choirbook of Motets
 !!!SMS2:Dedicated to Lorenzo de' Medici, Duke of Urbino". MRM 4, pp. 360-373
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/04/03/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/04/03/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/04/03/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/04/03/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^I150v90,90,90,90,130c95Q16

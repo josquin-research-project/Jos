@@ -1,14 +1,14 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM: Moulu
-!!!OPR:	Missa Missus est Gabriel Angelus
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	NJE 10.2
-!!!SCA:	New Josquin Edition 10.2
+!!!OPR: Missa Missus est Gabriel Angelus
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: NJE 10.2
+!!!SCA: New Josquin Edition 10.2
 !!!voices: 4
-!!!voices-OPR:	4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -474,10 +474,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 07/08/2011
-!!!END:	2011/07/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/10/25/
+!!!ENC: Will Watson 07/08/2011
+!!!END: 2011/07/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/10/25/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/12/26/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/12/26/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}{/}@{COA}?\n@{SCT}^i2I100v85,85,85,150c95Q16

@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM: Brumel, Antoine
-!!!CDT:	~1460-~1512
-!!!OTL:	Gloria laus et honor
-!!!AGN:	Motet
-!!!SCT:	NJE 26.5
-!!!SCA:	New Josquin Edition 26.5
-!!!voices:	4
+!!!CDT: ~1460-~1512
+!!!OTL: Gloria laus et honor
+!!!AGN: Motet
+!!!SCT: NJE 26.5
+!!!SCA: New Josquin Edition 26.5
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1747,10 +1747,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Megan K. Eagen 25/08/2012
-!!!END:	2014/02/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/03/09/
+!!!ENC: Megan K. Eagen 25/08/2012
+!!!END: 2014/02/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/03/09/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2014/03/09/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2014/03/09/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150c190

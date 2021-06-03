@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Regina celi letare
-!!!AGN:	Motet
-!!!SCT:	Jos9903
-!!!SCA:	Jos9903
-!!!voices:	6
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Regina celi letare
+!!!AGN: Motet
+!!!SCT: Jos9903
+!!!SCA: Jos9903
+!!!voices: 6
 **kern	**kern	**kern	**kern	**kern	**kern
 *staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -809,10 +809,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 06-08-2012
-!!!END:	2012/06/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/07/26/
+!!!ENC: Chris Gage 06-08-2012
+!!!END: 2012/06/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/07/26/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/07/26/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/07/26/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,85,85,130Q16

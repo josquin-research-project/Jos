@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!COM:	Mouton
-!!!ONB:	probably by Mouton; attrib. Josquin in a single partbook in Antico 1520
-!!!OTL:	Salve mater salvatoris
-!!!AGN:	Motet
-!!!SCT:	Jos9920
-!!!SCA:	Jos9920
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!COM: Mouton
+!!!ONB: probably by Mouton; attrib. Josquin in a single partbook in Antico 1520
+!!!OTL: Salve mater salvatoris
+!!!AGN: Motet
+!!!SCT: Jos9920
+!!!SCA: Jos9920
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -275,10 +275,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Chris Gage 07-28-2014
-!!!END:	2020/10/21/
-!!!EED:	Jesse Rodin
-!!!EEV:	2020/10/23
+!!!ENC: Chris Gage 07-28-2014
+!!!END: 2020/10/21/
+!!!EED: Jesse Rodin
+!!!EEV: 2020/10/23
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/03/22 by Craig Sapp
 !!muse2ps: C^probably by Mouton  \nattrib. Josquin in a single partbook in Antico 1520^i2I150v85,85,85,150c110

@@ -1,10 +1,10 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Qui habitat in adjutorio altissimi
-!!!AGN:	Motet
-!!!SCT:	NJE 18.7
-!!!SCA:	New Josquin Edition 18.7
-!!!voices:	4
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Qui habitat in adjutorio altissimi
+!!!AGN: Motet
+!!!SCT: NJE 18.7
+!!!SCA: New Josquin Edition 18.7
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1523,10 +1523,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8-17-2012
-!!!END:	2012/08/17/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/17/
+!!!ENC: Jesse Rodin 8-17-2012
+!!!END: 2012/08/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/17/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/17/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/17/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,150Q16c110

@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Ad fugam
-!!!ONM:	4
-!!!OTL:	Sanctus (version II)
-!!!AGN:	Mass; Sanctus
-!!!SCT:	NJE 12.1
-!!!SCA:	New Josquin Edition 12.1
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Ad fugam
+!!!ONM: 4
+!!!OTL: Sanctus (version II)
+!!!AGN: Mass; Sanctus
+!!!SCT: NJE 12.1
+!!!SCA: New Josquin Edition 12.1
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -613,10 +613,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin; Victoria Chang 2012/02/11
-!!!END:	2012/02/11/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/29/
+!!!ENC: Jesse Rodin; Victoria Chang 2012/02/11
+!!!END: 2012/02/11/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/29/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?\n@{SCT}^i2I150v85,85,85,150Q8c110

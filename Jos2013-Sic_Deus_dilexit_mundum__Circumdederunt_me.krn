@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT: Sic deus dilexit mundum / Circumdederunt me
-!!!AGN:	Motet
-!!!SCT:	NJE 20.13
-!!!SCA:	New Josquin Edition 20.13
-!!!voices:	6
+!!!AGN: Motet
+!!!SCT: NJE 20.13
+!!!SCA: New Josquin Edition 20.13
+!!!voices: 6
 **kern	**kern	**kern	**kern	**kern	**kern
 *staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -315,10 +315,10 @@
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
-!!!ENC:	Will Watson 13/09/2011
-!!!END:	2011/09/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/12/16/
+!!!ENC: Will Watson 13/09/2011
+!!!END: 2011/09/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/12/16/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/12/16/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/12/16/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^v96,96,96,96,96,130i2I150c85Q16

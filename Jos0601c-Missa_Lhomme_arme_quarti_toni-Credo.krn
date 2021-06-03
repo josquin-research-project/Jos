@@ -1,15 +1,15 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!COM:	Comp&egrave;re, Loyset
-!!!CDT2:	~1445///-1518///
-!!!OPR:	Missa L'homme arm&eacute; quarti toni
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	NJE 6.1
-!!!SCA:	New Josquin Edition 6.1
-!!!voices:	4
-!!!voices-OPR:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!COM: Comp&egrave;re, Loyset
+!!!CDT2: ~1445///-1518///
+!!!OPR: Missa L'homme arm&eacute; quarti toni
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: NJE 6.1
+!!!SCA: New Josquin Edition 6.1
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1169,10 +1169,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2012/02/04
-!!!END:	2012/02/04/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/03/
+!!!ENC: Jesse Rodin; Victoria Chang 2012/02/04
+!!!END: 2012/02/04/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/03/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/06/27/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/27/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Comp&egrave;re/Josquin?\n@{SCT}^i2I150v85,85,85,150Q16

@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM: Mouton
 !!!OTL@@LAT: Ave Maria
-!!!AGN:	Motet
-!!!SCT:	NJE 23.5
-!!!SCA:	New Josquin Edition 23.5
-!!!voices:	4
+!!!AGN: Motet
+!!!SCT: NJE 23.5
+!!!SCA: New Josquin Edition 23.5
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -229,10 +229,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 13/10/2011
-!!!END:	2011/08/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/10/18/
+!!!ENC: Will Watson 13/10/2011
+!!!END: 2011/08/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/10/18/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/10/18/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/10/18/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^v85,85,85,150i2I150c80Q16

@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	Ave virgo sanctissima
-!!!AGN:	Motet
-!!!SCT:	NJE 23.12
-!!!SCA:	New Josquin Edition 23.12
-!!!voices:	5
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Ave virgo sanctissima
+!!!AGN: Motet
+!!!SCT: NJE 23.12
+!!!SCA: New Josquin Edition 23.12
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -446,10 +446,10 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 30/06/2011
-!!!END:	2011/06/30/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/08/17/
+!!!ENC: Will Watson 30/06/2011
+!!!END: 2011/06/30/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/08/17/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/08/17/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/08/17/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v100,100,100,100,130Q16

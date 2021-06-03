@@ -1,12 +1,12 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	Inviolata, integra et casta es
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Inviolata, integra et casta es
 !!!OTL2@@LAT: Nostra ut pura pectora
 !!!OTL3@@LAT: O benigna
-!!!AGN:	Motet
-!!!SCT:	NJE 24.4
-!!!SCA:	New Josquin Edition 24.4
-!!!voices:	5
+!!!AGN: Motet
+!!!SCT: NJE 24.4
+!!!SCA: New Josquin Edition 24.4
+!!!voices: 5
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -850,12 +850,12 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 2011/04/06; Victoria Chang 2011/04/10; Jesse Rodin 2013/04/03 (text)
-!!!END:	2011/04/06/
-!!!SMS:	Smijers 73
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/03/08/
+!!!ENC: Will Watson 2011/04/06; Victoria Chang 2011/04/10; Jesse Rodin 2013/04/03 (text)
+!!!END: 2011/04/06/
+!!!SMS: Smijers 73
+!!!EED: Jesse Rodin
+!!!EEV: 2013/03/08/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2013/03/08/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2013/03/08/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c127z18l2780t100
 !!!ONB: April 2013 Concert

@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Lauda Jerusalem dominum
-!!!AGN:	Motet
-!!!SCT:	NJE 17.9
-!!!SCA:	New Josquin Edition 17.9
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Lauda Jerusalem dominum
+!!!AGN: Motet
+!!!SCT: NJE 17.9
+!!!SCA: New Josquin Edition 17.9
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -934,10 +934,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 8/18/2013
-!!!END:	2013/08/18/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/01/08/
+!!!ENC: Jesse Rodin 8/18/2013
+!!!END: 2013/08/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/01/08/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2014/01/08/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2014/01/08/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150Q16

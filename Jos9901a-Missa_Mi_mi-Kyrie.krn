@@ -1,14 +1,14 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM2: Pipelare, Matthaeus
 !!!CDT2: ~1450///-~1515///
-!!!OPR:	Missa Mi mi
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	Jos9901
-!!!voices:	4
-!!!voices-OPR:	4
+!!!OPR: Missa Mi mi
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Jos9901
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -236,10 +236,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin; Victoria Chang 2012/02/15
-!!!END:	2012/02/15/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/08/
+!!!ENC: Jesse Rodin; Victoria Chang 2012/02/15
+!!!END: 2012/02/15/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/08/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/08/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/08/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Pipelare/Josquin?\n@{SCT}^i2I150v95,95,95,150Q16

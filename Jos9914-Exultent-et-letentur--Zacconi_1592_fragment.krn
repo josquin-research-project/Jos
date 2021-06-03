@@ -1,11 +1,11 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Exultent et letentur
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Exultent et letentur
 !!!SMS: Zacconi 1592
-!!!AGN:	Fragment
-!!!SCT:	NJE 99.14
-!!!SCA:	New Josquin Edition 99.14
-!!!voices:	0
+!!!AGN: Fragment
+!!!SCT: NJE 99.14
+!!!SCA: New Josquin Edition 99.14
+!!!voices: 0
 **kern
 *clefGv2
 *k[]
@@ -29,10 +29,10 @@
 =
 *-
 !!!RDF**kern: l=long note in original notation
-!!!ENC:	Jesse Rodin 23 October 2020
-!!!END:	2020/10/23
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/05/05
+!!!ENC: Jesse Rodin 23 October 2020
+!!!END: 2020/10/23
+!!!EED: Jesse Rodin
+!!!EEV: 2021/05/05
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/05/05 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/05/05 by Craig Sapp
 !!muse2ps: C^@{COA}??\nZacconi 1592, fragment^i2I150v150z18c160

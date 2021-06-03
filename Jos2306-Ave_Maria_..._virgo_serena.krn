@@ -1,10 +1,10 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL@@LAT:	Ave Maria...virgo serena
-!!!AGN:	Motet
-!!!SCT:	NJE 23.6
-!!!SCA:	New Josquin Edition 23.6
-!!!voices:	4
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Ave Maria...virgo serena
+!!!AGN: Motet
+!!!SCT: NJE 23.6
+!!!SCA: New Josquin Edition 23.6
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -733,11 +733,11 @@
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/05/17; JR 2013/02 (text)
-!!!END:	2013/03/08/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/03/08/
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/17; JR 2013/02 (text)
+!!!END: 2013/03/08/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/03/08/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2013/03/08/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2013/03/08/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v90,90,90,120c120z18l2700t130
 !!!ONB: April 2013 Concert

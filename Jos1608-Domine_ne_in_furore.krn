@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Domine, ne in furore
-!!!AGN:	Motet
-!!!SCT:	NJE 16.8
-!!!SCA:	New Josquin Edition 16.8
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Domine, ne in furore
+!!!AGN: Motet
+!!!SCT: NJE 16.8
+!!!SCA: New Josquin Edition 16.8
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1338,10 +1338,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Megan K. Eagen 22/08/2012
-!!!END:	2012/08/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/08/29/
+!!!ENC: Megan K. Eagen 22/08/2012
+!!!END: 2012/08/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/08/29/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/29/ by Craig Sapp
 !!muse2ps: C^Verdelot/Josquin?\n@{SCT}^i2I150v85,85,85,150Q8c120

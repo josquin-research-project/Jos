@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Crucifixus
-!!!AGN:	Mass section; Credo; Crucifixus
-!!!SCT:	NJE 13.12
-!!!SCA:	New Josquin Edition 13.12
-!!!voices:	2
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Crucifixus
+!!!AGN: Mass section; Credo; Crucifixus
+!!!SCT: NJE 13.12
+!!!SCA: New Josquin Edition 13.12
+!!!voices: 2
 **kern	**text	**kern	**text
 *staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*
@@ -168,9 +168,9 @@
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
 !!!ONB: no encoder listed in original file
-!!!ENC:	Jesse Rodin
-!!!END:	2012/08/15/
-!!!EEV:	2012/08/15/
+!!!ENC: Jesse Rodin
+!!!END: 2012/08/15/
+!!!EEV: 2012/08/15/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/08/15/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/08/15/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v95,130Q16

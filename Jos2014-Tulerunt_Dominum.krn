@@ -1,12 +1,12 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM: Michele Presenti
 !!!OTL@@LAT: Tulerunt dominum
-!!!OTL2@@LAT:	Scio enim
-!!!AGN:	Motet
-!!!SCT:	NJE 20.14
-!!!SCA:	New Josquin Edition 20.14
-!!!voices:	4
+!!!OTL2@@LAT: Scio enim
+!!!AGN: Motet
+!!!SCT: NJE 20.14
+!!!SCA: New Josquin Edition 20.14
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -939,10 +939,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Joel Chapman 2012/1/23
-!!!END:	2012/01/23/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/02/02/
+!!!ENC: Joel Chapman 2012/1/23
+!!!END: 2012/01/23/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/02/02/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/02/02/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/02/02/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v95,95,95,150Q16

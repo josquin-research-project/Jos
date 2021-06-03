@@ -1,12 +1,12 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa D'ung aultre amer
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	NJE 7.3
-!!!SCA:	New Josquin Edition 7.3
-!!!voices:	4
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa D'ung aultre amer
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: NJE 7.3
+!!!SCA: New Josquin Edition 7.3
+!!!voices: 4
 !!!ONB1: Jena 31, anon.; evidently a first draft for what would become the Credo of the cyclic mass
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
@@ -275,10 +275,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Jesse Rodin
-!!!END:	2021/03/25
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/04/28
+!!!ENC: Jesse Rodin
+!!!END: 2021/03/25
+!!!EED: Jesse Rodin
+!!!EEV: 2021/04/28
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/04/28 by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v85,85,85,150z18c160t200l2700

@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM: Mouton
 !!!COA2: Willaert
-!!!OTL@@LAT:	Queramus cum pastoribus
-!!!OTL2@@LAT:	Ubi pascas
-!!!AGN:	Motet
-!!!SCT:	NJE 26.11
-!!!SCA:	New Josquin Edition 26.11
-!!!voices:	4
+!!!OTL@@LAT: Queramus cum pastoribus
+!!!OTL2@@LAT: Ubi pascas
+!!!AGN: Motet
+!!!SCT: NJE 26.11
+!!!SCA: New Josquin Edition 26.11
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -723,10 +723,10 @@
 !!!RDF**kern: Z=end of tuplet marker
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Will Watson 20/07/2011
-!!!END:	2011/07/20/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/11/03/
+!!!ENC: Will Watson 20/07/2011
+!!!END: 2011/07/20/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/11/03/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/11/03/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/11/03/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^i2I150v90,90,90,150c90Q16

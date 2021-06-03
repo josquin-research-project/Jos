@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COA2: Compere
-!!!OPR:	Missa Allez regretz II
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	NJE 7.2
-!!!SCA:	New Josquin Edition 7.2
-!!!voices:	4
+!!!OPR: Missa Allez regretz II
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: NJE 7.2
+!!!SCA: New Josquin Edition 7.2
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -814,10 +814,10 @@
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: V = start of tuplet marker
 !!!RDF**kern: Z = end of tuplet marker
-!!!ENC:	Chris Gage 04-02-2014
-!!!END:	2020/10/20/
-!!!EED:	Jesse Rodin
-!!!EEV:	2020/10/23/
+!!!ENC: Chris Gage 04-02-2014
+!!!END: 2020/10/20/
+!!!EED: Jesse Rodin
+!!!EEV: 2020/10/23/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2020/10/23/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2020/10/23/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^Compere/Josquin?\n@{SCT}^i2I150v85,85,85,150Q16

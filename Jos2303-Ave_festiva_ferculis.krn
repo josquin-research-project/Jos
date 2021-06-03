@@ -1,10 +1,10 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	Ave festiva ferculis
-!!!AGN:	Motet
-!!!SCT:	NJE 23.3
-!!!SCA:	New Josquin Edition 23.3
-!!!voices:	4
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL: Ave festiva ferculis
+!!!AGN: Motet
+!!!SCT: NJE 23.3
+!!!SCA: New Josquin Edition 23.3
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -559,10 +559,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	The Other Josquin/Jesse Rodin 2013
-!!!END:	2013/05/18/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/01/08/
+!!!ENC: The Other Josquin/Jesse Rodin 2013
+!!!END: 2013/05/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/01/08/
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2014/01/08/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2014/01/08/ by Craig Sapp
 !!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,150c190

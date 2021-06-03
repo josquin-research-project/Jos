@@ -1,12 +1,12 @@
-!!!COM:	Agricola, Alexander
-!!!CDT:	~1446-1506/08/15
-!!!COA:	Josquin des Prez
-!!!CDT2:	~1450-1521/08/27
-!!!OTL:	L'heure est venue / Circumdederunt me
-!!!AGN:	Chanson; Virelai
-!!!SCT:	NJE 27.23
-!!!SCA:	New Josquin Edition 27.23
-!!!voices:	3
+!!!COM: Agricola, Alexander
+!!!CDT: ~1446-1506/08/15
+!!!COA: Josquin des Prez
+!!!CDT2: ~1450-1521/08/27
+!!!OTL: L'heure est venue / Circumdederunt me
+!!!AGN: Chanson; Virelai
+!!!SCT: NJE 27.23
+!!!SCA: New Josquin Edition 27.23
+!!!voices: 3
 **kern	**kern	**kern
 *staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox
@@ -524,10 +524,10 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Megan K. Eagen 05/28/2012
-!!!END:	2012/06/04/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/06/21/
+!!!ENC: Megan K. Eagen 05/28/2012
+!!!END: 2012/06/04/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/06/21/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2012/06/21/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/06/21/ by Craig Sapp
 !!muse2ps: C^Agricola/Josquin?\n@{SCT}^i2I150v85,85,150Q16c80

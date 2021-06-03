@@ -1,14 +1,14 @@
-!!!COA:	Josquin des Prez
+!!!COA: Josquin des Prez
 !!!COA: Mouton
 !!!ONB: Probably by Mouton
-!!!CDT:	~1450-1521/08/27
-!!!OTL:	In nomine Jesu
-!!!AGN:	Motet
-!!!SCT:	NJE 19.7
-!!!SCA:	New Josquin Edition 19.7
-!!!voices:	6
-!!!COM:	Josquin
-!!!OTL:	Jos1907-In_nomine_Jesu
+!!!CDT: ~1450-1521/08/27
+!!!OTL: In nomine Jesu
+!!!AGN: Motet
+!!!SCT: NJE 19.7
+!!!SCA: New Josquin Edition 19.7
+!!!voices: 6
+!!!COM: Josquin
+!!!OTL: Jos1907-In_nomine_Jesu
 **kern	**kern	**kern	**kern	**kern	**kern
 *part6	*part5	*part4	*part3	*part2	*part1
 *staff6	*staff5	*staff4	*staff3	*staff2	*staff1
@@ -346,10 +346,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4,s5,s6
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Chris Gage 07-01-2014
-!!!END:	2020/10/21
-!!!EED:	Jesse Rodin
-!!!EEV:	2020/02/07
+!!!ENC: Chris Gage 07-01-2014
+!!!END: 2020/10/21
+!!!EED: Jesse Rodin
+!!!EEV: 2020/02/07
 !!attribution-level@Jos: 4a (the rest [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2020/10/23/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2020/10/23/ by Craig Sapp
 !!muse2ps: C^Probably by Mouton\n@{SCT}^z16i2I150v95,95,95,95,95,150c165

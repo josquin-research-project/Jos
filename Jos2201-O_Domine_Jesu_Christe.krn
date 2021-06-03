@@ -1,14 +1,14 @@
-!!!COM:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!OTL@@LAT: O domine Jesu Christe [5 sections]
 !!!OTL2@@LAT: adoro te in cruce vulneratum
 !!!OTL3@@LAT: adoro te in sepulcro positum
 !!!OTL4@@LAT: pastor bone
 !!!OTL5@@LAT: propter illam amaritudinem
-!!!AGN:	Motet
-!!!SCT:	NJE 22.1
-!!!SCA:	New Josquin Edition 22.1
-!!!voices:	4
+!!!AGN: Motet
+!!!SCT: NJE 22.1
+!!!SCA: New Josquin Edition 22.1
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1077,10 +1077,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2011/05/25
-!!!END:	2011/05/25/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/10/18/
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/25
+!!!END: 2011/05/25/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/10/18/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
-!!!ONB:	Translated from MusicXML and edited on 2011/10/18/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/10/18/ by Craig Sapp
 !!muse2ps: u^(2) @{OTL2} (3) @{OTL3} (4) @{OTL4} (5) @{OTL5}^C^@{COM}\n@{SCT}^v95,95,95,150i2I150c90Q16

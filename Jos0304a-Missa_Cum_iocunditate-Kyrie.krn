@@ -1,13 +1,13 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
 !!!COM2: La Rue, Pierre de
 !!!CDT2: ~1452///-1518/11/20/
-!!!OPR:	Missa Cum iocunditate (=Missa Dirige)
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	NJE 3.4
-!!!SCA:	New Josquin Edition 3.4
+!!!OPR: Missa Cum iocunditate (=Missa Dirige)
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: NJE 3.4
+!!!SCA: New Josquin Edition 3.4
 !!!voices: 4
 !!!voices-OPR: 4(-5)
 **kern	**kern	**kern	**kern
@@ -462,8 +462,8 @@
 !!!RDF**kern: i=editorial accidental
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/03
 !!!END: 2011/04/03/
-!!!EED:	Jesse Rodin
-!!!EEV:	2011/11/2/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/11/2/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^La Rue/Josquin?\n@{SCT}^i2I100v85,90,85,150c80Q16

@@ -463,7 +463,7 @@
 =53||	=53||	=53||	=53||	=53||	=53||	=53||	=53||
 *>B	*	*>B	*	*>B	*	*>B	*
 !!section: Qui tollis
-!!!OMD:
+!!!OMD: Qui tollis
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0r	.	0r	.	1.F	Qui	0f	Qui
@@ -1007,4 +1007,4 @@
 !!!EEV: 2011/10/03/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/10/03/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c105z18l2700t130
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c125z18l2700t130

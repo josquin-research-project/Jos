@@ -246,7 +246,7 @@
 .	.	.	.	1g	.	.	.
 .	.	.	.	2f#i\	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46
-0r	.	0r	.	0g	-bis.	0g	-bis.
+0r	.	0r	.	0gl	-bis.	0gl	-bis.
 !!LO:LB:i:g=z	.		.		.		.
 =47||	=47||	=47||	=47||	=47||	=47||	=47||	=47||
 *>B	*	*>B	*	*>B	*	*>B	*
@@ -524,7 +524,8 @@
 0C	.	.	.	.	.	.	.
 .	.	1A	.	.	.	.	.
 =105	=105	=105	=105	=105	=105	=105	=105
-0.BB-;l	-e.	0.B-;l	-e.	0.r;	.	0.r;	.
+0.BB-l	-e.	0.B-l	-e.	0.r	.	0.r	.
+!!LO:LB:g=z
 =106||	=106||	=106||	=106||	=106||	=106||	=106||	=106||
 *>C	*	*>C	*	*>C	*	*>C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
@@ -957,14 +958,10 @@
 .	.	.	.	.	.	1a	.
 =209	=209	=209	=209	=209	=209	=209	=209
 0.BB-;l	-tris.	0.B-;l	-tris.	0.d;l	-tris.	0.b-;l	-tris.
-=210||	=210	=210||	=210	=210||	=210	=210||	=210
+=210	=210	=210	=210	=210	=210	=210	=210
 *>E	*	*>E	*	*>E	*	*>E	*
-*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
-*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Propter nomen tuum
-!!!OMD: Propter nomen tuum
 [0E-	prop-	0B-	prop-	[0G	prop-	0r	.
 =211	=211	=211	=211	=211	=211	=211	=211
 0E-_	.	0c	.	0G_	.	0r	.
@@ -1116,4 +1113,4 @@
 !!!EEV: 2012/04/24/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
-!!muse2ps: u^(2) @{OTL2} (3) @{OTL3}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c105z18l2700t130
+!!muse2ps: u^(2) @{OTL2} (3) @{OTL3}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c150z18l2700t130

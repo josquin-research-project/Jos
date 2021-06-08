@@ -200,7 +200,7 @@
 .	.	2c\	-te	.	.	.	.	2a/	pe-	4ee\	-mu-
 .	.	.	.	.	.	.	.	.	.	4cc\	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-1D	-te,	2.F\	ca-	1d	-set-	1f	ca-	2a/	.-ti-	2dd\	-set-
+1D	-te,	2.F\	ca-	1d	-set-	1f	ca-	2a/	-ti-	2dd\	-set-
 .	.	.	.	.	.	.	.	2a/	-te	2a/	-te,
 .	.	4G\	-mu-	.	.	.	.	.	.	.	.
 1r	.	1A	-set-	1c	-te,	1e	-mu-	4cc\	ca-	2r	.
@@ -269,4 +269,4 @@
 !!!EEV: 2011/10/07/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/10/07/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c155
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c115

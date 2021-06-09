@@ -15,7 +15,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!LO:TX:Z=10:t=Canon at the upper 8ve (B-->Q, three breves)	!	!	!	!	!	!	!	!	!
+!LO:TX:Z=8:t=Canon at the upper 8ve (B-->Q, three breves)	!	!	!	!	!	!	!	!	!
 0r	.	0G	Par-	0r	.	0g	Par-	0r	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	1d	-fons	0r	.	1.f	-fons	0r	.
@@ -329,4 +329,4 @@
 !!!EEV: 2012/01/22/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2012/01/22/ by Craig Sapp
-!!muse2ps:  C^@{COM}\n@{SCT}^i2I150v75,75,75,75,115c105z18l2780t100
+!!muse2ps:  C^@{COM}\n@{SCT}^i2I150v75,75,75,75,110c105z18l2780t100

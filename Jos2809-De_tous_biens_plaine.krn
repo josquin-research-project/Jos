@@ -16,7 +16,7 @@
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
 !	!	!	!LO:TX:X=-50:Z=34:t=Textless
-!LO:TX:X=-50:Z=24:t=B1-->B2 caonon at the unison, one minim, with B2 beginning on B1's first dot ('in puncto')	!LO:TX:X=-50:Z=24:t=Canon&colon; Petrus & Joannes currunt in puncto (Peter and John run on a point)	!	!LO:TX:X=-50:Z=8:t=S, T quote corresponding voices of Hayne's song
+!LO:TX:X=-50:Z=24:t=B1-->B2 caonon at the unison, one minim, with B2 beginning on B1's first dot (`in puncto')	!LO:TX:X=-50:Z=24:t=Canon&colon; Petrus & Joannes currunt in puncto (Peter and John run on a point)	!	!LO:TX:X=-50:Z=8:t=S, T quote corresponding voices of Hayne's song
 2r	2.G\	[0G	0g
 2.G\	.	.	.
 .	4A\	.	.

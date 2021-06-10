@@ -202,7 +202,7 @@
 1G	.	.	.
 .	.	.	4d
 .	.	.	4e
-=34	=34	=34	=34
+=34	=34-	=34	=34
 0F	0c	0A	1.f
 .	.	.	2e
 =35	=35	=35	=35
@@ -233,6 +233,7 @@
 =-	=	=-	=-
 *	*M2/1	*	*
 *	*met(C|)	*	*
+*	*rscale:1	*	*
 2F	1F	1A	[1f
 4E	.	.	.
 4D	.	.	.
@@ -559,7 +560,7 @@
 *	*rscale:1/2	*	*
 !!section: Kyrie II
 !!!OMD: Kyrie II
-!	!	!LO:TX:Z=6:t=Repeat sign indicates twofold tenor statement under different mensuration signs.	!
+!	!LO:TX:Z=6:t=Repeat sign indicates twofold tenor statement under different mensuration signs.	!	!
 !	!LO:N:vis=0	!	!
 [0C	0r	0r	0r
 =90	=90-	=90	=90

@@ -15,7 +15,7 @@
 *M2/1	*	*	*	*M2/1	*	*	*	*M2/1	*	*	*
 *met(C|)	*	*	*	*met(C|)	*	*	*	*met(C|)	*	*	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!	!	!	!	!LO:TX:Z=6:t=Rondeau	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:Z=10:t=Rondeau	!	!	!
 0E	La	Nul	A	1r	.	.	.	0r	.	.	.
 .	.	.	.	[1E	La	Nul	A	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -337,4 +337,4 @@
 !!!EEV: 2011/08/09/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/09/ by Craig Sapp
-!!muse2ps:  C^@{COM}\n@{SCT}^u^rondeau^i2I150v120,120,130c115z18l2550t130
+!!muse2ps:  C^@{COM}\n@{SCT}^u^rondeau^i2I150v110,110,110c115z18l2550t130

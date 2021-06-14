@@ -28,7 +28,7 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1C	plus	ne	vous	2G/	seul-	bien	droit	1e]	.	.	.
 .	.	.	.	1A	-le	de-	re-	.	.	.	.
-1D	des	pour-	bien,	.	.	.	.	1f	La	Nul	A
+1D	des	pour-	bien,	.	.	.	.	1f	plus	ne	vous
 .	.	.	.	4G/	.	.	.	.	.	.	.
 .	.	.	.	4F/	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
@@ -200,10 +200,10 @@
 .	.	.	.	2d\	vi-	-mou-	y	4b\	.	.	.
 4G\	.	.	.	.	.	.	.	4a/	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-[0EN	.	.	.	1.eN	-vra;	-ra,	a	0gN	.	.	.
+[0EN	.	&	.	1.eN	-vra;	-ra,	a	0gN	.	&	.
 .	.	.	.	2d\	N'au-	.	Que	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-0E]	.	.	.	2c\	-tre	.	.	1r	.	.	.
+0E]	.	.	.	2c\	-tre	&	.	1r	.	.	.
 .	.	.	.	4B\	.	.	.	.	.	.	.
 .	.	.	.	4A/	.	.	.	.	.	.	.
 .	.	.	.	1B	vou-	.	le	1g	N'au-	.	Que
@@ -337,4 +337,4 @@
 !!!EEV: 2011/08/09/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/09/ by Craig Sapp
-!!muse2ps:  C^@{COM}\n@{SCT}^u^rondeau^i2I150v100,100,110c115z18l2650t130
+!!muse2ps:  C^@{COM}\n@{SCT}^u^rondeau^i2I150v100,100,110c130z18l2650t130

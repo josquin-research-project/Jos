@@ -191,11 +191,11 @@
 *>B	*	*	*	*>B	*	*	*	*>B	*	*	*	*>B	*	*	*
 !! signum is indicated by a star over the note
 !LO:TX:Z=6:sz=large:t=*	!	!	!	!LO:TX:Z=6:sz=large:t=*	!	!	!	!	!	!	!	!LO:TX:Z=6:sz=large:t=*	!	!	!
-1D	2. Long	.	5. Se	0D	cris.	-bliz.	nidz.	1r	.	.	.	0d	cris.	-bliz.	nidz.
+1D	2. Long	&	5. Se	0D	cris.	-bliz.	nidz.	1r	.	&	.	0d	cris.	-bliz.	nidz.
 !	!	!	!	!	!	!	!	!LO:TX:Z=6:sz=large:t=*	!	!	!	!	!	!	!
 1F	temps	.	Mars	.	.	.	.	1A	2. Long	.	5. Se	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-1E	nous	.	nous	1r	.	.	.	1c	temps	.	Mars	0r	.	.	.
+1E	nous	.	nous	1r	.	&	.	1c	temps	.	Mars	0r	.	&	.
 1D	ont	.	tolt	1d	2. Long	.	5. Se	1B	nous	.	nous	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 0r	.	.	.	1f	temps	.	Mars	0A	ont	.	tolt	1a	2. Long	.	5. Se
@@ -418,4 +418,4 @@
 !!!EEV: 2011/09/20/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/09/20/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^i2I150v100,100,100,110c120z18l2650t130
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v100,100,100,110c120z18l2550t130

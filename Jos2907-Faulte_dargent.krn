@@ -243,12 +243,12 @@
 1D	-bus	1F	de	1A	.	1f	quoy,	2r	.
 .	.	.	.	.	.	.	.	2.a/	sans
 1AA	.	1E	qui-	2r	.	2r	.	.	.
-.	.	.	.	.	.	.	.	4g/	.
-.	.	.	.	[2A/	il	2c\	il	2e/	de
+.	.	.	.	.	.	.	.	4g/	de
+.	.	.	.	[2A/	il	2c\	il	2e/	qui-
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
-2r	.	1D	-bus	2A/]	.	2d\	se	1f	qui-
+2r	.	1D	-bus	2A/]	.	2d\	se	1f	-bus,
 2D\	il	.	.	2F/	se	2f\	fault	.	.
-2C	se	2r	.	2.c\	fault	2f\	te-	1g	-bus,
+2C	se	2r	.	2.c\	fault	2f\	te-	1g	.
 2C	fault	2G/	il	.	.	2e\	-nir	.	.
 .	.	.	.	4B-\	.	.	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40

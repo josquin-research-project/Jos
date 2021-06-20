@@ -15,7 +15,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!	!	!	!	!	!	!LO:TX:Z=12:t=[ABA form&colon; mm. 80-130=mm. 5-55]	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:Z=15:t=ABA form&colon; mm. 80-130=mm. 5-55	!
 !	!	!LO:TX:Z=30:X=-50:t=Canon at the upper fourth (T-->Sex., 3 breves)	!	!	!	!	!	!	!	!	!
 1D	Re-	0A	Re-	0r	.	1d	Re-	0r	.	1a	Re-
 1D	-gretz	.	.	.	.	1d	-gretz	.	.	1a	-gretz
@@ -722,4 +722,4 @@
 !!!EEV: 2011/11/02/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
-!!muse2ps: C^@{COA}??\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c115
+!!muse2ps: C^@{COA}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c115

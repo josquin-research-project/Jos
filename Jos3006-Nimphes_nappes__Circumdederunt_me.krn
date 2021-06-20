@@ -8,14 +8,14 @@
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
-*I"Bassus	*	*I"Tenor	*	*I"Quintus	*	*I"Contratenor	*	*I"Sextus	*	*I"Superius	*
+*I"Bassus	*	*I"Tenor	*	*I"Quinta pars	*	*I"Altus	*	*I"Sexta pars	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'Q	*	*I'Ct	*	*I'Sx	*	*I'S	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!LO:TX:Z=6:t=Canon at the upper 5th (Quintus-->Sextus, 3 breves)	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:t=Canon at the upper 5th (Quinta p.-->Sexta p., 3 breves)	!	!	!	!	!	!	!
 0r	.	0F	Nim-	0r	.	0r	.	0r	.	0f	Nim-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	1G	-phes	0r	.	0B-	Nim-	0r	.	1d	-phes
@@ -209,10 +209,10 @@
 1F	mes	0c	-des,	0r	.	1r	.	1c	-lo-	2.a/	que
 .	.	.	.	.	.	.	.	.	.	4g/	ma-
 1F	es-	.	.	.	.	1c	que	1A	-res	1f	-la-
-!	!	!	!	!LO:TX:Z=6:t=E-flats may not be original; cf. NJE vol. 30	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:t=Some sources give E-flat (also in m. 57; cf. NJE vol. 30)	!	!	!	!	!	!	!
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
 0C	-pris	1r	.	1r	.	1c	mes	1G	in-	1e	-des,
-.	.	1C	que	1E-	cir-	1c	es-	[1c	-fer-	2r	.
+.	.	1C	que	1E	cir-	1c	es-	[1c	-fer-	2r	.
 .	.	.	.	.	.	.	.	.	.	2g/	que
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 1r	.	2.F/	mes	1F	-cum-	1A	-pris	1c]	.	1a	mes
@@ -231,10 +231,8 @@
 .	.	.	.	.	.	4f\	.	.	.	.	.
 .	.	.	.	.	.	4e\	.	.	.	.	.
 .	.	.	.	.	.	4d\	.	.	.	.	.
-.	.	1C	ma-	.	.	4e\	.	1c	-de-	1g	ma-
-.	.	.	.	.	.	4f\	.	.	.	.	.
-.	.	.	.	.	.	4g\	.	.	.	.	.
-.	.	.	.	.	.	4e\	.	.	.	.	.
+.	.	1C	ma-	.	.	2.e\	.	1c	-de-	1g	ma-
+.	.	.	.	.	.	4d\	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
 1FF	-des,	1.F	-la-	[0F	me,	0f	-des,	0c	-de-	1.a	-la-
 2r	.	.	.	.	.	.	.	.	.	.	.
@@ -251,7 +249,7 @@
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 1C	plus	1E	que	1r	.	2r	.	[0c	me,	1g	que
 .	.	.	.	.	.	2G/	sont	.	.	.	.
-1C	mort	1C	ma-	1E-	cir-	1c	plus	.	.	1g	ma-
+1C	mort	1C	ma-	1E	cir-	1c	plus	.	.	1g	ma-
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 1FF	que	2.F/	-la-	1F	-cum-	1c	mort	0c]	.	1.a	-la-
 .	.	4G/	.	.	.	.	.	.	.	.	.
@@ -271,10 +269,8 @@
 .	.	.	.	.	.	4f\	.	.	.	.	.
 .	.	.	.	.	.	4e\	.	.	.	.	.
 .	.	.	.	.	.	4d\	.	.	.	.	.
-1C	mort	1C	que	.	.	4e\	.	1c	-de-	1g	ma-
-.	.	.	.	.	.	4f\	.	.	.	.	.
-.	.	.	.	.	.	4g\	.	.	.	.	.
-.	.	.	.	.	.	4e\	.	.	.	.	.
+1C	mort	1C	que	.	.	2.e\	.	1c	-de-	1g	ma-
+.	.	.	.	.	.	4d\	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
 1FF	que	1C	ma-	[0Fl	me.	0f	-des,	0c	-de-	1.a	-la-
 1FF	ma-	[1F	-la-	.	.	.	.	.	.	.	.

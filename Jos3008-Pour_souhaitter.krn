@@ -8,14 +8,14 @@
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
-*I"Bassus	*	*I"Tenor	*	*I"Quintus	*	*I"Contratenor	*	*I"Sextus	*	*I"Superius	*
+*I"Bassus	*	*I"Tenor	*	*I"Quinta pars	*	*I"Altus	*	*I"Sexta pars	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'Q	*	*I'Ct	*	*I'Sx	*	*I'S	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=10:t=Canon at the upper fifth	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:Z=10:t=Canon at the upper fifth (T-->Sexta pars, 2 breves)	!	!	!	!	!	!	!	!	!
 0r	.	0r	.	1r	.	0r	.	0r	.	1d	Pour
 .	.	.	.	1A	Pour	.	.	.	.	1f	sou-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -308,4 +308,4 @@
 !!!EEV: 2011/12/01/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/12/01/ by Craig Sapp
-!!muse2ps: C^@{COA}?\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c125
+!!muse2ps: C^@{COA}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c125

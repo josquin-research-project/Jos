@@ -482,7 +482,7 @@
 .	.	.	.	1B-i	.	.	.
 .	.	.	.	.	.	2g/	.
 =93	=93	=93	=93	=93	=93	=93	=93
-0A	La	0c	sol	1A	-do,	0a	-do&colon:
+0A	La	0c	sol	1A	-do,	0a	-do&colon;
 .	.	.	.	1c	.	.	.
 =94	=94	=94	=94	=94	=94	=94	=94
 0G	sool	0B-	fa	1.d	mun-	0r	.
@@ -493,7 +493,7 @@
 .	.	.	.	4e\	.	.	.
 .	.	.	.	4d\	.	.	.
 =96	=96	=96	=96	=96	=96	=96	=96
-0r	.	0r	.	1e	-do&colon:	1g	sol
+0r	.	0r	.	1e	-do&colon;	1g	sol
 .	.	.	.	1a	La	2f/	fa
 .	.	.	.	.	.	2d/	ta
 =97	=97	=97	=97	=97	=97	=97	=97
@@ -673,7 +673,7 @@
 .	.	.	.	[2c\	.	[2a/	ta
 =135	=135	=135	=135	=135	=135	=135	=135
 0C_	.	1c	-re	2c\]	.	2a/]	.
-.	.	.	.	4B\	.	4g/	.
+.	.	.	.	4B-i\	.	4g/	.
 .	.	.	.	4A/	.	4f/	.
 .	.	[1c	ta-	1G	na	1e	na
 =136	=136	=136	=136	=136	=136	=136	=136
@@ -768,4 +768,4 @@
 !!!EEV: 2017/03/30/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2017/03/30/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^i2I150v90,90,90,120c115z18l2700t130
+!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,150Q18

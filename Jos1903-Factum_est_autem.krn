@@ -558,10 +558,10 @@
 =118	=118	=118	=118	=118	=118	=118	=118
 2E\	.	2G/	.	2c\	.	0r	.
 1F	fu-	1A	fu-	1d	fu-	.	.
-2E\	.	2G/	.	2c\	-it	.	.
+2E\	-it	2G/	-it	2c\	-it	.	.
 =119	=119	=119	=119	=119	=119	=119	=119
-2D\	-it	2F/	-it	2B\	Io-	0r	.
-2C/	Io-	2.E/	Io-	1A	.	.	.
+2D\	Io-	2F/	Io-	2B\	Io-	0r	.
+2C/	.	2.E/	.	1A	.	.	.
 1BB	.	.	.	.	.	.	.
 .	.	4D/	.	.	.	.	.
 .	.	4D/	.	2G#i/	.	.	.
@@ -2155,4 +2155,4 @@
 !!!EEV: 2011/08/18/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/18/ by Craig Sapp
-!!muse2ps: u^(2) @{OTL2} (3) @{OTL3}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c120z18l2700t130
+!!muse2ps: u^(2) @{OTL2} (3) @{OTL3}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c122z18l2700t130

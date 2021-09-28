@@ -21,7 +21,7 @@
 !	!	!LO:TX:Z=24:X=-40:t=Canon&colon; In duplo [2&colon;1 augmentation]	!	!	!	!	!
 *	*	*rscale:1/2	*	*	*	*	*
 !	!	!LO:N:vis:0.	!	!	!	!	!
-!	!	!LO:TX:Z=8:t=T text based loosely on Verona 761, where the French words appear sporadically throughout the mass	!	!	!	!	!
+!	!	!LO:TX:Z=7:t=T text based loosely on Verona 761, where the French words appear sporadically throughout the mass	!	!	!	!	!
 0.r	.	0.r	.	0c	Et	0cc	Et
 .	.	.	.	2e\	in	1cc	in
 .	.	.	.	2f\	.	.	.
@@ -616,6 +616,7 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C)	*	*met(C|)	*	*met(C|)	*
 *	*	*rscale:1/2	*	*	*	*	*
+!	!	!LO:TX:Z=7:t=T&colon; notated line sung twice, first under C-->2, then under Cut-C-->2 	!	!	!	!	!
 !	!	!LO:N:vis=0	!	!	!	!	!
 [0C	Qui	[y0e	L'a-	[0c	Qui	[0cc	Qui
 =101	=101	=101-	=101	=101	=101	=101	=101
@@ -647,26 +648,29 @@
 .	.	.	.	2B\	.	.	.
 1F	.	.	.	1A	.	1a	.
 =108	=108	=108	=108	=108	=108	=108	=108
+!	!	!LO:N:vis=0	!	!	!	!	!
 1G	pa-	0r	.	1.G	.	1b	.
 2E\	.	.	.	.	.	1cc	.
 2F\	.	.	.	2A/	.	.	.
 =109	=109	=109-	=109	=109	=109	=109	=109
-1D	.	0r	.	1B	.	1dd	.
+1D	.	0ryy	.	1B	.	1dd	.
 [1C	.	.	.	1c	.	[1ee	.
 =110	=110	=110	=110	=110	=110	=110	=110
+!	!	!LO:N:vis=0	!	!	!	!	!
 0C]	.	0r	.	0e	.	2ee\]	.
 .	.	.	.	.	.	2cc\	.
 .	.	.	.	.	.	[1cc	.
 =111	=111	=111-	=111	=111	=111	=111	=111
-0G	.	0r	.	0d	-tris,	2cc\]	.
+0G	.	0ryy	.	0d	-tris,	2cc\]	.
 .	.	.	.	.	.	4b\	.
 .	.	.	.	.	.	4a/	.
 .	.	.	.	.	.	1b	.
 =112	=112	=112	=112	=112	=112	=112	=112
+!	!	!LO:N:vis=0	!	!	!	!	!
 0C	-tris,	[0e	L'a-	1r	.	1cc	-tris,
 .	.	.	.	1c	mi-	1r	.
 =113	=113	=113-	=113	=113	=113	=113	=113
-1r	.	0e]	.	1c	-se-	3%4gV	mi-
+1r	.	0e]yy	.	1c	-se-	3%4gV	mi-
 1C	mi-	.	.	1c	-re-	.	.
 .	.	.	.	.	.	[3%2gZ	-se-
 =114	=114	=114	=114	=114	=114	=114	=114
@@ -698,24 +702,27 @@
 0C	-bis...	0c]yy	.	1r	.	0e	-bis.
 .	.	.	.	[1c	Quo-	.	.
 =120	=120	=120	=120	=120	=120	=120	=120
+!	!	!LO:N:vis=0	!	!	!	!	!
 0r	.	0r	.	2c\]	.	1r	.
 .	.	.	.	2B\	-ni-	.	.
 .	.	.	.	1A	-am	1cc	Quo-
 =121	=121	=121-	=121	=121	=121	=121	=121
-0r	.	0r	.	1G	tu	1b	-ni-
+0r	.	0ryy	.	1G	tu	1b	-ni-
 .	.	.	.	[1c	so-	1a	-am
 =122	=122	=122	=122	=122	=122	=122	=122
+!	!	!LO:N:vis=0	!	!	!	!	!
 0r	.	0r	.	2c\]	.	1g	tu
 .	.	.	.	2d\	.	.	.
 .	.	.	.	[1e	-lus	1g	so-
 =123	=123	=123-	=123	=123	=123	=123	=123
-0r	.	0r	.	1e]	.	1.cc	-lus
+0r	.	0ryy	.	1e]	.	1.cc	-lus
 .	.	.	.	1f	sanc-	.	.
 .	.	.	.	.	.	2dd\	.
 *	*	*rscale:1	*	*	*	*	*
 =124	=124	=124	=124	=124	=124	=124	=124
 *	*	*M2/1	*	*	*	*	*
 *	*	*met(2)	*	*	*	*	*
+!	!	!LO:N:vis=0	!	!	!	!	!
 0C	Tu	0g	L'a-	1e	.	1.ee	sanc-
 .	.	.	.	[1c	-tus.	.	.
 .	.	.	.	.	.	2dd\	.
@@ -723,6 +730,7 @@
 1C	so-	1g	-mi	1c]	.	1ee	.
 1D	-lus	[1f	Bau-	1r	.	[1ff	.
 =126	=126	=126	=126	=126	=126	=126	=126
+!	!	!LO:N:vis=0	!	!	!	!	!
 1BB-	sanc-	1f]	.	0r	.	2ff\]	.
 .	.	.	.	.	.	1dd	.
 1D	.	1f	-di-	.	.	.	.
@@ -732,6 +740,7 @@
 [0C	tus...	0e	-chon,	1r	.	1ee	-tus.
 .	.	.	.	[1c	Tu	1r	.
 =128	=128	=128	=128	=128	=128	=128	=128
+!	!	!LO:N:vis=0	!	!	!	!	!
 0C]	.	0r	.	2c\]	.	1r	.
 .	.	.	.	2B\	.	.	.
 .	.	.	.	1c	.	1ee	Tu
@@ -740,6 +749,7 @@
 .	.	.	.	2B\	-lus	2dd\	-lus
 .	.	.	.	[2c\	do-	[2ee\	do-
 =130	=130	=130	=130	=130	=130	=130	=130
+!	!	!LO:N:vis=0	!	!	!	!	!
 1r	.	0g	L'a-	2c\]	.	2ee\]	.
 .	.	.	.	4B\	.	4dd\	-mi-
 .	.	.	.	4A/	.	4cc\	.
@@ -748,6 +758,7 @@
 1E	-ti-	1g	-mi	1G	-mi-	1r	.
 1F	.	[1f	Bau-	[1A	-nus.	1cc	Tu
 =132	=132	=132	=132	=132	=132	=132	=132
+!	!	!LO:N:vis=0	!	!	!	!	!
 0D	-si-	1f]	.	1A]	.	1dd	so-
 .	.	1f	-di-	1B	Tu	1dd	-lus
 =133	=133	=133	=133	=133	=133	=133	=133
@@ -755,6 +766,7 @@
 .	.	.	.	4B\	.	2cc\	.
 .	.	.	.	4A/	.	.	.
 =134	=134	=134	=134	=134	=134	=134	=134
+!	!	!LO:N:vis=0	!	!	!	!	!
 0r	.	0r	.	1B	-lus	2dd\	-tis-
 .	.	.	.	.	.	2ff\	.
 .	.	.	.	2c\	al-	2ee\	.
@@ -765,6 +777,7 @@
 .	.	.	.	1d	-si-	.	.
 .	.	.	.	.	.	2b\	-si-
 =136	=136	=136	=136	=136	=136	=136	=136
+!	!	!LO:N:vis=0	!	!	!	!	!
 1.C	Je-	0e	L'a-	1.c	-mus,	0cc	-mus,
 2D\	.	.	.	4B\	.	.	.
 .	.	.	.	4A/	.	.	.
@@ -773,12 +786,14 @@
 4F\	.	.	.	.	.	.	.
 [1G	-su	[1d	Bau-	.	.	.	.
 =138	=138	=138	=138	=138	=138	=138	=138
+!	!	!LO:N:vis=0	!	!	!	!	!
 0G]	.	1d]	.	0g	Je-	0b	Je-
 .	.	1d	-di-	.	.	.	.
 =139	=139	=139	=139	=139	=139	=139	=139
 0A	Chri-	0c	-chon,	0e	-su	1.cc	-su
 .	.	.	.	.	.	2b\	.
 =140	=140	=140	=140	=140	=140	=140	=140
+!	!	!LO:N:vis=0	!	!	!	!	!
 1.F	.	0r	.	0f	Chri-	1.a	Chri-
 4E\	.	.	.	.	.	4g/	.
 4D\	.	.	.	.	.	4f/	.
@@ -913,4 +928,4 @@
 !!!EEV: 2012/05/25/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2012/05/25/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c122z18l2700t130
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v85,85,85,150Q16

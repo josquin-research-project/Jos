@@ -18,10 +18,10 @@
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=10:X=-40:t=Canon&colon; In duplo [2&colon;1 augmentation]	!	!	!	!	!
+!	!	!LO:TX:Z=24:X=-40:t=Canon&colon; In duplo [2&colon;1 augmentation]	!	!	!	!	!
 *	*	*rscale:1/2	*	*	*	*	*
 !	!	!LO:N:vis:0.	!	!	!	!	!
-!	!	!LO:TX:Z=6:t=T text based loosely on Verona 761, where the French words appear sporadically throughout the mass	!	!	!	!	!
+!	!	!LO:TX:Z=8:t=T text based loosely on Verona 761, where the French words appear sporadically throughout the mass	!	!	!	!	!
 0.r	.	0.r	.	0c	Et	0cc	Et
 .	.	.	.	2e\	in	1cc	in
 .	.	.	.	2f\	.	.	.
@@ -452,7 +452,7 @@
 !!!OMD: Qui tollis
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!	!	!LO:TX:Z=6:t=T: twofold statement under successive mensuration signs	!	!	!	!	!
+!	!	!LO:TX:Z=6:t=T&colon; twofold statement under successive mensuration signs	!	!	!	!	!
 0G	Qui	0r	.	0r	.	0r	.
 =63	=63	=63	=63	=63	=63	=63	=63
 1A	tol-	0r	.	0r	.	0r	.
@@ -890,7 +890,7 @@
 1B	.	0r	.	1d	.	1dd	.
 1c	-men,	.	.	[1c	-men,	1ee	.
 =163	=163	=163	=163	=163	=163	=163	=163
-0A	a-	0c	.	1c]	.	2ff\	.
+0A	a-	0c	A-	1c]	.	2ff\	.
 .	.	.	.	.	.	1ee	.
 .	.	.	.	2e\	a-	.	.
 .	.	.	.	2f\	.	4dd\	.
@@ -898,7 +898,7 @@
 =164	=164	=164	=164	=164	=164	=164	=164
 *rscale:1	*	*rscale:1	*	*	*	*	*
 !LO:N:vis=00	!	!LO:N:vis=00	!	!LO:N:vis=00	!	!LO:N:vis=00	!
-0G;	.	0d;	A-	0g;	.	0b;	.
+0G;	.	0d;	.	0g;	.	0b;	.
 =165	=165	=165	=165	=165	=165	=165	=165
 0Cl	-men.	0cl	-men.	0gl	-men.	0ccl	-men.
 ==	==	==	==	==	==	==	==

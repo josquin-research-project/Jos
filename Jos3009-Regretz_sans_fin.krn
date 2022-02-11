@@ -134,9 +134,9 @@
 2D\	ung	1A	Par	.	.	2d\	ung	1A	-ser	1f	-ser
 2D\	rap-	.	.	.	.	2d\	rap-	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-1F	-port	2A\	ung	0r	.	2c\	-port	0r	.	0r	.
-.	.	2A\	rap-	.	.	4A/	.	.	.	.	.
-.	.	.	.	.	.	4G/	.	.	.	.	.
+1F	-port	2A\	ung	0r	.	2.c\	-port	0r	.	0r	.
+.	.	2A\	rap-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	4A/	.	.	.	.	.
 1E	mes-	1G	-port	.	.	1B	mes-	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 1AA	-chant	1A	mes-	0r	.	2A/	-chant	0r	.	0r	.

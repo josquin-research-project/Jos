@@ -1022,7 +1022,7 @@
 !	!	!	!	!LO:N:vis=0	!	!
 0r	0r	0r	0cl	0A	0r	0r
 *	*	*	*	*rscale:1	*	*
-!!LO:LB:g=z
+!!LO:LB:i:g=z
 =128||	=128||	=128||	=128||	=128||	=128||	=128||
 *>F	*>F	*>F	*>F	*>F	*>F	*>F
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2	*clefG2

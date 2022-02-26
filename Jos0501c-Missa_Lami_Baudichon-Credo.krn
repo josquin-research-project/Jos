@@ -25,7 +25,7 @@
 !	!	!LO:TX:Z=6:t=T&colon; Qui se humiliat exaltabitur et qui se exaltat humiliabitur	!	!	!	!	!
 !	!	!LO:TX:Y=24:t=T&colon; He who exalts himself will be humbled, and he who humbles himself will be exalted. [inversion]	!	!	!	!	!
 !	!	!	!	!	!	!LO:TX:Z=6:t=T text based loosely on Verona 761, where the French words appear sporadically throughout the mass	!
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	0c	Pa-	0cc	Pa-
 .	.	.	.	2e\	-trem	1cc	-trem
 .	.	.	.	2f\	.	.	.
@@ -40,7 +40,7 @@
 .	.	.	.	4c\	.	.	.
 .	.	.	.	2A/	.	2e/	.
 =4	=4	=4	=4	=4	=4	=4	=4
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	2G/	.	1e	.
 .	.	.	.	2c\	.	.	.
 .	.	.	.	2d\	.	1.d	.
@@ -53,7 +53,7 @@
 0.r	.	0.ryy	.	0.r	.	0c	fac-
 .	.	.	.	.	.	1d	.
 =7	=7	=7	=7	=7	=7	=7	=7
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	0c	fac-	0e	-to-
 .	.	.	.	1d	.	1f	-rem
 =8	=8	=8-	=8	=8	=8	=8	=8
@@ -70,7 +70,7 @@
 .	.	.	.	1c	-li	.	.
 .	.	.	.	.	.	2dd\	.
 =10	=10	=10	=10	=10	=10	=10	=10
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	1B	et	1dd	ter-
 .	.	.	.	0A	ter-	2cc\	.
 .	.	.	.	.	.	1ee	.
@@ -93,7 +93,7 @@
 .	.	.	.	1d	.	.	.
 .	.	.	.	.	.	2b\	.
 =13	=13	=13	=13	=13	=13	=13	=13
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.C	-re,	0.r	.	0.c	-re...	1cc	-re,
 .	.	.	.	.	.	1r	.
 .	.	.	.	.	.	1cc	vi-
@@ -112,7 +112,7 @@
 4B\	.	.	.	.	.	2f/	.
 4A\	.	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 1G	-um	0.r	.	0.r	.	1g	.
 2r	.	.	.	.	.	2f/	.
 2C/	om-	.	.	.	.	1g	.
@@ -134,7 +134,7 @@
 2D\	.	.	.	.	.	2f/	in-
 2E\	-li-	.	.	.	.	[2g/	-vi-
 =19	=19	=19	=19	=19	=19	=19	=19
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 1C	-um.	0.r	.	1e	et	4g/]	.
 .	.	.	.	.	.	4f/	.
 .	.	.	.	.	.	2e/	-si-
@@ -157,7 +157,7 @@
 .	.	.	.	.	.	1c	-num
 .	.	.	.	2c\	-num	.	.
 =22	=22	=22	=22	=22	=22	=22	=22
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	2d\	do-	2r	.
 .	.	.	.	2e\	-mi-	1g	Je-
 .	.	.	.	1c	-num	.	.
@@ -180,7 +180,7 @@
 .	.	.	.	2B\	-li-	1dd	.
 .	.	.	.	2G/	-um	.	.
 =25	=25	=25	=25	=25	=25	=25	=25
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	2A/	de-	2cc\	-i
 .	.	.	.	2B\	.	1dd	u-
 .	.	.	.	1G	-i	.	.
@@ -515,7 +515,7 @@
 4F\	.	.	.	.	.	4e/	.
 1G	-tem,	.	.	1B	-tem,	1d	-tem,
 =70	=70	=70	=70	=70	=70	=70	=70
-!	!	!LO:N:vis:0.	!	!	!	!	!
+!	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	1e	de-	2.g/	de-
 .	.	.	.	.	.	4a/	.
 .	.	.	.	2d\	-scen-	2b\	.

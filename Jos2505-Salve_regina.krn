@@ -500,7 +500,7 @@
 .	.	.	.	.	.	.	.	4f#i/	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86	=86
 0Gl	-le.	0Gl	-le.	0Gl	.	0d]	.	0gl	-le.
-!!LO:LB:i:g=z	.		.		.		.		.
+!!LO:LB:g=z
 =87||	=87||	=87||	=87||	=87||	=87||	=87||	=87||	=87||	=87||
 *>B	*	*>B	*	*>B	*	*>B	*	*>B	*
 !!section: Secunda pars: Eia ergo, advocata nostra
@@ -656,7 +656,7 @@
 1C	-ver-	1c	-ver-	.	.	1e-i	-ver-	.	.
 =117	=117	=117	=117	=117	=117	=117	=117	=117	=117
 0Gl	-te.	0B-l	-te.	0G]	.	0dl	-te.	0g]	.
-!!LO:LB:i:g=z	.		.		.		.		.
+!!LO:LB:i:g=z
 =118||	.	=118||	.	=118||	.	=118||	.	=118||	.
 *>B	*	*>B	*	*>B	*	*>B	*	*>B	*
 !!section: Tertia pars: Et Jesum benedictum
@@ -963,4 +963,4 @@
 !!!EEV: 2011/08/15/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/15/ by Craig Sapp
-!!muse2ps: u^(2) @{OTL2}^C^@{COM}\n@{SCT}^i2I150v75,75,75,75,110c125z18l2780t100
+!!muse2ps: u^(2) @{OTL2}^C^@{COM}^i2I150v75,75,75,75,110c125z18l2780t100

@@ -372,7 +372,7 @@
 .	.	.	.	.	.	.	.	2e/	.
 =109	=	=109	=	=109	=	=109	=	=109	=
 0EE]	.	0E]	.	0G]	.	0B]	.	0el	-vre.
-!!LO:LB:g=z
+!!LO:LB:i:g=z
 =110||	=	=110||	=	=110||	=	=110||	=	=110||	=
 !!section: Acoutres vous
 !!!OMD: Acoutres vous
@@ -515,4 +515,4 @@
 !!!SMS: Benthem, "Masses and Mass Sections -- Ockeghem"; Smijers; Medici Codex ed.
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/08/15/ by Craig Sapp
-!!muse2ps:  C^@{COM}\n@{SCT}^i2I150v75,75,75,75,105c175z18l2780t100
+!!muse2ps:  C^@{COM}^i2I150v75,75,75,75,105c175z18l2780t100

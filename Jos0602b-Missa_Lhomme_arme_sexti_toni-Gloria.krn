@@ -459,7 +459,7 @@
 .	.	.	.	1D	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52
 0.FFl]	.	0.Fl]	.	0.Cl	-tris.	0.fl]	.
-!!LO:LB:i:g=z	.		.		.		.
+!!LO:LB:i:g=z
 =53||	=53||	=53||	=53||	=53||	=53||	=53||	=53||
 *>B	*	*>B	*	*>B	*	*>B	*
 !!section: Qui tollis
@@ -1005,4 +1005,4 @@
 !!!EEV: 2011/10/03
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/10/03/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}\n@{SCT}^i2I150v90,90,90,120c125z18l2700t130
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,90,90,120c125z18l2700t130

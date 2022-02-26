@@ -410,11 +410,11 @@
 .	.	.	.	4E/	.	4B\	.	.	.	.	.
 .	.	.	.	2C/	.	2c\	.	2e\	par	2g/	par
 =75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+!	!	!	!	!	!	!	!	!	!	!LO:TX:Z=6:t=Sources, 76-77&colon; 2Sb-a'a' Br-a'	!
 0r	.	0r	.	2D/	seul-	2F/	seul-	2d\	seul-	2f/	seul-
 .	.	.	.	2BB/	-le en-	2G/	-le en-	2d\	-le en-	2d/	-le en-
 .	.	.	.	1AA	-vi-	1A	-vi-	1c#i	-vi-	1e	-vi-
 =76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
-!	!	!	!	!	!	!	!	!	!	!LO:TX:Z=6:t=Sources&colon; 2Sb-a'a' Br-a'	!
 1D	Re-	0A	Re-	1D	-e&colon;	1D	-e&colon;	0d	-e&colon;	1d	-e&colon;
 1D	-gretz	.	.	1r	.	1d	Re-	.	.	1a	Re-
 =77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
@@ -724,4 +724,4 @@
 !!!EEV: 2011/11/02/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
-!!muse2ps: C^@{COA}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c115
+!!muse2ps: C^@{COA}^i2I150v85,85,85,85,85,100z18l2550t200c115

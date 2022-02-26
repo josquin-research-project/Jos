@@ -736,7 +736,7 @@
 .	1E	.	.	.
 =126	=126	=126	=126	=126
 0EE	0G	0E	0B	0e]
-!!LO:LB:g=z
+!!LO:LB:i:g=z
 =127||	=127||	=127||	=127||	=127||
 *>C	*>C	*>C	*>C	*>C
 *clefF4	*clefGv2	*clefGv2	*clefGv2	*clefG2
@@ -1428,4 +1428,4 @@
 !!!EEV: 2012/04/24/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
 !!!ONB: Translated from MusicXML and edited on 2011/04/04/ by Craig Sapp
-!!muse2ps: u^(2) @{OTL2}^C^@{COA}?\n@{SCT}^I150v90,90,90,90,130Q16
+!!muse2ps: u^(2) @{OTL2}^C^@{COA}?^I150v90,90,90,90,130Q16z18

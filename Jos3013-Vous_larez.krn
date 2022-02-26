@@ -107,7 +107,7 @@
 2D\	vous	.	.	.	.	2f\	vous	2A/	vous	.	.
 1D	l'a-	1D	-rez	.	.	1f	l'a-	1d	l'a-	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-!LO:TX:Z=10:t=M. 23, last note: sources give A	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:Z=10:t=M. 23, last note&colon; sources give A	!	!	!	!	!	!	!	!	!	!	!
 1AA	-rez	1.A	a	0r	.	2e\	-rez	1c	-rez	0r	.
 .	.	.	.	.	.	2e\	a	.	.	.	.
 2r	.	.	.	.	.	2e\	vos-	2r	.	.	.
@@ -223,7 +223,7 @@
 .	.	.	.	.	.	2G/	.	2g\	est	.	.
 2GG/	plus	.	.	2d\	plus	2G/	plus	2g\	plus	2b-\	plus
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
-!	!	!	!	!	!	!	!	!LO:TX:Z=10:t=Sources&colon; semiminim e'	!	!	!
+!	!	!	!	!	!	!	!	!LO:TX:Z=10:t=Sources, semiminim&colon; e'	!	!	!
 2F\	doulx	0r	.	2c\	doulx	2A/	doulx	2f\	doulx	2a/	doulx
 2G\	que	.	.	2B-\	que	2B-\	que	2d\	que	2g/	que
 1D	bas-	.	.	1A	bas-	1F	bas-	2.f\	bas-	4f#i/	bas-
@@ -264,4 +264,4 @@
 !!!EEV: 2011/12/01/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/12/01/ by Craig Sapp
-!!muse2ps: C^@{COM}\n@{SCT}^i2I150v85,85,85,85,85,100z18l2550t200c115
+!!muse2ps: C^@{COM}^i2I150v85,85,85,85,85,100z18l2550t200c115

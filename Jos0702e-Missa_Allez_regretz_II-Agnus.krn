@@ -1,14 +1,14 @@
-!!!COA:	Josquin des Prez
-!!!CDT:	~1450-1521/08/27
-!!!OPR:	Missa Allez regretz II
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	NJE 7.2
-!!!SCA:	New Josquin Edition 7.2
-!!!voices:	4
-!!!COM:	Compere / Josquin?
-!!!OTL:	Jos0702e-Missa_Allez_regretz_II-Agnus
+!!!COA: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa Allez regretz II
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: NJE 7.2
+!!!SCA: New Josquin Edition 7.2
+!!!voices: 4
+!!!COM: Compere / Josquin?
+!!!OTL: Jos0702e-Missa_Allez_regretz_II-Agnus
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
@@ -1001,10 +1001,10 @@
 !!!RDF**kern: l=long note in original notation
 !!!system-decoration: s1,s2,s3,s4
 !!!RDF**kern: i = editorial accidental
-!!!ENC:	Chris Gage 04-03-2014; Jesse Rodin 24 Oct 2020
-!!!END:	2020/10/24/
-!!!EED:	Jesse Rodin
-!!!EEV:	2021/06/07/
+!!!ENC: Chris Gage 04-03-2014; Jesse Rodin 24 Oct 2020
+!!!END: 2020/10/24/
+!!!EED: Jesse Rodin
+!!!EEV: 2021/06/07/
 !!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
-!!!ONB:	Translated from MusicXML and edited on 2021/06/07 by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2021/06/07 by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COA}?^i2I150v85,85,85,150z18c140

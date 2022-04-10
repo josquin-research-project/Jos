@@ -15,7 +15,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=16:X=-40:t=A quotes the contra of Okeghem's song up a 5th	!
+!	!	!LO:TX:Z=16:X=-40:t=A quotes the contra of Okeghem's song up a 5th	!LO:TX:Z=16:X=-40:t=Modern attribution; anon. in Augsburg 142a, but within a closed series of works dedicated to Josquin; also appears in Florence 164-67
 0r	1A	0e	0r
 .	1A	.	.
 =2	=2	=2	=2
@@ -435,8 +435,8 @@
 !!!SMS: Picker 1981
 !!!ENC: Will Watson 23/10/2011
 !!!END: 2011/10/23/
-!!!EED: Jesse Rodinš
+!!!EED: Jesse Rodin
 !!!EEV: 2015/09/09/
 !!attribution-level@Jos: 2 (provisionally attributable [parentheses checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/11/02/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130 (modern attribution) (anon. in Augsburg 142a, but within a closed series of works dedicated to Josquin; also appears in Florence 164-67)
+!!muse2ps: C^@{COM}^i2I150v90,90,90,120c122z18l2700t130

@@ -7,16 +7,15 @@
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
-*I"Bassus I	*	*I"Bassus II	*	*I"Tenor	*	*I"Altus II	*	*I"Altus I	*	*I"Superius	*
-*I'B. I	*	*I'B. II	*	*I'T	*	*I'A. II	*	*I'A. I	*	*I'S	*
+*I"Bassus 1	*	*I"Bassus 2	*	*I"Tenor	*	*I"Altus 2	*	*I"Altus 1	*	*I"Superius	*
+*I'B. 1	*	*I'B. 2	*	*I'T	*	*I'A. 2	*	*I'A. 1	*	*I'S	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
 !!section: Prima pars: Verbum bonum
-!!!OMD: Prima pars: Verbum bonum
-!	!	!	!	!LO:TX:a:t=Canon&colon; tenor/altus II at the fourth	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=8a:t=Canon&colon; tenor/altus II at the fourth	!	!	!	!	!	!	!
 1r	.	0r	.	1D	Ver-	0r	.	0r	.	0r	.
 1GG	Ver-	.	.	1G	-bum	.	.	.	.	.	.
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
@@ -529,7 +528,6 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
 !!section: Secunda pars: Ave solem genuisti
-!!!OMD: Secunda pars: Ave solem genuisti
 !	!	!	!	!	!	!LO:TX:a:t=Canon&colon; altus II/tenor at the fifth	!	!	!	!	!
 0r	.	0r	.	0r	.	0r	.	1c	A-	0r	.
 .	.	.	.	.	.	.	.	1f	-ve,	.	.
@@ -1116,4 +1114,4 @@
 !!!attribution-level@Jos: 4b (almost certainly by another composer [double question mark])
 !!!YEC: Copyright 2021 Benjamin Ory, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2021/10/07
-!!muse2ps: C^Willaert / Josquin??^i2I150v95,95,95,95,95,130Q16z18
+!!muse2ps: C^Willaert / Josquin??^i2I150l2655v95,95,95,95,95,130Q16z18

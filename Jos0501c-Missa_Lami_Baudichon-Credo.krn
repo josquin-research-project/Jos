@@ -25,7 +25,7 @@
 !!primary-mensuration: met(O)
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 !	!	!LO:TX:Z=6:t=T&colon; Qui se humiliat exaltabitur et qui se exaltat humiliabitur	!	!	!	!	!
-!	!	!LO:TX:Y=24:t=T&colon; He who exalts himself will be humbled, and he who humbles himself will be exalted. [inversion]	!	!	!	!	!
+!	!	!LO:TX:Y=24:t=T&colon; He who humbles himself will be exalted, and he who exalts himself will be humbled. [inversion]	!	!	!	!	!
 !	!	!	!	!	!	!LO:TX:Z=6:t=T text based loosely on Verona 761, where the French words appear sporadically throughout the mass	!
 !	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	0c	Pa-	0cc	Pa-
@@ -263,12 +263,12 @@
 .	.	.	.	.	.	4b\	.
 .	.	.	.	.	.	4a/	.
 =37	=37	=37	=37	=37	=37	=37	=37
+!	!	!LO:N:vis=0.	!	!	!	!	!
 1.c	-a	[y0.g	-da-	1e	.	1g	.
 .	.	.	.	2c\	.	1r	.
 1.G	.	.	.	2e\	.	.	.
 .	.	.	.	1d	-cu-	1dd	se-
 =38	=38	=38-	=38	=38	=38	=38	=38
-!	!	!LO:N:vis=0.	!	!	!	!	!
 1.c	se-	0.g]yy	.	1c	-la,	2ee\	.
 .	.	.	.	.	.	2cc\	.
 .	.	.	.	1r	.	2ee\	.
@@ -554,7 +554,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!!OMD: Et incarnatus est
 !!section: Et incarnatus est
-!	!	!	!	!LO:TX:Y=18:t=T canon&colon; Sicut mutus non aperiens os suum	!	!	!
+!	!	!	!	!LO:TX:Y=18:t=T canon&colon; Sicut mutus non aperiens os suum [Like the mute not opening his mouth]	!	!	!
 0r	.	0r	.	0c	Et	0cc	Et
 =75	=75	=75	=75	=75	=75	=75	=75
 0r	.	0r	.	1G	in-	1b	in-
@@ -801,7 +801,7 @@
 *met(O2)	*	*met(O)	*	*met(O2)	*	*met(O2)	*
 !!primary-mensuration: met(O2)
 !	!	!LO:N:vis=0	!	!	!	!	!
-!	!	!LO:TX:Z=18:t=T&colon; Gradatim me sequere trina bina non pausali pertonisans in dyapsaon.	!	!	!	!	!
+!	!	!LO:TX:Z=18:t=T&colon; Gradatim me sequere trina bina non pausali pertonisans in dyapsaon. In fine sume supremum.	!	!	!	!	!
 !	!	!LO:TX:Y=60:t=T&colon; In steps follow me in threes twice without pause sounding as far as the 8ve. At the end take the highest.	!	!	!	!	!
 0C	Et	[y0g	L'a-	[0c	Et	0cc	Et
 =127.	=127.	=127-	=127.	=127.	=127.	=127.	=127.

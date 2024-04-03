@@ -934,7 +934,7 @@
 !! Cannot start and stop tuplet in muse2ps [20111017], so placing a
 !! italic three above the note to indicate that it is triplet
 !LO:TX:Z=5:i:t=3	!	!LO:TX:Z=-10:i:t=3	!	!	!	!	!	!
-3%4.G	-stras.	3%4.B-	-stras.	0r	.	.	3%4b-V	qui-
+3%4.G	-stras.	3%4.G	-stras.	0r	.	.	3%4b-V	qui-
 .	.	.	.	.	.	.	3%2ccZ	-a
 =191	=191	=191	=191	=191	=191	=191	=191	=191
 0r	.	0r	.	3%4B-V	qui-	.	3%4ddV	o-

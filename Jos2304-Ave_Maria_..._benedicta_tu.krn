@@ -5,7 +5,7 @@
 !!!OTL@@LAT: Ave Maria...benedicta tu
 !!!AGN: Motet
 !!!SCT: NJE 23.4
-!!!SCA: New Josquin Edition 23.4
+!!!SCA: New Josquin Edition 23.4a
 !!!jrpid: Jos2304
 !!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
@@ -116,18 +116,19 @@
 .	.	.	.	.	.	2f#i	.
 .	.	.	.	4c	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19
-1r	.	1G	-cum,	4B-	.	2g	-cum,
+2r	.	1G	-cum,	4B-	.	2g	-cum,
 .	.	.	.	4A	.	.	.
-.	.	.	.	2d	.	1b-	.
-2r	.	2r	.	1G	.	.	.
-2E-	be-	2c	be-	.	.	4a	.
+2G	be-	.	.	2d	.	1b-	.
+2G	-ne-	2r	.	1G	.	.	.
+2E-	.	2c	be-	.	.	4a	.
 .	.	.	.	.	.	4g	.
 =20	=20	=20	=20	=20	=20	=20	=20
-2D	-ne-	1d	.	1A	-cum,	1f	.
+2D	.	2.d	.	1A	-cum,	1f	.
 2.F	-dic-	.	.	.	.	.	.
-.	.	2c	-ne-	1r	.	1r	.
+.	.	4d	-ne-	.	.	.	.
+.	.	2c	-dic-	1r	.	1r	.
 4E-	.	.	.	.	.	.	.
-4D	.	[2d	-dic-	.	.	.	.
+4D	.	[2d	.	.	.	.	.
 4C	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
 2BB-	.	4d]	.	1r	.	1r	.
@@ -136,11 +137,12 @@
 1C	-ta	.	.	2r	.	2r	.
 .	.	2A	-ta	2e-i	be-	2cc	be-
 =22	=22	=22	=22	=22	=22	=22	=22
-1BB-	tu	1B-	tu	2d	-ne-	1dd	.
+1BB-	tu	1B-	tu	2d	-ne-	2.dd	.
 .	.	.	.	2.f	-dic-	.	.
-1r	.	1r	.	.	.	2cc	-ne-
+.	.	.	.	.	.	4dd	-ne-
+1r	.	1r	.	.	.	2cc	-dic-
 .	.	.	.	4e-i	.	.	.
-.	.	.	.	4d	.	[2dd	-dic-
+.	.	.	.	4d	.	[2dd	.
 .	.	.	.	4c	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23
 1r	.	0r	.	2B-	.	4dd]	.

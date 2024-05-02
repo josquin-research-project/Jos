@@ -1,17 +1,17 @@
-!!!!SEGMENT: Jos/Jos2203-Qui_velatus.krn
-!!!COM: Josquin des Prez
-!!!CDT: ~1450-1521/08/27
-!!!OTL@@LAT: Qui velatus facie fuisti [6 sections]
-!!!OTL2@@LAT: Hora qui ductus tercia
-!!!OTL3@@LAT: Tertia pars: In flagellis potum fellis
-!!!OTL4@@LAT: In amara crucis ara
-!!!OTL5@@LAT: Qui jacuisti mortuus
-!!!OTL6@@LAT: Christum ducem, qui per crucem
-!!!AGN: Motet; Motet cycle
-!!!SCT: NJE 22.3
-!!!SCA: New Josquin Edition 22.3
-!!!jrpid: Jos2203
-!!!voices: 4
+!!!!SEGMENT: Jos/Jos2203-Qui_velatus.krn							
+!!!COM: Josquin des Prez							
+!!!CDT: ~1450-1521/08/27							
+!!!OTL@@LAT: Qui velatus facie fuisti [6 sections]							
+!!!OTL2@@LAT: Hora qui ductus tercia							
+!!!OTL3@@LAT: Tertia pars: In flagellis potum fellis							
+!!!OTL4@@LAT: In amara crucis ara							
+!!!OTL5@@LAT: Qui jacuisti mortuus							
+!!!OTL6@@LAT: Christum ducem, qui per crucem							
+!!!AGN: Motet; Motet cycle							
+!!!SCT: NJE 22.3							
+!!!SCA: New Josquin Edition 22.3							
+!!!jrpid: Jos2203							
+!!!voices: 4							
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -21,7 +21,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: [Prima pars:] Hora qui ductus tercia
+!!section: [Prima pars:] Hora qui ductus tercia							
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0r	.	0r	.	0A	Qui	0r	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -95,10 +95,11 @@
 .	.	1c	sus-	.	.	1g	-ri-
 =27	=27	=27	=27	=27	=27	=27	=27
 1F	sus-	[0c	-ti-	1A	sus-	1a	-as
+!	!	!	!	!LO:TX:Z=6:t=    MS&colon; dotted breve	!	!	!
 1E	.	.	.	[1e	-ti-	1g	sus-
 =28	=28	=28	=28	=28	=28	=28	=28
-1A	-ti-	1c]	.	0e]	-nu-	1a	-ti-
-1G	-nu-	1B	-nu-	.	.	1b	-nu-
+1A	-ti-	1c]	.	1e]	.	1a	-ti-
+1G	-nu-	1B	-nu-	1e	-nu-	1b	-nu-
 =29	=29	=29	=29	=29	=29	=29	=29
 0F	-i-	0A	-i-	1.c	-i-	0cc	-i-
 .	.	.	.	2d\	.	.	.
@@ -207,9 +208,9 @@
 1F]	.	1A]	.	1c]	.	1f]	.
 1C	ad	1G	ad	1c	ad	1e	ad
 =68	=68	=68	=68	=68	=68	=68	=68
-1D	glo-	2F/	glo-	1A	glo-	1d	glo-
+1D	glo-	2F/	glo-	1A	.	1d	glo-
 .	.	2D/	.	.	.	.	.
-1AA	-ri-	1E	ri-	1A	.	1c	.
+1AA	-ri-	1E	ri-	1A	glo-	1c	.
 =69	=69	=69	=69	=69	=69	=69	=69
 0BB-	-am,	0D	-am,	2F/	.	0d	-ri-
 .	.	.	.	2D/	.	.	.
@@ -226,20 +227,20 @@
 2BB/	.	.	.	.	.	.	.
 1AA	.	1A	-ri-	1c	ad	.	.
 =73	=73	=73	=73	=73	=73	=73	=73
-1GG	.	[0El	-am.	1B	glo-	0e_	.
+1GG	.	[0El	-am.	1B	.	0e_	.
 1AA	-ri-	.	.	1A	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74
-[0EEl	-am.	0E_	.	1.c	.	0e_	.
+[0EEl	-am.	0E_	.	1.c	glo-	0e_	.
 .	.	.	.	2B\	.	.	.
 =75	=75	=75	=75	=75	=75	=75	=75
 0EE_	.	0E_	.	1.G	-ri-	0e_	.
 .	.	.	.	2A/	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76
 0EE]	.	0E]	.	0Bl	-am.	0e]	.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =77||	=77||	=77||	=77||	=77||	=77||	=77||	=77||
-!!section: Secunda pars: Hora qui ductus tercia
-!!!OMD: [Secunda pars:] Hora qui ductus tercia
+!!section: Secunda pars: Hora qui ductus tercia							
+!!!OMD: [Secunda pars:] Hora qui ductus tercia							
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0AA	Ho-	0r	.	0r	.	0r	.
@@ -277,21 +278,21 @@
 =88	=88	=88	=88	=88	=88	=88	=88
 0C	Fu-	0c	Fu-	[0e	-a	[0g	-a
 =89	=89	=89	=89	=89	=89	=89	=89
-1.C	-is-	1c	-is-	0e]	.	0g]	.
-.	.	1c	-ti	.	.	.	.
-2D\	.	.	.	.	.	.	.
+1.C	-i-	1c	-i-	0e]	.	0g]	.
+.	.	1c	-sti	.	.	.	.
+2D\	-sti	.	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90	=90
-1E	-ti	1.c	ad	0r	.	0r	.
-1F	ad	.	.	.	.	.	.
+1E	ad	1.c	ad	0r	.	0r	.
+1F	.	.	.	.	.	.	.
 .	.	4B\	.	.	.	.	.
 .	.	4A/	.	.	.	.	.
 =91	=91	=91	=91	=91	=91	=91	=91
-1E	sup-	1c	.	0r	.	0r	.
-[1D	-pli-	[1B	sup-	.	.	.	.
+1E	.	1c	.	0r	.	0r	.
+[1D	sup-	[1B	sup-	.	.	.	.
 =92	=92	=92	=92	=92	=92	=92	=92
 1D]	.	2B\]	.	0r	.	0r	.
 .	.	2A/	.	.	.	.	.
-1C	.	[1A	-pli-	.	.	.	.
+1C	-pli-	[1A	-pli-	.	.	.	.
 =93	=93	=93	=93	=93	=93	=93	=93
 0BB	-ci-	1A]	.	0r	.	0r	.
 .	.	1G#i	-ci-	.	.	.	.
@@ -321,11 +322,11 @@
 0F	.	0r	.	1A	-a,	[0a	-a,
 .	.	.	.	1c	Chri-	.	.
 =101	=101	=101	=101	=101	=101	=101	=101
-1D	sup-	0r	.	1d	-ste	1a]	.
-[1A	-pli-	.	.	1e	fe-	[1cc	sup-
+1D	.	0r	.	1d	-ste	1a]	.
+[1A	sup-	.	.	1e	fe-	[1cc	sup-
 =102	=102	=102	=102	=102	=102	=102	=102
 1A]	.	0r	.	1f	-ren	1cc]	.
-1G	.	.	.	2g\	.	1b	-pli-
+1G	-pli-	.	.	2g\	.	1b	-pli-
 .	.	.	.	[2e\	.	.	.
 =103	=103	=103	=103	=103	=103	=103	=103
 0F	-ci-	1r	.	2e\]	.	0a	-ci-
@@ -417,7 +418,7 @@
 2G\	.	.	.	1r	.	.	.
 [2B-i\	-li-	2d\	di-	.	.	.	.
 =121	=121	=121	=121	=121	=121	=121	=121
-4B-\]	.	1c	-li-	0r	.	0r	.
+4B-i\]	.	1c	-li-	0r	.	0r	.
 4A\	.	.	.	.	.	.	.
 1A	.	.	.	.	.	.	.
 .	.	1B-i	-ge-	.	.	.	.
@@ -509,9 +510,9 @@
 1F]	.	1A]	.	1c]	.	1f]	.
 1C	-tis	1G	-tis	1c	-tis	1e	-tis
 =139	=139	=139	=139	=139	=139	=139	=139
-1D	pa-	2F/	pa-	1A	pa-	1d	pa-
+1D	pa-	2F/	pa-	1A	.	1d	pa-
 .	.	2D/	.	.	.	.	.
-1AA	.	1E	-tri-	1A	.	1c	.
+1AA	.	1E	-tri-	1A	pa-	1c	.
 =140	=140	=140	=140	=140	=140	=140	=140
 0BB-i	-tri-	0D	-e,	2F/	.	0d	-tri-
 .	.	.	.	2D/	.	.	.
@@ -535,10 +536,10 @@
 .	.	.	.	2B\	.	.	.
 =146	=146	=146	=146	=146	=146	=146	=146
 0EE]	.	0E]	.	0Gl	-e.	0e]	.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =147||	=147||	=147||	=147||	=147||	=147||	=147||	=147||
-!!section: Tertia pars: In flagellis potum fellis
-!!!OMD: [Tertia pars:] In flagellis potum fellis
+!!section: Tertia pars: In flagellis potum fellis							
+!!!OMD: [Tertia pars:] In flagellis potum fellis							
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0A	In	0A	In	0e	In	0a	In
@@ -708,9 +709,9 @@
 1F]	.	1A]	.	1c]	.	1f]	.
 1C	-tor	1G	-tor	1c	-tor	1e	-tor
 =199	=199	=199	=199	=199	=199	=199	=199
-1D	om-	2F/	om-	1A	om-	1d	om-
+1D	om-	2F/	om-	1A	.	1d	om-
 .	.	2D/	.	.	.	.	.
-1AA	.	1E	-ni-	1A	.	1c	.
+1AA	.	1E	-ni-	1A	om-	1c	.
 =200	=200	=200	=200	=200	=200	=200	=200
 0BB-i	-ni-	0D	-um,	2F/	.	0d	-ni-
 .	.	.	.	2D/	.	.	.
@@ -734,10 +735,10 @@
 .	.	.	.	2B\	.	.	.
 =206	=206	=206	=206	=206	=206	=206	=206
 0EE]	.	0E]	.	0Gl	-um.	0e]	.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =207||	=207||	=207||	=207||	=207||	=207||	=207||	=207||
-!!section: Quarta pars: Honor et benedictio
-!!!OMD: [Quarta pars:] Honor et benedictio
+!!section: Quarta pars: Honor et benedictio							
+!!!OMD: [Quarta pars:] Honor et benedictio							
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0E	Ho-	0E	Ho-	0e	Ho-	0g	Ho-
@@ -751,10 +752,10 @@
 =211	=211	=211	=211	=211	=211	=211	=211
 [0C	-dic-	[0c	-dic-	[0e	-dic-	[0g	-dic-
 =212	=212	=212	=212	=212	=212	=212	=212
-1C]	-ti-	1c]	-ti-	1e]	-ti-	1g]	-ti-
-1C	-o	1c	-o	1e	-o	1g	-o
+1C]	.	1c]	.	1e]	.	1g]	.
+1C	-ti-	1c	-ti-	1e	-ti-	1g	-ti-
 =213	=213	=213	=213	=213	=213	=213	=213
-0C;	.	0c;	.	0e;	.	0g;	.
+0C;	-o	0c;	-o	0e;	-o	0g;	-o
 =214	=214	=214	=214	=214	=214	=214	=214
 0C	Sit	0E	Sit	0c	Sit	0g	Sit
 =215	=215	=215	=215	=215	=215	=215	=215
@@ -808,10 +809,10 @@
 1AA	.	1A	.	1c	.	.	.
 =234	=234	=234	=234	=234	=234	=234	=234
 0AAl	-no.	0Al	-no.	0cl	-no.	0e]	.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =235||	=235||	=235||	=235||	=235||	=235||	=235||	=235||
-!!section: Quinta pars: In amara crucis ara
-!!!OMD: [Quinta pars:] In amara crucis ara
+!!section: Quinta pars: In amara crucis ara							
+!!!OMD: [Quinta pars:] In amara crucis ara							
 1r	.	0E	In	0r	.	0r	.
 1E	In	.	.	.	.	.	.
 =236	=236	=236	=236	=236	=236	=236	=236
@@ -1067,23 +1068,23 @@
 .	.	.	.	4B\	.	.	.
 .	.	.	.	4A/	.	.	.
 =292	=292	=292	=292	=292	=292	=292	=292
-2D\	ve-	0r	.	2B\	.	0r	.
+2D\	ve-	0r	.	2B\	ve-	0r	.
 2AA/	.	.	.	1A	.	.	.
 1BB	-ni-	.	.	.	.	.	.
 .	.	.	.	2G#i/	.	.	.
 =293	=293	=293	=293	=293	=293	=293	=293
-0AA	-re,	1r	.	1.A	ve-	2r	.
+0AA	-re,	1r	.	1.A	.	2r	.
 .	.	.	.	.	.	1cc	et
 .	.	1c	et	.	.	.	.
 .	.	.	.	4G/	.	4b\	.
 .	.	.	.	4A/	.	4a/	.
 =294	=294	=294	=294	=294	=294	=294	=294
-1r	.	2d\	ve-	2G/	-ni-	2b\	.
+1r	.	2d\	ve-	2G/	-ni-	2b\	ve-
 .	.	2A/	.	2A/	.	1a	.
 1E	et	1B	-ni-	1E	-re,	.	.
 .	.	.	.	.	.	2g/	.
 =295	=295	=295	=295	=295	=295	=295	=295
-2F\	ve-	[0A	-re	2r	.	2a/	ve-
+2F\	ve-	[0A	-re	2r	.	2a/	.
 2C/	.	.	.	2c\	ve-	2e/	.
 1D	-ni-	.	.	2A/	-ni-	1f	-ni-
 .	.	.	.	2B\	.	.	.
@@ -1121,10 +1122,10 @@
 .	.	.	.	.	.	3a/	.
 =304	=304	=304	=304	=304	=304	=304	=304
 3%4.El	-di.	3%4.el	-di.	3%4.Bl	-di.	3%4.gl	-di.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =305||	=305||	=305||	=305||	=305||	=305||	=305||	=305||
-!!section: Sexta pars: Qui jacuisti mortuus
-!!!OMD: [Sexta pars:] Qui jacuisti mortuus
+!!section: Sexta pars: Qui jacuisti mortuus							
+!!!OMD: [Sexta pars:] Qui jacuisti mortuus							
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0r	.	0r	.	0r	.	0a	Qui
@@ -1238,13 +1239,13 @@
 .	.	.	.	4e\	.	.	.
 .	.	.	.	1e	.	2g/	.
 1F	que	.	.	.	.	1a	-de-
-.	.	.	.	2d\	-de-	.	.
+.	.	.	.	2d\	.	.	.
 =338	=338	=338	=338	=338	=338	=338	=338
-1E	lau-	0e	Sem-	2e\	-re.	0g	-re.
+1E	lau-	0e	Sem-	2e\	.	0g	-re.
 .	.	.	.	2c\	.	.	.
-1E	-des	.	.	1B	.	.	.
+1E	-des	.	.	1B	-de-	.	.
 =339	=339	=339	=339	=339	=339	=339	=339
-1.F	red-	1d	-per	0A	.	0r	.
+1.F	red-	1d	-per	0A	-re.	0r	.
 .	.	1c	que	.	.	.	.
 4E\	.	.	.	.	.	.	.
 4F\	.	.	.	.	.	.	.
@@ -1257,9 +1258,9 @@
 .	.	.	.	.	.	2g/	-cur-
 .	.	2B\	.	.	.	2g/	-re
 =342	=342	=342	=342	=342	=342	=342	=342
-0r	.	2.A/	-de-	1c	Suc-	1a	no-
+0r	.	2.A/	.	1c	Suc-	1a	no-
 .	.	4G/	.	.	.	.	.
-.	.	1A	.	2c\	-cu-	1cc	-bis
+.	.	1A	-de-	2c\	-cu-	1cc	-bis
 .	.	.	.	2c\	-re	.	.
 =343	=343	=343	=343	=343	=343	=343	=343
 0r	.	1G	-re.	1d	no-	1b	do-
@@ -1404,10 +1405,10 @@
 1AA	-di-	.	.	1c	-di-	.	.
 =373	=373	=373	=373	=373	=373	=373	=373
 0EEl	-a.	0E]	.	0Bl	-a.	0e]	.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =374||	=374||	=374||	=374||	=374||	=374||	=374||	=374||
-!!section: Septima pars: Christum ducem, qui per crucem
-!!!OMD: [Septima pars:] Christum ducem, qui per crucem
+!!section: Septima pars: Christum ducem, qui per crucem							
+!!!OMD: [Septima pars:] Christum ducem, qui per crucem							
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0r	.	0r	.	1d	Chri-	1d	Chri-
@@ -1875,12 +1876,12 @@
 0.El	-a.	0.el	-a.	0.Bl	-a.	0.gl	-a.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
-!!!ENC: Jesse Rodin; Victoria Chang 2011/05/27
-!!!END: 2011/05/27/
-!!!EED: Jesse Rodin
-!!!EEV: 2011/08/24/
-!!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB: Translated from MusicXML and edited on 2011/08/17/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v90,90,90,120c130z18l2700t130
+!!!RDF**kern: l=long note in original notation							
+!!!RDF**kern: i=editorial accidental							
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/27							
+!!!END: 2011/05/27/							
+!!!EED: Jesse Rodin							
+!!!EEV: 2011/08/24/							
+!!attribution-level@Jos: 1 (secure, core group [checkmark])							
+!!!ONB: Translated from MusicXML and edited on 2011/08/17/ by Craig Sapp							
+!!muse2ps: C^@{COM}^i2I150v90,90,90,120c130z18l2700t130							

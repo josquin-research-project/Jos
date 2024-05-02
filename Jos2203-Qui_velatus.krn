@@ -1,17 +1,17 @@
-!!!!SEGMENT: Jos/Jos2203-Qui_velatus.krn							
-!!!COM: Josquin des Prez							
-!!!CDT: ~1450-1521/08/27							
-!!!OTL@@LAT: Qui velatus facie fuisti [6 sections]							
-!!!OTL2@@LAT: Hora qui ductus tercia							
-!!!OTL3@@LAT: Tertia pars: In flagellis potum fellis							
-!!!OTL4@@LAT: In amara crucis ara							
-!!!OTL5@@LAT: Qui jacuisti mortuus							
-!!!OTL6@@LAT: Christum ducem, qui per crucem							
-!!!AGN: Motet; Motet cycle							
-!!!SCT: NJE 22.3							
-!!!SCA: New Josquin Edition 22.3							
-!!!jrpid: Jos2203							
-!!!voices: 4							
+!!!!SEGMENT: Jos/Jos2203-Qui_velatus.krn
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OTL@@LAT: Qui velatus facie fuisti [6 sections]
+!!!OTL2@@LAT: Hora qui ductus tercia
+!!!OTL3@@LAT: Tertia pars: In flagellis potum fellis
+!!!OTL4@@LAT: In amara crucis ara
+!!!OTL5@@LAT: Qui jacuisti mortuus
+!!!OTL6@@LAT: Christum ducem, qui per crucem
+!!!AGN: Motet; Motet cycle
+!!!SCT: NJE 22.3
+!!!SCA: New Josquin Edition 22.3
+!!!jrpid: Jos2203
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -21,7 +21,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: [Prima pars:] Hora qui ductus tercia							
+!!section: [Prima pars:] Hora qui ductus tercia
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0r	.	0r	.	0A	Qui	0r	.
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -236,10 +236,10 @@
 .	.	.	.	2A/	.	.	.
 =76	=76	=76	=76	=76	=76	=76	=76
 0EE]	.	0E]	.	0Bl	-am.	0e]	.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =77||	=77||	=77||	=77||	=77||	=77||	=77||	=77||
-!!section: Secunda pars: Hora qui ductus tercia							
-!!!OMD: [Secunda pars:] Hora qui ductus tercia							
+!!section: Secunda pars: Hora qui ductus tercia
+!!!OMD: [Secunda pars:] Hora qui ductus tercia
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0AA	Ho-	0r	.	0r	.	0r	.
@@ -535,10 +535,10 @@
 .	.	.	.	2B\	.	.	.
 =146	=146	=146	=146	=146	=146	=146	=146
 0EE]	.	0E]	.	0Gl	-e.	0e]	.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =147||	=147||	=147||	=147||	=147||	=147||	=147||	=147||
-!!section: Tertia pars: In flagellis potum fellis							
-!!!OMD: [Tertia pars:] In flagellis potum fellis							
+!!section: Tertia pars: In flagellis potum fellis
+!!!OMD: [Tertia pars:] In flagellis potum fellis
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0A	In	0A	In	0e	In	0a	In
@@ -734,10 +734,10 @@
 .	.	.	.	2B\	.	.	.
 =206	=206	=206	=206	=206	=206	=206	=206
 0EE]	.	0E]	.	0Gl	-um.	0e]	.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =207||	=207||	=207||	=207||	=207||	=207||	=207||	=207||
-!!section: Quarta pars: Honor et benedictio							
-!!!OMD: [Quarta pars:] Honor et benedictio							
+!!section: Quarta pars: Honor et benedictio
+!!!OMD: [Quarta pars:] Honor et benedictio
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0E	Ho-	0E	Ho-	0e	Ho-	0g	Ho-
@@ -808,10 +808,10 @@
 1AA	.	1A	.	1c	.	.	.
 =234	=234	=234	=234	=234	=234	=234	=234
 0AAl	-no.	0Al	-no.	0cl	-no.	0e]	.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =235||	=235||	=235||	=235||	=235||	=235||	=235||	=235||
-!!section: Quinta pars: In amara crucis ara							
-!!!OMD: [Quinta pars:] In amara crucis ara							
+!!section: Quinta pars: In amara crucis ara
+!!!OMD: [Quinta pars:] In amara crucis ara
 1r	.	0E	In	0r	.	0r	.
 1E	In	.	.	.	.	.	.
 =236	=236	=236	=236	=236	=236	=236	=236
@@ -1121,10 +1121,10 @@
 .	.	.	.	.	.	3a/	.
 =304	=304	=304	=304	=304	=304	=304	=304
 3%4.El	-di.	3%4.el	-di.	3%4.Bl	-di.	3%4.gl	-di.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =305||	=305||	=305||	=305||	=305||	=305||	=305||	=305||
-!!section: Sexta pars: Qui jacuisti mortuus							
-!!!OMD: [Sexta pars:] Qui jacuisti mortuus							
+!!section: Sexta pars: Qui jacuisti mortuus
+!!!OMD: [Sexta pars:] Qui jacuisti mortuus
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0r	.	0r	.	0r	.	0a	Qui
@@ -1404,10 +1404,10 @@
 1AA	-di-	.	.	1c	-di-	.	.
 =373	=373	=373	=373	=373	=373	=373	=373
 0EEl	-a.	0E]	.	0Bl	-a.	0e]	.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =374||	=374||	=374||	=374||	=374||	=374||	=374||	=374||
-!!section: Septima pars: Christum ducem, qui per crucem							
-!!!OMD: [Septima pars:] Christum ducem, qui per crucem							
+!!section: Septima pars: Christum ducem, qui per crucem
+!!!OMD: [Septima pars:] Christum ducem, qui per crucem
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 0r	.	0r	.	1d	Chri-	1d	Chri-
@@ -1875,12 +1875,12 @@
 0.El	-a.	0.el	-a.	0.Bl	-a.	0.gl	-a.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation							
-!!!RDF**kern: i=editorial accidental							
-!!!ENC: Jesse Rodin; Victoria Chang 2011/05/27							
-!!!END: 2011/05/27/							
-!!!EED: Jesse Rodin							
-!!!EEV: 2011/08/24/							
-!!attribution-level@Jos: 1 (secure, core group [checkmark])							
-!!!ONB: Translated from MusicXML and edited on 2011/08/17/ by Craig Sapp							
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/27
+!!!END: 2011/05/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2011/08/24/
+!!attribution-level@Jos: 1 (secure, core group [checkmark])
+!!!ONB: Translated from MusicXML and edited on 2011/08/17/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v90,90,90,120c130z18l2700t130

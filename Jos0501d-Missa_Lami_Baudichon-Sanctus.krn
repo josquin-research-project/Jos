@@ -22,7 +22,6 @@
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!LO:TX:Z=10:X=-40:t=Tenor&colon; In duplo provulgatur (Disclosed in double) [2&colon;1 augmentation]	!	!	!	!LO:TX:Z=6:t=T text based loosely on Verona 761, where the French words appear sporadically throughout the mass	!
 !	!	!LO:N:vis=0.	!	!	!	!	!
 0.r	.	0.r	.	0c	Sanc-	0cc	Sanc-
 .	.	.	.	2e\	.	1cc	.
@@ -145,17 +144,17 @@
 .	.	.	.	.	.	2b\	.
 =17	=17	=17	=17	=17	=17	=17	=17
 !	!	!LO:N:vis=0	!	!	!	!	!
-0.C	Sanc-	[y0.e	L'a-	0c	-tus	0.cc	-tus
+0.C	Sanc-	[y0.e	Sanc-	0c	-tus	0.cc	-tus
 .	.	.	.	1c	do-	.	.
 =18	=18	=18-	=18	=18	=18	=18	=18
 0c	-tus	1e]yy	.	0A	.	1r	.
 !	!	!LO:N:vis=1	!	!	!	!	!
-.	.	0e	-mi	.	.	1r	.
+.	.	0e	-tus	.	.	1r	.
 .	.	.	.	.	.	.	.
 1A	do-	.	.	1c	-mi-	1cc	do-
 =19	=19	=19	=19	=19	=19	=19	=19
 !	!	!LO:N:vis=0	!	!	!	!	!
-2.B-\	.	[y0.d	Bau-	1G	-nus,	2.dd\	.
+2.B-\	.	[y0.d	do-	1G	-nus,	2.dd\	.
 4A\	.	.	.	.	.	4cc\	.
 2F\	.	.	.	1r	.	2a/	.
 1G	.	.	.	.	.	1b-	.
@@ -165,11 +164,11 @@
 =20	=20	=20-	=20	=20	=20	=20	=20
 0D	-nus	1d]yy	.	0A	.	0.f	-nus
 !	!	!LO:N:vis=1	!	!	!	!	!
-.	.	0d	-di-	.	.	.	.
+.	.	0d	-mi-	.	.	.	.
 1BB-	de-	.	.	1B-	-mi-	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
 !	!	!LO:N:vis=0	!	!	!	!	!
-[0.C	-us,	[y0.c	-chon,	1G	-nus	0e	de-
+[0.C	-us,	[y0.c	-nus	1G	-nus	0e	de-
 .	.	.	.	2r	.	.	.
 .	.	.	.	2g\	de-	.	.
 .	.	.	.	2a\	.	1e	-us,
@@ -178,13 +177,13 @@
 0C]	.	1c]yy	.	0e	-us	2r	.
 .	.	.	.	.	.	1g	de-
 !	!	!LO:N:vis=1	!	!	!	!	!
-.	.	0c	ma-	.	.	.	.
+.	.	0c	de-	.	.	.	.
 .	.	.	.	.	.	2e/	.
 2F\	de-	.	.	1r	.	2f/	.
 2E\	.	.	.	.	.	2g/	.
 =23	=23	=23	=23	=23	=23	=23	=23
 !	!	!LO:N:vis=0	!	!	!	!	!
-0C	-us	[y0.c	-da-	1g	sa-	1e	-us
+0C	-us	[y0.c	-us,	1g	sa-	1e	-us
 .	.	.	.	2a\	.	1r	.
 .	.	.	.	1g	.	.	.
 1C	sa-	.	.	.	.	1g	sa-
@@ -194,14 +193,14 @@
 .	.	.	.	4e\	.	.	.
 .	.	.	.	4d\	.	.	.
 !	!	!LO:N:vis=1	!	!	!	!	!
-.	.	0c	-me,	0c	-oth,	.	.
+.	.	0c	de-	0c	-oth,	.	.
 .	.	.	.	.	.	1cc	-ba-
 2.A\	.	.	.	.	.	.	.
 .	.	.	.	.	.	4b\	.
 4B\	.	.	.	.	.	4a/	.
 =25	=25	=25	=25	=25	=25	=25	=25
 !	!	!LO:N:vis=0	!	!	!	!	!
-0c	-ba-	[y0.e	L'a-	1r	.	1g	-oth,
+0c	-ba-	[y0.e	-us	1r	.	1g	-oth,
 .	.	.	.	1r	.	2a/	sa-
 .	.	.	.	.	.	2g/	.
 1c	-oth,	.	.	1g	de-	2.cc\	.
@@ -210,14 +209,14 @@
 2.C/	sa-	1e]yy	.	0g	-us	1.ee	.
 4D\	.	.	.	.	.	.	.
 !	!	!LO:N:vis=1	!	!	!	!	!
-2.E\	.	0e	-mi	.	.	.	.
+2.E\	.	0e	sa-	.	.	.	.
 .	.	.	.	.	.	4dd\	.
 4F\	.	.	.	.	.	4cc\	.
 2G\	.	.	.	1r	.	2b\	.
 2A\	.	.	.	.	.	2cc\	.
 =27	=27	=27	=27	=27	=27	=27	=27
 !	!	!LO:N:vis=0	!	!	!	!	!
-2B-\	.	[y0.d	Bau-	0G	sa-	1.dd	.
+2B-\	.	[y0.d	.	0G	sa-	1.dd	.
 1B-i	.	.	.	.	.	.	.
 4A\	.	.	.	.	.	4cc\	.
 4G\	.	.	.	.	.	4b\	.
@@ -229,12 +228,12 @@
 2.D\	.	.	.	.	.	2.dd\	.
 .	.	.	.	4c\	.	.	.
 !	!	!LO:N:vis=1	!	!	!	!	!
-.	.	0d	-di-	1A	-ba-	.	.
+.	.	0d	-ba-	1A	-ba-	.	.
 4E\	.	.	.	.	.	4cc\	.
 2F\	.	.	.	.	.	2a/	.
 1G	-ba-	.	.	1G	-oth,	1b	-ba-
 =29	=29	=29	=29	=29	=29	=29	=29
-0C	-oth,	[0.cl	-chon.	1g	sa-	1cc	-oth,
+0C	-oth,	[0.cl	-oth.	1g	sa-	1cc	-oth,
 .	.	.	.	2a\	.	1r	.
 .	.	.	.	1g	.	.	.
 1C	sa-	.	.	.	.	1g	sa-
@@ -522,23 +521,23 @@
 !!!OMD: Osanna
 !!section: Osanna
 !	!	!LO:N:vis=0	!	!	!	!	!
-[0c	O-	[y0g	Plu-	[0e	O-	[0cc	O-
+[0c	O-	[y0g	O-	[0e	O-	[0cc	O-
 =65	=65	=65-	=65	=65	=65	=65	=65
 0c]	.	0g]yy	.	0e]	.	0cc]	.
 =66	=66	=66	=66	=66	=66	=66	=66
-0G	.	0g	-mez	[0d	-san-	0b	.
+0G	.	0g	-san-	[0d	-san-	0b	.
 =67	=67	=67-	=67	=67	=67	=67	=67
-0D	-san-	[0f	vos-	0d]	.	1.a	-san-
+0D	-san-	[0f	.	0d]	.	1.a	-san-
 .	.	.	.	.	.	2g/	.
 =68	=68	=68	=68	=68	=68	=68	=68
 1.F	.	0f]	.	0c	-na,	1.a	.
 2G\	.	.	.	.	.	2b\	.
 =69	=69	=69-	=69	=69	=69	=69	=69
-1A	.	0f	-tre	0r	.	1cc	.
+1A	.	0f	-na,	0r	.	1cc	.
 1B	.	.	.	.	.	1dd	.
 =70	=70	=70	=70	=70	=70	=70	=70
 !	!	!LO:N:vis=0	!	!	!	!	!
-1.c	-na,	[y0e	con,	1r	.	1g	-na,
+1.c	-na,	[y0e	.	1r	.	1g	-na,
 .	.	.	.	[1c	o-	[1cc	o-
 2B\	.	.	.	.	.	.	.
 =71	=71	=71-	=71	=71	=71	=71	=71
@@ -555,17 +554,17 @@
 .	.	.	.	.	.	4a/	.
 =74	=74	=74	=74	=74	=74	=74	=74
 !	!	!LO:N:vis=0	!	!	!	!	!
-[0G	-na,	[y0g	Plu-	0g	-na	0b	-na,
+[0G	-na,	[y0g	o	0g	-na	0b	-na,
 =75	=75	=75-	=75	=75	=75	=75	=75
 0G_	.	0g]yy	.	1r	.	1g	o-
 .	.	.	.	1G	o-	[1b	-san-
 =76	=76	=76	=76	=76	=76	=76	=76
-0G]	.	0g	-mez	1.B	-san-	2b\]	.
+0G]	.	0g	-san-	1.B	-san-	2b\]	.
 .	.	.	.	.	.	2cc\	.
 .	.	.	.	.	.	[1dd	.
 .	.	.	.	2c\	.	.	.
 =77	=77	=77-	=77	=77	=77	=77	=77
-[0D	o-	[0f	vos-	1.d	.	2dd\]	.
+[0D	o-	[0f	.	1.d	.	2dd\]	.
 .	.	.	.	.	.	2cc\	.
 .	.	.	.	.	.	[1a	.
 .	.	.	.	2c\	.	.	.
@@ -575,10 +574,10 @@
 .	.	.	.	.	.	2f/	.
 .	.	.	.	.	.	2e/	.
 =79	=79	=79-	=79	=79	=79	=79	=79
-0BB-	-san-	0f	-tre	0B-i	-na	0d	-na
+0BB-	-san-	0f	-na	0B-i	-na	0d	-na
 =80	=80	=80	=80	=80	=80	=80	=80
 !	!	!LO:N:vis=0	!	!	!	!	!
-[0C	-na	[y0e	con,	1G	in	1r	.
+[0C	-na	[y0e	.	1G	in	1r	.
 .	.	.	.	1A	ex-	1c	in
 =81	=81	=81-	=81	=81	=81	=81	=81
 0C_	.	0e]yy	.	1G	-cel-	1g	.
@@ -594,7 +593,7 @@
 .	.	.	.	[1c	in	1a	.
 =84	=84	=84	=84	=84	=84	=84	=84
 !	!	!LO:N:vis=0	!	!	!	!	!
-1.c	in	[y0e	Il	2c\]	.	1g	-sis,
+1.c	in	[y0e	in	2c\]	.	1g	-sis,
 .	.	.	.	2d\	.	.	.
 .	.	.	.	1e	.	[1cc	in
 2B\	.	.	.	.	.	.	.
@@ -602,11 +601,11 @@
 1A	.	0e]yy	.	1c	ex-	1cc]	.
 1G	ex-	.	.	[1g	-cel-	1b	ex-
 =86	=86	=86	=86	=86	=86	=86	=86
-1.c	-cel-	0e	en	1g]	.	1g	-cel-
+1.c	-cel-	0e	ex-	1g]	.	1g	-cel-
 .	.	.	.	1c	.	1a	.
 2B\	.	.	.	.	.	.	.
 =87	=87	=87-	=87	=87	=87	=87	=87
-0G	-sis,	[0d	est	1d	.	2.b\	.
+0G	-sis,	[0d	.	1d	.	2.b\	.
 .	.	.	.	.	.	4cc\	.
 .	.	.	.	1B	.	2.dd\	.
 .	.	.	.	.	.	4ee\	.
@@ -617,7 +616,7 @@
 .	.	.	.	.	.	4cc\	.
 .	.	.	.	.	.	[2dd\	.
 =89	=89	=89-	=89	=89	=89	=89	=89
-0G	-cel-	0d	say-	0G	.	4dd\]	.
+0G	-cel-	0d	-cel-	0G	.	4dd\]	.
 .	.	.	.	.	.	4cc\	.
 .	.	.	.	.	.	4b\	.
 .	.	.	.	.	.	4a/	.
@@ -625,7 +624,7 @@
 =90	=90	=90	=90	=90	=90	=90	=90
 *	*	*rscale:1	*	*	*	*	*
 *	*	*	*	*^	*	*	*
-0Cl	-sis.	0cl	-son.	0cl\	0gl/	-sis.	0ccl	-sis.
+0Cl	-sis.	0cl	-sis.	0cl\	0gl/	-sis.	0ccl	-sis.
 *	*	*	*	*v	*v	*	*	*
 !!LO:TX:rj:i:t=fine
 !!LO:LB:i:g=z

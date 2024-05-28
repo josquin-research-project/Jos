@@ -1,15 +1,15 @@
-!!!!SEGMENT: Jos/Jos0602d-Missa_Lhomme_arme_sexti_toni-Sanctus.krn							
-!!!COM: Josquin des Prez							
-!!!CDT: ~1450-1521/08/27							
-!!!OPR: Missa L'homme arm&eacute; sexti toni							
-!!!ONM: 4							
-!!!OTL: Sanctus							
-!!!AGN: Mass; Sanctus							
-!!!SCT: NJE 6.2							
-!!!SCA: New Josquin Edition 6.2							
-!!!jrpid: Jos0602d							
-!!!voices: 4							
-!!!voices-OPR: 4(-6)							
+!!!!SEGMENT: Jos/Jos0602d-Missa_Lhomme_arme_sexti_toni-Sanctus.krn
+!!!COM: Josquin des Prez
+!!!CDT: ~1450-1521/08/27
+!!!OPR: Missa L'homme arm&eacute; sexti toni
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: NJE 6.2
+!!!SCA: New Josquin Edition 6.2
+!!!jrpid: Jos0602d
+!!!voices: 4
+!!!voices-OPR: 4(-6)
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -29,8 +29,8 @@
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!!section: Sanctus							
-!!!OMD: Sanctus							
+!!section: Sanctus
+!!!OMD: Sanctus
 !LO:TX:Y=30:X=-50:t=[B add E-flat below staff to key sig.]	!	!	!	!	!	!	!
 !	!	!LO:TX:Z=7:t=Duo Seraphim clamabant alter ad alterum (T-->A canon at the unison)	!	!	!	!	!
 0FF	San-	0.r	.	0.r	.	[0.f	San-
@@ -149,15 +149,15 @@
 .	.	.	.	.	.	2e/	.
 =19	=19	=19	=19	=19	=19	=19	=19
 0.FFl	-oth.	0.Al	-oth.	0.Fl	-oth.	0.fl	-oth.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =20||	=20||	=20||	=20||	=20||	=20||	=20||	=20||
 *>B	*	*>B	*	*>B	*	*>B	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Pleni sunt celi							
-!!section: Pleni sunt celi							
+!!!OMD: Pleni sunt celi
+!!section: Pleni sunt celi
 0r	.	0r	.	0r	.	1.g	Ple-
 .	.	.	.	.	.	4f/	.
 .	.	.	.	.	.	4e/	.
@@ -257,15 +257,15 @@
 .	.	.	.	2Bni\	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
 0r	.	0r	.	0cl	-ra.	0cl	-ra.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =39||	=39||	=39||	=39||	=39||	=39||	=39||	=39||
 *>C	*	*>C	*	*>C	*	*>C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Gloria tua							
-!!section: Gloria tua							
+!!!OMD: Gloria tua
+!!section: Gloria tua
 !	!	!LO:TX:Z=7:t=Music of the Pleni, down a 5th	!	!	!	!	!
 0r	.	1.c	Glo-	0r	.	0r	.
 .	.	4B-\	.	.	.	.	.
@@ -366,15 +366,15 @@
 2E\	.	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57
 0Fl	-a.	0Fl	-a.	0r	.	0r	.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =58||	=58||	=58||	=58||	=58||	=58||	=58||	=58||
 *>D	*	*>D	*	*>D	*	*>D	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *met(O|)	*	*met(O|)	*	*met(O|)	*	*met(O|)	*
-!!!OMD: Osanna							
-!!section: Osanna							
+!!!OMD: Osanna
+!!section: Osanna
 !	!	!LO:TX:Z=6:t=Canon at the lower 5th	!	!	!	!	!
 0.r	.	0C	O-	0.r	.	1.e	O-
 .	.	.	.	.	.	2f/	.
@@ -468,7 +468,7 @@
 =70	=70	=70	=70	=70	=70	=70	=70
 1G	-cel-	1G	-sis,	2d\]	.	1b-	.
 .	.	.	.	2.e\	.	.	.
-2E\		1r	.	.	.	2g/	.
+2E\	.	1r	.	.	.	2g/	.
 .	.	.	.	4d\	.	.	.
 2F\	.	.	.	1c	.	1a	.
 1D	.	1F	o-	.	.	.	.
@@ -497,16 +497,16 @@
 .	.	.	.	.	.	2e/	.
 =75	=75	=75	=75	=75	=75	=75	=75
 0.FFl	-sis.	0.C]	.	0.Fl	-sis.	0.fl	-sis.
-!!LO:LB:i:g=z							
-!!LO:TX:rj:i:t=fine							
+!!LO:LB:i:g=z
+!!LO:TX:rj:i:t=fine
 =76||	=76||	=76||	=76||	=76||	=76||	=76||	=76||
 *>E	*	*>E	*	*>E	*	*>E	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Benedictus							
-!!section: Benedictus							
+!!!OMD: Benedictus
+!!section: Benedictus
 0r	.	0r	.	0r	.	1.c	Be-
 .	.	.	.	.	.	2B- 2d	.
 =77	=77	=77	=77	=77	=77	=77	=77
@@ -544,15 +544,15 @@
 .	.	.	.	.	.	2e/	.
 =84	=84	=84	=84	=84	=84	=84	=84
 0r	.	0Fl	-tus.	0r	.	0fl	-tus.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =85||	=85||	=85||	=85||	=85||	=85||	=85||	=85||
 *>F	*	*>F	*	*>F	*	*>F	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Qui venit							
-!!section: Qui venit							
+!!!OMD: Qui venit
+!!section: Qui venit
 1.F	Qui	0r	.	0F	Qui	0r	.
 4E\	.	.	.	.	.	.	.
 4D\	.	.	.	.	.	.	.
@@ -595,7 +595,7 @@
 .	.	.	.	2F/	.	.	.
 =93	=93	=93	=93	=93	=93	=93	=93
 0F]	.	0r	.	0cl	-nit.	0r	.
-!!LO:LB:i:g=z							
+!!LO:LB:i:g=z
 =94||	=94||	=94||	=94||	=94||	=94||	=94||	=94||
 *>G	*	*>G	*	*>G	*	*>G	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
@@ -603,8 +603,8 @@
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !	!	!	!	!	!	!LO:TX:Z=6:t=Same music as the Benedictus	!
-!!!OMD: In nomine							
-!!section: In nomine							
+!!!OMD: In nomine
+!!section: In nomine
 0r	.	0r	.	0r	.	1.c	In
 .	.	.	.	.	.	2B- 2d/	.
 =96	=96	=96	=96	=96	=96	=96	=96
@@ -642,16 +642,16 @@
 .	.	.	.	.	.	2e/	-mi-
 =102	=102	=102	=102	=102	=102	=102	=102
 0r	.	0Fl	-ni.	0r	.	0fl	-ni.
-!!LO:TX:i:Y=40:rj:t=Osanna ut supra							
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra
 =||	=||	=||	=||	=||	=||	=||	=||
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation							
-!!!RDF**kern: i=editorial accidental							
-!!!ENC: Jesse Rodin; 2011/09/04							
-!!!END: 2011/09/04/							
-!!!SMS: Petrucci 1502							
-!!!EED: Jesse Rodin							
-!!!EEV: 2020/09/15/							
-!!attribution-level@Jos: 1 (secure, core group [checkmark])							
-!!!ONB: Translated from MusicXML and edited on 2011/10/03/ by Craig Sapp							
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,150Q16z18							
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Jesse Rodin; 2011/09/04
+!!!END: 2011/09/04/
+!!!SMS: Petrucci 1502
+!!!EED: Jesse Rodin
+!!!EEV: 2020/09/15/
+!!attribution-level@Jos: 1 (secure, core group [checkmark])
+!!!ONB: Translated from MusicXML and edited on 2011/10/03/ by Craig Sapp
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,150Q16z18

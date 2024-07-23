@@ -725,7 +725,7 @@
 0.r	.	0.r	.	4F/]	.	0.r	.	1F	-ta,	0.r	.
 .	.	.	.	4G/	.	.	.	.	.	.	.
 .	.	.	.	2A/	.	.	.	.	.	.	.
-.	.	.	.	2B\	.	.	.	2.G/	mun-	.	.
+.	.	.	.	2B\-i	.	.	.	2.G/	mun-	.	.
 .	.	.	.	1G	-di,	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4A/	.	.	.
 .	.	.	.	.	.	.	.	2B\	.	.	.
@@ -1421,4 +1421,4 @@
 !!!EEV: 2013/10/25/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/09/20/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,85,100z18l2550t200c122
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v95,95,95,95,95,150c110Q16z18

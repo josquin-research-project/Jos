@@ -17,7 +17,6 @@
 *>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:	*F:
 *M4/4	*M4/4	*M4/4	*M4/4
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 !!section: Et exultavit
@@ -527,7 +526,6 @@
 *k[b-e-]	*k[b-]	*k[b-]	*k[b-]
 *M4/4	*M4/4	*M4/4	*M4/4
 *ZZY	*ZZY	*ZZY	*ZZY
-*B-:	*	*	*
 !!section: Fecit potentiam
 !!!OMD: Fecit potentiam
 0GG	1.G	1.G	0r
@@ -773,7 +771,6 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M4/4	*M4/4	*M4/4	*M4/4
 *ZZY	*ZZY	*ZZY	*ZZY
-*F:	*	*	*
 !!section: Exurientes
 !!!OMD: Exurientes
 2.GG	0G	0r	0r

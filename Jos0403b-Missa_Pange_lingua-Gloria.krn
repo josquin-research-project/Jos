@@ -112,10 +112,10 @@
 2r	.	.	.	2r	.	2r	.
 2C/	Lau-	.	.	2c\	Lau-	2g/	be-
 2F\	-da-	1r	.	2A/	-da-	2a/	-ne-
-2E\	-mus	.	.	2B\	-mus	2g/	-ci-
+2E\	-mus	.	.	2B\	-mus	2g/	-i-
 =15	=15	=15	=15	=15	=15	=15	=15
-0C	te,	2r	.	1c	te,	2e/	-mus
-.	.	2E/	be-	.	.	2.g/	.
+0C	te,	2r	.	1c	te,	2e/	-ci-
+.	.	2E/	be-	.	.	2.g/	-mus
 .	.	2E/	-ne-	2r	.	.	.
 .	.	.	.	.	.	4f/	.
 .	.	2E/	-di-	2g\	be-	2e/	.
@@ -159,10 +159,10 @@
 2E\	-ri-	.	.	.	.	.	.
 .	.	.	.	4f\	.	4dd\	.
 2E\	-fi-	.	.	2e\	.	1cc	-ca-
-2F\	-ca-	1r	.	1d	-te,	.	.
+2F\	-ca-	1r	.	1d	.	.	.
 2G\	-mus	.	.	.	.	2b\	-mus
 =21	=21	=21	=21	=21	=21	=21	=21
-0C	te.	0.r	.	0c	.	1cc	te.
+0C	te.	0.r	.	0c	-te,	1cc	te.
 .	.	.	.	.	.	2r	.
 .	.	.	.	.	.	2cc\	Gra-
 1r	.	.	.	2r	.	2dd\	-ti-
@@ -290,8 +290,8 @@
 1r	.	1d	-ni-	1r	.	1f	-ni-
 2r	.	1c	-te,	2r	.	1e	-te,
 2C/	Je-	.	.	2e\	Je-	.	.
-2D\	.	1r	.	2f\	-su	1r	.
-2E\	-su	.	.	[2e\	Chri-	.	.
+2D\	-su	1r	.	2f\	-su	1r	.
+2E\	.	.	.	[2e\	Chri-	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
 1F	Chri-	2r	.	4e\]	.	2r	.
 .	.	.	.	4c\	.	.	.
@@ -311,15 +311,15 @@
 =40	=40	=40	=40	=40	=40	=40	=40
 1A	a-	2c\	-us	2e\	-us	1cc	de-
 .	.	2A/	a-	2c\	a-	.	.
-2.G\	-gnus	1B	-gnus	2d\	.	2b\	-us,
-.	.	.	.	2e\	-gnus	2g/	a-
+2.G\	-gnus	1B	-gnus	2d\	-gnus	2b\	-us,
+.	.	.	.	2e\	.	2g/	a-
 4F\	.	.	.	.	.	.	.
 1D	.	1d	de-	1f	de-	2a/	-gnus
 .	.	.	.	.	.	2b\	.
 =41	=41	=41	=41	=41	=41	=41	=41
-1A	de-	2c\	-i	2e\	-I,	1cc	de-
+1A	de-	2c\	-i	2e\	-i,	1cc	de-
 .	.	2A/	fi-	2c\	fi-	.	.
-1G	-I,	2B\	-li-	2d\	-li-	1b	-i,
+1G	-i,	2B\	-li-	2d\	-li-	1b	-i,
 .	.	2G/	-us	2e\	-us	.	.
 1r	.	1d	pa-	1f	pa-	1r	.
 =42	=42	=42	=42	=42	=42	=42	=42
@@ -339,7 +339,7 @@
 .	.	4B\	.	.	.	.	.
 .	.	2A/	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44
-0.El	-tris.	0.Gl	-tris.	0.e]	.	0.bl	-tris.
+0.El	-tris.	0.Gl	-tris.	0.el]	.	0.bl	-tris.
 !!LO:LB:i:g=z
 =45||	=45||	=45||	=45||	=45||	=45||	=45||	=45||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B

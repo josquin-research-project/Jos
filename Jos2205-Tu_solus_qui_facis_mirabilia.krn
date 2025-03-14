@@ -344,10 +344,10 @@
 =101	=101	=101	=101	=101	=101	=101	=101
 1F	-a	0A	-a	1c	-a	0a	-a
 1D	.	.	.	1d	.	.	.
-1r	.	1d	.	1r	.	1r	.
+1r	.	1d	si-	1r	.	1r	.
 =102	=102	=102	=102	=102	=102	=102	=102
-1F	si-	0c	si-	1A	si-	1a	si-
-1F	-sta-	.	-sta-	1A	-sta-	1a	-sta-
+1F	si-	0c	-sta-	1A	si-	1a	si-
+1F	-sta-	.	.	1A	-sta-	1a	-sta-
 1F	-mus	1A	-mus	1A	-mus	1cc	-mus
 =103	=103	=103	=103	=103	=103	=103	=103
 0BB-	cum	0B-	cum	0f	cum	0b-	cum

@@ -25,9 +25,9 @@
 !!!OMD: Et in terra pax
 !	!	!LO:TX:Z=6:t=T quotes Okeghem song T	!	!	!	!	!
 *MM260	*	*MM260	*	*MM260	*	*MM260	*
-2GG/	Et	0G	Et	2.d\	Et	2g/	Et
-2GG/	in	.	.	.	.	2g/	in
-.	.	.	.	4d\	in	.	.
+2.GG/	Et	0G	Et	2.d\	Et	2g./	Et
+.	.	.	.	.	.	.	.
+4GG/	in	.	.	4d\	in	4g/	in
 2GG/	ter-	.	.	2d\	ter-	2g/	ter-
 2GG/	-ra	.	.	2d\	-ra	2g/	-ra
 =2	=2	=2	=2	=2	=2	=2	=2
@@ -218,8 +218,9 @@
 2r	.	.	.	.	.	1a	sanc-
 2F\	Tu	.	.	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37
-2G\	so-	0E	so-	2r	.	1g	-tus.
-2A\	-lus	.	.	1g	Tu	.	.
+2G.\	so-	0E	so-	2r	.	1g	-tus.
+.	.	.	.	1g	Tu	.	.
+4A\	-lus	.	.	.	.	.	.
 2B-\	do-	.	.	.	.	1r	.
 2c\	-mi-	.	.	2g\	so-	.	.
 =38	=38	=38	=38	=38	=38	=38	=38
@@ -259,11 +260,10 @@
 =44	=44	=44	=44	=44	=44	=44	=44
 2E\-i	pa-	2G/]	.	2e\-i	-i	4b-\]	.
 .	.	.	.	.	.	4a/	-tris.
-2G\	-tris.	2B-\	-tris.	2.d\	pa-	2.g/	A-
+2G\	-tris.	2B-\	-tris.	2.d\	pa-	1g/	A-
 1D	A-	1A	A-	.	.	.	.
-.	.	.	.	4c\	.	4f#i/	.
-.	.	.	.	2A/	-tris.	4f#i/	.
-.	.	.	.	.	.	4e/	.
+.	.	.	.	4c\	.	.	.
+.	.	.	.	2A/	-tris.	2f#i/	.
 =45	=45	=45	=45	=45	=45	=45	=45
 [0GGl	-men.	[0Gl	-men,	4B-\	A-	[0gl	-men.
 .	.	.	.	4A/	.	.	.
@@ -272,7 +272,7 @@
 .	.	.	.	2E-i/	.	.	.
 .	.	.	.	2D/	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46
-0GG]	.	0G]	.	0dl	-men.	0g]	.
+0GG]	.	0G]	.	0Dl 0dl	-men.	0g]	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation

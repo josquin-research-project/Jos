@@ -1,7 +1,7 @@
 !!!!SEGMENT: Jos/Jos2602-Benedicta_sit_sancta_trinitas--Regensburg_76.krn
 !!!COA: Josquin des Prez
 !!!CDT: ~1450-1521/08/27
-!!!OTL: Benedicta sit sancta trinitas (Regensburg 76)
+!!!OTL: Benedicta sit sancta trinitas
 !!!AGN: Motet
 !!!SCT: NJE 26.2
 !!!SCA: New Josquin Edition 26.2
@@ -10,9 +10,9 @@
 **kern	**kern	**kern	**kern
 *part4	*part3	*part2	*part1
 *staff4	*staff3	*staff2	*staff1
-*Ivox	*	*	*
-*I"Bassus	*	*	*
-*I'B	*	*	*
+*Ivox	*Ivox*	*Ivox	*Ivox
+*I"Bassus	*I"Tenor	*I"Altus	*I"Superius
+*I'B	*I'T	*I'A	*I'S
 *>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
 *>A	*>A	*>A	*>A
 *clefF4	*clefGv2	*clefGv2	*clefGv2

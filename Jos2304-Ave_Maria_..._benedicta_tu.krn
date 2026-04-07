@@ -361,7 +361,7 @@
 =64	=64	=64	=64	=64	=64	=64	=64
 4G]	.	4B-	.	2.g	nos-	4dd]	.
 4A	.	4c	.	.	.	4cc	.
-!LO:TX:Z=6:t=Sources&colon; g semibreve (in place of b-flat g)	!	!	!	!	!	!	!
+!LO:TX:Z=8:t=Sources&colon; g semibreve (in place of <i>bb g</i>)	!	!	!	!	!	!	!
 2B-	.	1d	.	.	.	4b-	.
 .	.	.	.	4f	.	4a	.
 2G	.	.	.	2g	.	2b-	.
@@ -382,7 +382,7 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC: Jesse Rodin; Victoria Chang 2011/05/21
+!!!ENC: Jesse Rodin
 !!!END: 2011/05/21/
 !!!SMS: Petrucci, Motetti C (1504) - Josquin
 !!!SMS: BolC R142 - Brumel [fourth lower]

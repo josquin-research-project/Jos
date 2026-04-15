@@ -305,10 +305,10 @@
 =55	=55	=55	=55	=55	=55	=55	=55
 0G	-ve-	1.d	-ve-	1.g	re-	1.b-	re-
 .	.	2c	.	2f	.	2a	.
-1G	-runt	1B-	-runt	1d	-gem	1g	.
+1G	-runt	1B-	-runt	1d	.	1g	.
 =56	=56	=56	=56	=56	=56	=56	=56
-1D	re-	1A	re-	1d	re-	1f	.
-1E-	-gem	1G	-gem	1g	.	1.b-	.
+1D	re-	1A	re-	1d	-gem	1f	.
+1E-	-gem	1G	-gem	1g	re-	1.b-	.
 [1F	re-	[1c	re-	[1f	.	.	.
 .	.	.	.	.	.	2a	.
 =57	=57	=57	=57	=57	=57	=57	=57

@@ -845,13 +845,13 @@
 !!section: Agnus dei III
 !	!	!LO:TX:Z=8:t=Minim canon at the unison (B1/B2)	!	!	!	!	!	!LO:TX:Z=8:t=Minim canon at the unison (A1/A2)	!	!LO:TX:Z=8:t=Cantus firmus in superius and tenor	!
 !	!	!	!	!LO:N:vis=0	!	!	!	!	!	!	!
-!	!	!	!	!	!	!	!	!	!	!LO:N:vis=0	!
+!	!	!	!	!	!	!	!	!	!	!	!
 1E	A-	2r	.	[y0E	A-	0r	.	0r	.	0r	.
 .	.	1E	A-	.	.	.	.	.	.	.	.
 2G\	.	.	.	.	.	.	.	.	.	.	.
 2E\	-gnus	2G\	.	.	.	.	.	.	.	.	.
 =132	=132	=132	=132	=132-	=132	=132	=132	=132	=132	=132-	=132
-2.G\	de-	2E\	-gnus	0E]yy	.	0r	.	0r	.	0ryy	.
+2.G\	de-	2E\	-gnus	0E]yy	.	0r	.	0r	.	0r	.
 .	.	2.G\	de-	.	.	.	.	.	.	.	.
 4A\	.	.	.	.	.	.	.	.	.	.	.
 2B\	.	.	.	.	.	.	.	.	.	.	.

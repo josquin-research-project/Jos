@@ -1,25 +1,33 @@
-!!!!SEGMENT: Jos/Jos0402c-Missa_Gaudeamus-Credo.krn
-!!!COM: Josquin des Prez
-!!!CDT: ~1450-1521/08/27
-!!!COA: Okeghem
-!!!OPR: Missa Gaudeamus
-!!!ONM: 3
-!!!OTL: Credo
-!!!AGN: Mass; Credo
-!!!SCT: NJE 4.2
-!!!SCA: New Josquin Edition 4.2
-!!!jrpid: Jos0402c
-!!!voices: 4
-!!!voices-OPR: 4
+!!!!SEGMENT: Jos/Jos0402c-Missa_Gaudeamus-Credo.krn							
+!!!COM: Josquin des Prez							
+!!!CDT: ~1450-1521/08/27							
+!!!COA: Okeghem							
+!!!OPR: Missa Gaudeamus							
+!!!ONM: 3							
+!!!OTL: Credo							
+!!!AGN: Mass; Credo							
+!!!SCT: NJE 4.2							
+!!!SCA: New Josquin Edition 4.2							
+!!!jrpid: Jos0402c							
+!!!voices: 4							
+!!!voices-OPR: 4							
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
-*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
+*I'B	*	*I'T	*	*I'A	*	*I'S	*
+*>Credo[A]	*	*>Credo[A]	*	*>Credo[A]	*	*>Credo[A]	*
+*>Incarnatus[B]	*	*>Incarnatus[B]	*	*>Incarnatus[B]	*	*>Incarnatus[B]	*
+*>Spiritum[C]	*	*>Spiritum[C]	*	*>Spiritum[C]	*	*>Spiritum[C]	*
+*>Sanctam[D]	*	*>Sanctam[D]	*	*>Sanctam[D]	*	*>Sanctam[D]	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
-*a:	*	*a:	*	*a:	*	*a:	*
-*	*	*	*	*	*	*	*
-=1	=1	=1	=1	=1	=1	=1	=1
+*>A	*	*>A	*	*>A	*	*>A	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!!section: Patrem							
+!!!OMD: Patrem							
 !LO:TX:b:t=O	!	!LO:TX:b:t=O	!	!LO:TX:b:t=O	!	!LO:TX:b:t=O	!
 2.G	pa-	0G	pa-	1r	.	0.r	.
 4A	.	.	.	.	.	.	.
@@ -102,7 +110,7 @@
 .	.	.	.	1r	.	2e	.
 2A	.	.	.	.	.	1a	.
 1B	.	1d	.	1G	vi-	.	.
-.	.	.	.	.	.	2g#	.
+.	.	.	.	.	.	2g	.
 =12	=12	=12	=12	=12	=12	=12	=12
 0.A	-re,	[0.e	-re,	1.c	.	1a	-re,
 .	.	.	.	.	.	0cc	.
@@ -574,6 +582,9 @@
 1ryy	.	.	.	1ryy	.	1ryy	.
 1ryy	.	.	.	1ryy	.	1ryy	.
 =65||	=65||	=65||	=65||	=65||	=65||	=65||	=65||
+*>B	*	*>B	*	*>B	*	*>B	*
+!!section: Et incarnatus est							
+!!!OMD:  Et incarnatus est							
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
 !LO:TX:a:t=Bassus	!	!	!	!LO:TX:b:t=Altus	!	!LO:TX:b:t=Superius	!
@@ -1074,6 +1085,9 @@
 2ryy	.	.	.	2ryy	.	2ryy	.
 1ryy	.	.	.	1ryy	.	1ryy	.
 =161||	=161||	=161||	=161||	=161||	=161||	=161||	=161||
+*>C	*	*>C	*	*>C	*	*>C	*
+!!section: Et in spiritum							
+!!!OMD: Et in spiritum							
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 *met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
 1E	Et	[0c	Et	0r	.	1g	Et
@@ -1480,6 +1494,11 @@
 .	.	.	.	.	.	2ryy	.
 .	.	.	.	.	.	1ryy	.
 =245||	=245||	=245||	=245||	=245||	=245||	=245||	=245||
+*>D	*	*>D	*	*>D	*	*>D	*
+!!section: Et unam sanctam							
+!!!OMD: Et unam sanctam							
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met(O)	*	*met(O)	*	*met(O)	*	*met(O)	*
 !LO:TX:b:t=O	!	!LO:TX:b:t=O	!	!LO:TX:b:t=O	!	!LO:TX:b:t=O	!
 0.r	.	0.r	.	0A	Et	1.e	Et
 .	.	.	.	.	.	2f	.
@@ -1690,89 +1709,89 @@
 *M9/2	*	*M9/2	*	*	*	*M9/2	*
 *met(3)	*	*met(3)	*	*	*	*met(3)	*
 3%2AA	rum.	3%2c	-rum.	1A	-rum...	3%2a	-rum.
-3A	Et	3c	Et	.	.	3cc	Et
-3G	vi-	3%2d	vi-	1r	.	3b	vi-
-3.F	-tam	.	.	.	.	3%2a	-tam
-.	.	3c	-tam	.	.	.	.
-6E	.	.	.	.	.	.	.
-3D	ven-	3d	ven-	1r	.	3f	ven-
-3%2E	-tu-	3B	.	.	.	3.g	-tu-
-.	.	[3c	-tu-	.	.	.	.
-.	.	.	.	.	.	6f	.
+3A\	Et	3c\	Et	.	.	3cc\	Et
+3G\	vi-	3%2d	vi-	1r	.	3b\	vi-
+3.F\	-tam	.	.	.	.	3%2a	-tam
+.	.	3c\	-tam	.	.	.	.
+6E\	.	.	.	.	.	.	.
+3D\	ven-	3d\	ven-	1r	.	3f/	ven-
+3%2E	-tu-	3B\	.	.	.	3.g/	-tu-
+.	.	[3c\	-tu-	.	.	.	.
+.	.	.	.	.	.	6f/	.
 =266	=266	=266	=266	=266	=266	=266	=266
 *	*	*	*	*M9/2	*	*	*
 *	*	*	*	*met(3)	*	*	*
-3%2AA	-ri	3c]	.	3.c	se-	6e	.
-.	.	.	.	.	.	6d	.
+3%2AA	-ri	3c\]	.	3.c\	se-	6e/	.
+.	.	.	.	.	.	6d/	.
 .	.	3%2A	-ri	.	.	3%2c	-ri
-.	.	.	.	6d	.	.	.
-3A	se-	.	.	6e	.	.	.
-.	.	.	.	6f	.	.	.
-3G	.	3B	se-	3g	.	3d	se-
-3.F	.	3c	.	3a	.	3.f	.
-.	.	3.d	.	3%2f	.	.	.
-6E	.	.	.	.	.	6g	.
-3D	.	.	.	.	.	3%2a	.
-.	.	6c	.	.	.	.	.
+.	.	.	.	6d\	.	.	.
+3A\	se-	.	.	6e\	.	.	.
+.	.	.	.	6f\	.	.	.
+3G\	.	3B\	se-	3g\	.	3d/	se-
+3.F\	.	3c\	.	3a\	.	3.f/	.
+.	.	3.d\	.	3%2f	.	.	.
+6E\	.	.	.	.	.	6g/	.
+3D\	.	.	.	.	.	3%2a	.
+.	.	6c\	.	.	.	.	.
 3%2E	-cu-	3%2B	-cu-	3%2e	-cu-	.	.
-.	.	.	.	.	.	3g#i	-cu-
+.	.	.	.	.	.	3g#i/	-cu-
 =267	=267	=267	=267	=267	=267	=267	=267
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-2AA	-li.	1A	-li.	1c	-li.	2a	-li.
-2A	A-	.	.	.	.	2cc	A-
-2G	.	2B	A-	2d	A-	2b	.
-[2F	.	[2c	.	2A	.	[2a	.
+2AA/	-li.	1A	-li.	1c	-li.	2a/	-li.
+2A\	A-	.	.	.	.	2cc\	A-
+2G\	.	2B\	A-	2d\	A-	2b\	.
+[2F\	.	[2c\	.	2A/	.	[2a/	.
 =268	=268	=268	=268	=268	=268	=268	=268
-2F]	.	2c]	.	1f	.	2a]	.
-4E	.	2d	.	.	.	4g	.
-4D	.	.	.	.	.	4f	.
-2E	.	2B	.	1e	.	2g	.
-2AA	-men,	2A	.	.	.	2a	.
+2F\]	.	2c\]	.	1f	.	2a/]	.
+4E\	.	2d\	.	.	.	4g/	.
+4D\	.	.	.	.	.	4f/	.
+2E\	.	2B\	.	1e	.	2g/	.
+2AA/	-men,	2A/	.	.	.	2a/	.
 =269	=269	=269	=269	=269	=269	=269	=269
-2r	.	2B	.	2d	.	2g	.
-2A	a-	2A	.	2c	.	2a	.
-2G	.	2B	.	2d	.	2d	-men,
-[2F	.	[2c	.	2A	.	[2a	a-
+2r	.	2B\	.	2d\	.	2g/	.
+2A\	a-	2A/	.	2c\	.	2a/	.
+2G\	.	2B\	.	2d\	.	2d/	-men,
+[2F\	.	[2c\	.	2A/	.	[2a/	a-
 =270	=270	=270	=270	=270	=270	=270	=270
-2F]	.	2c]	.	1f	.	2a]	.
-4E	.	2d	.	.	.	4g	.
-4D	.	.	.	.	.	4f	.
-1E	.	1B	-men,	1e	-men,	4g	.
-.	.	.	.	.	.	4f	.
-.	.	.	.	.	.	4e	.
-.	.	.	.	.	.	4d	.
+2F\]	.	2c\]	.	1f	.	2a/]	.
+4E\	.	2d\	.	.	.	4g/	.
+4D\	.	.	.	.	.	4f/	.
+1E	.	1B	-men,	1e	-men,	4g/	.
+.	.	.	.	.	.	4f/	.
+.	.	.	.	.	.	4e/	.
+.	.	.	.	.	.	4d/	.
 =271	=271	=271	=271	=271	=271	=271	=271
-1AA	-men,	1A	a-	2r	.	2c	.
-.	.	.	.	2.A	a-	2d	.
-1A	a-	1c	.	.	.	2e	.
-.	.	.	.	4B	.	.	.
-.	.	.	.	2c	.	2f	.
+1AA	-men,	1A	a-	2r	.	2c/	.
+.	.	.	.	2.A/	a-	2d/	.
+1A	a-	1c	.	.	.	2e/	.
+.	.	.	.	4B\	.	.	.
+.	.	.	.	2c\	.	2f/	.
 =272	=272	=272	=272	=272	=272	=272	=272
-1G	.	1B	.	2d	.	1g	.
-.	.	.	.	2B	.	.	.
-1F	.	1A	.	2c	.	[1a	.
-.	.	.	.	2d	.	.	.
+1G	.	1B	.	2d\	.	1g	.
+.	.	.	.	2B\	.	.	.
+1F	.	1A	.	2c\	.	[1a	.
+.	.	.	.	2d\	.	.	.
 =273	=273	=273	=273	=273	=273	=273	=273
-1E	.	1c	.	1e	.	2a]	.
-.	.	.	.	.	.	2g	.
-1D	.	1d	.	1f	.	2a	.
-.	.	.	.	.	.	[2b	.
+1E	.	1c	.	1e	.	2a/]	.
+.	.	.	.	.	.	2g/	.
+1D	.	1d	.	1f	.	2a/	.
+.	.	.	.	.	.	[2b\	.
 =274	=274	=274	=274	=274	=274	=274	=274
-0E	.	0B	.	[0el	-men.	2b]	.
+0E	.	0B	.	[0el	-men.	2b\]	.
 .	.	.	.	.	.	1a	.
 .	.	.	.	.	.	2g#i	.
 =275	=275	=275	=275	=275	=275	=275	=275
 0AAl	-men.	0Al	-men.	0e]	.	0al	-men.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
-!!!ENC: Jesse Rodin; Victoria Chang 2011/04/11
-!!!SMS: JenaU 32
-!!!END: 2011/04/11/
-!!!EED: Jesse Rodin
-!!!EEV: 2012/04/24/
-!!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB: Translated from MusicXML and edited on 2011/04/12/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,90,90,120c105z18l2700t130
+!!!RDF**kern: l=long note in original notation							
+!!!RDF**kern: i=editorial accidental							
+!!!ENC: Jesse Rodin; Victoria Chang 2011/04/11							
+!!!SMS: JenaU 32							
+!!!END: 2011/04/11/							
+!!!EED: Jesse Rodin							
+!!!EEV: 2012/04/24/							
+!!attribution-level@Jos: 1 (secure, core group [checkmark])							
+!!!ONB: Translated from MusicXML and edited on 2011/04/12/ by Craig Sapp							
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,90,90,120c105z18l2700t130							

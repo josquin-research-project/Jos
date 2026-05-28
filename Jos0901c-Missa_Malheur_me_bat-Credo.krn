@@ -15,12 +15,12 @@
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
 *I"Bassus	*	*I"Tenor	*	*I"Altus	*	*I"Superius	*
 *I'B	*	*I'T	*	*I'A	*	*I'S	*
-*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
-*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]	*>Patrem[A]
-*>Incarnatus[B]	*>Incarnatus[B]	*>Incarnatus[B]	*>Incarnatus[B]	*>Incarnatus[B]	*>Incarnatus[B]	*>Incarnatus[B]	*>Incarnatus[B]
-*>Sanctum[C]	*>Sanctum[C]	*>Sanctum[C]	*>Sanctum[C]	*>Sanctum[C]	*>Sanctum[C]	*>Sanctum[C]	*>Sanctum[C]
+*>[A,B,C]	*	*>[A,B,C]	*	*>[A,B,C]	*	*>[A,B,C]	*>[A,B,C]
+*>Patrem[A]	*	*>Patrem[A]	*	*>Patrem[A]	*	*>Patrem[A]	*>Patrem[A]
+*>Incarnatus[B]	*	*>Incarnatus[B]	*	*>Incarnatus[B]	*	*>Incarnatus[B]	*>Incarnatus[B]
+*>Sanctum[C]	*	*>Sanctum[C]	*	*>Sanctum[C]	*	*>Sanctum[C]	*>Sanctum[C]
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
-*>A	*>A	*>A	*>A	*>A	*>A	*>A	*>A
+*>A	*	*>A	*	*>A	*	*>A	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
@@ -31,7 +31,7 @@
 !!section: Patrem
 !!!OMD: Patrem
 !	!	!	!	!	!	!LO:N:vis=0	!
-!	!	!	!	!	!	!LO:TX:Z=6:t=S&colon; Song superius quoted in the superius; segmentation technique	!
+!	!	!	!	!	!	!LO:TX:Z=6:t=Song superius quoted in the superius; segmentation technique	!
 0r	.	0r	.	1.E	Pa-	0r	.
 .	.	.	.	2F/	.	.	.
 =2	=2	=2	=2	=2	=2	=2-	=2
@@ -548,7 +548,7 @@
 2B\	.	1G	-na-	0r	.	0r	.
 1G	.	.	.	.	.	.	.
 .	.	2.A/	.	.	.	.	.
-2F#i\	-tus	.	.	.	.	.	.
+2F\	-tus	.	.	.	.	.	.
 .	.	4G/	.	.	.	.	.
 =90	=90	=90	=90	=90	=90	=90	=90
 1G	est	4E/	.	1g	Et	0r	.
@@ -1277,4 +1277,4 @@
 !!!EEV: 2011/04/17/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,150Q16z18

@@ -31,7 +31,7 @@
 !!section: Patrem
 !!!OMD: Patrem
 !	!	!	!	!	!	!LO:N:vis=0	!
-!	!	!	!	!	!	!LO:TX:Z=6:t=Song superius quoted in the superius; segmentation technique	!
+!	!	!	!	!	!	!LO:TX:Z=6:t=S&colon; segmentation technique	!
 0r	.	0r	.	1.E	Pa-	0r	.
 .	.	.	.	2F/	.	.	.
 =2	=2	=2	=2	=2	=2	=2-	=2
@@ -527,6 +527,8 @@
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 !!section: Et incarnatus est
 !!!OMD: Et incarnatus est
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !	!	!	!	!	!	!LO:TX:Z=7:t=S&colon; segmentation technique	!
@@ -924,6 +926,8 @@
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 !!section: Et in spiritum sanctum
 !!!OMD: Et in spiritum sanctum
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 2r	.	1.c	Et	2A/	Et	0r	.
@@ -1274,7 +1278,7 @@
 !!!ENC: Jesse Rodin; Victoria Chang 2011/04/17
 !!!END: 2011/04/17/
 !!!EED: Jesse Rodin
-!!!EEV: 2011/04/17/
+!!!EEV: 2026/05/28/
 !!attribution-level@Jos: 1 (secure, core group [checkmark])
 !!!ONB: Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I100v85,90,85,150Q16z18

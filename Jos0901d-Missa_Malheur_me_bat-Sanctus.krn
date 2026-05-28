@@ -1,15 +1,15 @@
-!!!!SEGMENT: Jos/Jos0901d-Missa_Malheur_me_bat-Sanctus.krn
-!!!COM: Josquin des Prez
-!!!CDT: ~1450-1521/08/27
-!!!OPR: Missa Malheur me bat
-!!!ONM: 4
-!!!OTL: Sanctus
-!!!AGN: Mass; Sanctus
-!!!SCT: NJE 9.1
-!!!SCA: New Josquin Edition 9.1
-!!!jrpid: Jos0901d
-!!!voices: 4
-!!!voices-OPR: 4(-6)
+!!!!SEGMENT: Jos/Jos0901d-Missa_Malheur_me_bat-Sanctus.krn							
+!!!COM: Josquin des Prez							
+!!!CDT: ~1450-1521/08/27							
+!!!OPR: Missa Malheur me bat							
+!!!ONM: 4							
+!!!OTL: Sanctus							
+!!!AGN: Mass; Sanctus							
+!!!SCT: NJE 9.1							
+!!!SCA: New Josquin Edition 9.1							
+!!!jrpid: Jos0901d							
+!!!voices: 4							
+!!!voices-OPR: 4(-6)							
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*	*staff3	*	*staff2	*	*staff1	*
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -27,8 +27,8 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C)	*	*met(C)	*	*met(C)	*	*met(C)	*
-!!!OMD: Sanctus
-!!section: Sanctus
+!!!OMD: Sanctus							
+!!section: Sanctus							
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 !	!	!	!	!LO:TX:Z=8:t=C.f. in the altus	!	!	!
 0r	.	0E	Sanc-	0e	Sanc-	0r	.
@@ -39,7 +39,7 @@
 .	.	.	.	4B\	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3
 0r	.	1c	.	1A	.	0e	San-
-.	.	1c	-tus,	1A	-ctus,	.	.
+.	.	1c	-tus,	1A	-tus,	.	.
 =4	=4	=4	=4	=4	=4	=4	=4
 0r	.	1B	sanc-	2G/	sanc-	1b	.
 .	.	.	.	2.d\	.	.	.
@@ -54,12 +54,12 @@
 .	.	1A	-tus,	1c	.	1cc	san-
 =6	=6	=6	=6	=6	=6	=6	=6
 0r	.	1.G	sanc-	1d	.	1b	.
-.	.	.	.	1B	-ctus,	1g	.
+.	.	.	.	1B	-tus,	1g	.
 .	.	2E/	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7
 0r	.	1F	.	2A/	Sanc-	1a	.
 .	.	.	.	1c	.	.	.
-.	.	1F	-ctus,	.	.	1a	-ctus,
+.	.	1F	-tus,	.	.	1a	-tus,
 .	.	.	.	2d\	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8
 0r	.	2.E/	sanc-	2.e\	.	2.g/	sanc-
@@ -75,10 +75,10 @@
 =10	=10	=10	=10	=10	=10	=10	=10
 0r	.	2A/	.	2c\	.	2f/	.
 .	.	2E/	.	1B	.	1e	.
-.	.	1F	-ctus,	.	.	.	.
+.	.	1F	-tus,	.	.	.	.
 .	.	.	.	2A/	.	2d/	.
 =11	=11	=11	=11	=11	=11	=11	=11
-2.E\	Sanc-	2r	.	1B	-ctus,	1e	-ctus,
+2.E\	Sanc-	2r	.	1B	-tus,	1e	-tus,
 .	.	2.E/	sanc-	.	.	.	.
 4F\	.	.	.	.	.	.	.
 2G\	.	.	.	2r	.	1r	.
@@ -90,7 +90,7 @@
 2G\	.	.	.	2B\	.	.	.
 .	.	4F/	.	.	.	.	.
 1C	-tus,	2G/	.	1c	.	.	.
-.	.	2C/	-ctus,	.	.	.	.
+.	.	2C/	-tus,	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13
 0r	.	1c	sanc-	1A	.	2c/	.
 .	.	.	.	.	.	2cc\	.
@@ -101,16 +101,16 @@
 .	.	4d\	.	.	.	.	.
 .	.	1c	.	2F/	.	4f/	.
 .	.	.	.	.	.	4e/	.
-.	.	.	.	1G	.	1d	-ctus,
+.	.	.	.	1G	.	1d	-tus,
 .	.	2B\	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15
-2.E\	sanc-	2c\	.	1C	-ctus,	0g	sanc-
+2.E\	sanc-	2c\	.	1C	-tus,	0g	sanc-
 .	.	2e\	.	.	.	.	.
 4F\	.	.	.	.	.	.	.
 2G\	.	2d\	.	1r	.	.	.
-[2E\	.	[2e\	-ctus,	.	.	.	.
+[2E\	.	[2e\	-tus,	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16
-4E\]	.	1.e]	.	1C	sanc-	1g	-ctus,
+4E\]	.	1.e]	.	1C	sanc-	1g	-tus,
 4F\	.	.	.	.	.	.	.
 2G\	.	.	.	.	.	.	.
 1C	-tus,	.	.	2.G/	.	[1g	sanc-
@@ -118,12 +118,12 @@
 .	.	.	.	4A/	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17
 0r	.	2d\	.	2B\	.	1g]	.
-.	.	2e\	.	2E/	-ctus,	.	.
-.	.	2c\	.	2r	.	1g	-ctus,
+.	.	2e\	.	2E/	-tus,	.	.
+.	.	2c\	.	2r	.	1g	-tus,
 .	.	[2e\	.	2E/	sanc-	.	.
 =18	=18	=18	=18	=18	=18	=18	=18
 2.E\	sanc-	2e\]	.	2.G/	.	0g	sanc-
-.	.	2e\	-ctus,	.	.	.	.
+.	.	2e\	-tus,	.	.	.	.
 4F\	.	.	.	4A/	.	.	.
 2G\	.	2d\	sanc-	4B\	.	.	.
 .	.	.	.	4A/	.	.	.
@@ -146,7 +146,7 @@
 .	.	.	.	.	.	4a/	.
 .	.	2c\	.	.	.	[2a/	.
 =21	=21	=21	=21	=21	=21	=21	=21
-2r	.	1B	.	1E	-ctus,	4a/]	.
+2r	.	1B	.	1E	-tus,	4a/]	.
 .	.	.	.	.	.	4g/	.
 2E\	sanc-	.	.	.	.	4g/	.
 .	.	.	.	.	.	4f/	.
@@ -169,9 +169,9 @@
 .	.	4B\	.	.	.	2f/	.
 .	.	4A/	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24
-2r	.	1c	-ctus,	2C/	-ctus,	2g/	.
+2r	.	1c	-tus,	2C/	-tus,	2g/	.
 2E\	sanc-	.	.	1c	sanc-	2e/	.
-2F\	.	2r	.	.	.	1d	-ctus,
+2F\	.	2r	.	.	.	1d	-tus,
 2G\	.	2d\	sanc-	2B\	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25
 1C	-tus,	2.e\	.	2c\	.	2r	.
@@ -193,14 +193,14 @@
 .	.	.	.	.	.	4b\	.
 .	.	2d\	.	.	.	2a/	.
 =28	=28	=28	=28	=28	=28	=28	=28
-2r	.	2.e\	.	[0E	-ctus,	[0g	-ctus,
+2r	.	2.e\	.	[0E	-tus,	[0g	-tus,
 2.E\	do-	.	.	.	.	.	.
 .	.	4d\	.	.	.	.	.
 .	.	2c\	.	.	.	.	.
 4F\	.	.	.	.	.	.	.
 2G\	-mi-	2B\	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29
-2C/	-nus	2e\	-ctus,	0E_	.	1g]	.
+2C/	-nus	2e\	-tus,	0E_	.	1g]	.
 2.G\	de-	2E/	do-	.	.	.	.
 .	.	2.G/	.	.	.	1r	.
 4A\	.	.	.	.	.	.	.
@@ -399,15 +399,15 @@
 .	.	2d\	-ba-	.	-ba-	.	.
 =59	=59	=59	=59	=59	=59	=59	=59
 0El	-oth.	0el	-oth.	0Bl	-oth.	0gl	-oth.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =60||	=60||	=60||	=60||	=60||	=60||	=60||	=60||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!section: Pleni sunt celi
-!!!OMD: Pleni sunt celi
+!!section: Pleni sunt celi							
+!!!OMD: Pleni sunt celi							
 !	!	!	!	!LO:TX:Z=8:t=C.f. in the altus	!	!	!
 0r	.	0r	.	0e	Ple-	0g	Ple-
 =61	=61	=61	=61	=61	=61	=61	=61
@@ -749,15 +749,15 @@
 .	.	.	.	.	.	1G	.
 =119	=119	=119	=119	=119	=119	=119	=119
 0r	.	0r	.	0B]	-a.	0dl	-a.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =120||	=120||	=120||	=120||	=120||	=120||	=120||	=120||
 *>C	*>C	*>C	*>C	*>C	*>C	*>C	*>C
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Osanna
-!!section: Osanna
+!!!OMD: Osanna							
+!!section: Osanna							
 !	!	!	!	!LO:TX:Z=8:t=C.f. in the altus	!	!	!
 2.E\	O-	2.G/	O-	0e	O-	1g	O
 4F\	.	4A/	.	.	.	.	.
@@ -1165,16 +1165,16 @@
 2E\	.	.	.	.	.	.	.
 =175	=175	=175	=175	=175	=175	=175	=175
 0El	-sis.	0E]	.	0B]	.	0e]	.
-!!LO:LB:i:g=z
-!!LO:TX:rj:i:t=fine
+!!LO:LB:i:g=z							
+!!LO:TX:rj:i:t=fine							
 =176||	=176||	=176||	=176||	=176||	=176||	=176||	=176||
 *>D	*>D	*>D	*>D	*>D	*>D	*>D	*>D
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Benedictus
-!!section: Benedictus
+!!!OMD: Benedictus							
+!!section: Benedictus							
 0r	.	1E	Be-	0e	Be-	0r	.
 .	.	[1G	.	.	.	.	.
 =177	=177	=177	=177	=177	=177	=177	=177
@@ -1235,15 +1235,15 @@
 .	.	2F#i/	.	2A/	.	.	.
 =186	=186	=186	=186	=186	=186	=186	=186
 0r	.	0Gl	-tus.	0Bl	-tus.	0r	.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =187||	=187||	=187||	=187||	=187||	=187||	=187||	=187||
 *>E	*>E	*>E	*>E	*>E	*>E	*>E	*>E
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: Qui venit
-!!section: Qui venit
+!!!OMD: Qui venit							
+!!section: Qui venit							
 1D	Qui	0r	.	0d	Qui	0r	.
 1G	.	.	.	.	.	.	.
 =188	=188	=188	=188	=188	=188	=188	=188
@@ -1302,15 +1302,15 @@
 .	.	.	.	2G#i/	.	.	.
 =197	=197	=197	=197	=197	=197	=197	=197
 0AAl	nit.	0r	.	0Al	-nit.	0r	.
-!!LO:LB:i:g=z
+!!LO:LB:i:g=z							
 =198||	=198||	=198||	=198||	=198||	=198||	=198||	=198||
 *>F	*>F	*>F	*>F	*>F	*>F	*>F	*>F
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
-!!!OMD: In nomine
-!!section: In nomine
+!!!OMD: In nomine							
+!!section: In nomine							
 0r	.	1A	In	0r	.	0a	In
 .	.	[1c	no-	.	.	.	.
 =199	=199	=199	=199	=199	=199	=199	=199
@@ -1365,15 +1365,15 @@
 .	.	.	.	.	.	2d/	-mi-
 =208	=208	=208	=208	=208	=208	=208	=208
 0r	.	0El	-ni.	0r	.	0el	-ni.
-!!LO:TX:i:Y=40:rj:t=Osanna ut supra
+!!LO:TX:i:Y=40:rj:t=Osanna ut supra							
 =||	=||	=||	=||	=||	=||	=||	=||
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
-!!!ENC: Jesse Rodin; Victoria Chang 2011/05/08
-!!!END: 2011/05/08/
-!!!EED: Jesse Rodin
-!!!EEV: 2013/10/25/
-!!attribution-level@Jos: 1 (secure, core group [checkmark])
-!!!ONB: Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,90,90,120c122z18l2700t130
+!!!RDF**kern: l=long note in original notation							
+!!!RDF**kern: i=editorial accidental							
+!!!ENC: Jesse Rodin; Victoria Chang 2011/05/08							
+!!!END: 2011/05/08/							
+!!!EED: Jesse Rodin							
+!!!EEV: 2013/10/25/							
+!!attribution-level@Jos: 1 (secure, core group [checkmark])							
+!!!ONB: Translated from MusicXML and edited on 2011/09/19/ by Craig Sapp							
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v90,90,90,120c122z18l2700t130							

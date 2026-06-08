@@ -30,7 +30,7 @@
 !!!OMD: Agnus dei I
 !!section: Agnus dei I
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!	!	!	!	!LO:TX:Z=6:t=Tenor. De minimis non curat pretor [T omits all minims and semimiminims]	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:Z=6:t=Tenor. De minimis non curat pretor ("The magistrate does not bother with trifles" = omit minims and semiminims)	!	!	!	!	!	!	!
 !	!	!	!	!LO:N:vis=0	!	!	!	!	!	!	!
 0r	.	0r	.	[y0E\	A-	0r	.	0r	.	1e	A-
 .	.	.	.	.	.	.	.	.	.	2e/	-gnus
@@ -843,7 +843,7 @@
 !!primary-mensuration: met(C|)
 !!!OMD: Agnus dei III
 !!section: Agnus dei III
-!	!	!LO:TX:Z=8:t=Minim canon at the unison (B1/B2)	!	!	!	!	!	!LO:TX:Z=8:t=Minim canon at the unison (A1/A2)	!	!LO:TX:Z=8:t=Cantus firmus in superius and tenor	!
+!	!	!LO:TX:Z=8:t=Minim canon at the unison (B1/B2)	!	!	!	!	!	!LO:TX:Z=8:t=Minim canon at the unison (A1/A2)	!	!LO:TX:Z=8:t=Malcort's superius and tenor quoted in the corresponding voices	!
 !	!	!	!	!LO:N:vis=0	!	!	!	!	!	!	!
 !	!	!	!	!	!	!	!	!	!	!	!
 1E	A-	2r	.	[y0E	A-	0r	.	0r	.	0r	.
